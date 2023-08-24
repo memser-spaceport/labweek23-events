@@ -1,0 +1,47 @@
+{
+  "event_contact_name": "Joshua Bate",
+  "event_contact_email": "winstonmanuelvijay.amaljeyakumar@ideas2it.com",
+  "event_name": "DeSci Community Conference",
+  "host": "Molecule",
+  "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692884974604_856.png",
+  "co_host": [
+    {
+      "name": "DeSci Labs",
+      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692884590720_329.png"
+    }
+  ],
+  "description": "",
+  "tags": [
+    "Workshop"
+  ],
+  "start_date": "2023-11-13T06:00:00.000Z",
+  "end_date": "2023-11-14T14:00:00.000Z",
+  "access_type": "IN-HOUSE_REGISTRATION",
+  "access_option": "OPEN",
+  "format": "IN-PERSON",
+  "location": "TBD",
+  "seat_count": "",
+  "agenda": {
+    "session": []
+  },
+  "sponsors": [],
+  "is_featured": false,
+  "conference": "labweek-23",
+  "nft_ticketing": {
+    "host_wallet_address": "",
+    "verifier_wallet_address": "",
+    "custom_event_URL": "",
+    "pattern_colour": "",
+    "bg_colour": "",
+    "pattern": 1,
+    "email": true,
+    "full_name": true,
+    "wallet_address": true,
+    "additional_fields": {
+      "company": 0,
+      "job_title": 0,
+      "telegram": 0,
+      "twitter": 0
+    }
+  }
+}
