@@ -1,0 +1,45 @@
+{
+  "event_contact_name": "Jérémy Zaccherini, Genia Shipova",
+  "event_contact_email": "winstonmanuelvijay.amaljeyakumar@ideas2it.com",
+  "event_name": "Demystifying Blockchain Privacy: A Closer Look at Zero-Knowledge Proofs and Fully Homomorphic Encryption",
+  "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692885115076_794.webp",
+  "host": "Zama",
+  "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692885115076_794.webp",
+  "co_host": [],
+  "description": "Workshop about Zama's recently launched fhEVM, the only protocol based on fully homomorphic encryption (FHE) enabling both transparency and confidentiality on blockchain, followed by an afterwork.",
+  "tags": [
+    "Workshop",
+    "Social Event"
+  ],
+  "start_date": "2023-11-16T14:00:00.000Z",
+  "end_date": "2023-11-16T17:00:00.000Z",
+  "access_type": "IN-HOUSE_REGISTRATION",
+  "access_option": "OPEN",
+  "format": "IN-PERSON",
+  "location": "TBD",
+  "seat_count": "50-100",
+  "website_link": "https://lu.ma/zama-meetup-labweek23",
+  "agenda": {
+    "session": []
+  },
+  "sponsors": [],
+  "is_featured": false,
+  "conference": "labweek-23",
+  "nft_ticketing": {
+    "host_wallet_address": "",
+    "verifier_wallet_address": "",
+    "custom_event_URL": "",
+    "pattern_colour": "",
+    "bg_colour": "",
+    "pattern": 1,
+    "email": true,
+    "full_name": true,
+    "wallet_address": true,
+    "additional_fields": {
+      "company": 0,
+      "job_title": 0,
+      "telegram": 0,
+      "twitter": 0
+    }
+  }
+}
