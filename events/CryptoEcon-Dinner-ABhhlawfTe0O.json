@@ -1,0 +1,43 @@
+{
+  "event_contact_name": "Mike McCoy",
+  "event_contact_email": "winstonmanuelvijay.amaljeyakumar@ideas2it.com",
+  "event_name": "CryptoEcon Dinner",
+  "host": "CEL",
+  "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692884502790_605.png",
+  "co_host": [],
+  "description": "CryptoEconLab is a collective of economic research scientists unlocking crypto's economic challenges",
+  "tags": [
+    "Social Event"
+  ],
+  "start_date": "2023-11-12T15:00:00.000Z",
+  "end_date": "2023-11-12T19:00:00.000Z",
+  "access_type": "IN-HOUSE_REGISTRATION",
+  "access_option": "OPEN",
+  "format": "IN-PERSON",
+  "location": "TBD",
+  "seat_count": "1-50",
+  "website_link": "https://cryptoeconlab.io/",
+  "agenda": {
+    "session": []
+  },
+  "sponsors": [],
+  "is_featured": false,
+  "conference": "labweek-23",
+  "nft_ticketing": {
+    "host_wallet_address": "",
+    "verifier_wallet_address": "",
+    "custom_event_URL": "",
+    "pattern_colour": "",
+    "bg_colour": "",
+    "pattern": 1,
+    "email": true,
+    "full_name": true,
+    "wallet_address": true,
+    "additional_fields": {
+      "company": 0,
+      "job_title": 0,
+      "telegram": 0,
+      "twitter": 0
+    }
+  }
+}
