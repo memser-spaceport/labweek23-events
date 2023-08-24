@@ -1,6 +1,6 @@
 {
   "event_contact_name": "Andrew Woo",
-  "event_contact_email": "winstonmanuelvijay.amaljeyakumar@ideas2it.com",
+  "event_contact_email": "spaceport-admin@protocol.ai",
   "event_name": "PL Network Founders Dinner",
   "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692885075605_26.png",
   "host": "Spaceport",
@@ -47,5 +47,9 @@
       "telegram": 0,
       "twitter": 0
     }
-  }
+  },
+  "contact_infos": {
+    "Twitter": ""
+  },
+  "meeting_platform": ""
 }
