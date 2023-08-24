@@ -1,6 +1,6 @@
 {
   "event_contact_name": "Joshua Bate",
-  "event_contact_email": "winstonmanuelvijay.amaljeyakumar@ideas2it.com",
+  "event_contact_email": "vincent@molecule.to",
   "event_name": "DeSci Community Conference",
   "host": "Molecule",
   "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692884974604_856.png",
@@ -43,5 +43,10 @@
       "telegram": 0,
       "twitter": 0
     }
-  }
+  },
+  "contact_infos": {
+    "Twitter": ""
+  },
+  "event_logo": "",
+  "meeting_platform": ""
 }
