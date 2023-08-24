@@ -1,0 +1,49 @@
+{
+  "event_contact_name": "Andrew Woo",
+  "event_contact_email": "winstonmanuelvijay.amaljeyakumar@ideas2it.com",
+  "event_name": "PL Summit",
+  "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692884354166_752.png",
+  "host": "Protocol Labs",
+  "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692885059665_685.jpeg",
+  "co_host": [
+    {
+      "name": "Spaceport",
+      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692885075605_26.png"
+    }
+  ],
+  "description": "The Protocol Labs Network is getting together for our second decentralized conference! Join us as we drive breakthroughs in computing to push humanity forward.",
+  "tags": [
+    "Talks & Presentation"
+  ],
+  "start_date": "2023-11-13T12:00:00.000Z",
+  "end_date": "2023-11-13T15:00:00.000Z",
+  "access_type": "IN-HOUSE_REGISTRATION",
+  "access_option": "OPEN",
+  "format": "IN-PERSON",
+  "location": "Swissôtel",
+  "location_url": "https://goo.gl/maps/dwZTsBnvwaN8e4es7",
+  "seat_count": "500-600",
+  "agenda": {
+    "session": []
+  },
+  "sponsors": [],
+  "is_featured": true,
+  "conference": "labweek-23",
+  "nft_ticketing": {
+    "host_wallet_address": "",
+    "verifier_wallet_address": "",
+    "custom_event_URL": "",
+    "pattern_colour": "",
+    "bg_colour": "",
+    "pattern": 1,
+    "email": true,
+    "full_name": true,
+    "wallet_address": true,
+    "additional_fields": {
+      "company": 0,
+      "job_title": 0,
+      "telegram": 0,
+      "twitter": 0
+    }
+  }
+}
