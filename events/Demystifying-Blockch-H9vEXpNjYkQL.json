@@ -1,6 +1,6 @@
 {
   "event_contact_name": "Jérémy Zaccherini, Genia Shipova",
-  "event_contact_email": "winstonmanuelvijay.amaljeyakumar@ideas2it.com",
+  "event_contact_email": "genia.shipova@zama.ai",
   "event_name": "Demystifying Blockchain Privacy: A Closer Look at Zero-Knowledge Proofs and Fully Homomorphic Encryption",
   "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692885115076_794.webp",
   "host": "Zama",
@@ -41,5 +41,9 @@
       "telegram": 0,
       "twitter": 0
     }
-  }
+  },
+  "contact_infos": {
+    "Twitter": ""
+  },
+  "meeting_platform": ""
 }
