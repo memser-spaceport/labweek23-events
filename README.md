@@ -17,7 +17,7 @@ Events can be run in many formats: roundtables, talks with slides, hack sessions
 This repo contains all the events being planned and hosted at labweek23.  Today, this represents a template for labweek23. But in the future it can hold any events created on behalf of any such decentralized conferences.
 
 ## Submitting Events using GitHub Pull Requests (PRs)
-We encourage you to submit your events via a pull request on github, to do so...
+We encourage you to submit your events via a pull request on github, to do so..
 
 1. Please download a copy of the template from the path: ```events_template/sample_event.json```
 2. Using the template please fill details related to your event and rename the file as ```<your-event-name>.json```. Make sure you provide a valid filename, because sometimes event names can contain special characters that are not valid for a filename, in that case provide an alternate filename that will be valid, readable and resembles your event name.
