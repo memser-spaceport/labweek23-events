@@ -1,0 +1,45 @@
+{
+  "event_contact_name": "Patrick McClurg",
+  "event_contact_email": "winstonmanuelvijay.amaljeyakumar@ideas2it.com",
+  "event_name": "League of Entropy",
+  "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692884309666_14.png",
+  "host": "drand",
+  "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692884609971_622.png",
+  "co_host": [],
+  "description": "The League of Entropy together with drand clients will be meet to discuss latest developments, future plans and the immediate roadmap of the team. If you're interested joining, please get in touch by joining our Slack workspace, which can be found at https://drand.love.",
+  "tags": [
+    "Workshop"
+  ],
+  "start_date": "2023-11-15T06:00:00.000Z",
+  "end_date": "2023-11-15T14:00:00.000Z",
+  "access_type": "IN-HOUSE_REGISTRATION",
+  "access_option": "OPEN",
+  "format": "IN-PERSON",
+  "location": "Swissôtel",
+  "location_url": "https://goo.gl/maps/dwZTsBnvwaN8e4es7",
+  "seat_count": "1-50",
+  "website_link": "https://drand.love/",
+  "agenda": {
+    "session": []
+  },
+  "sponsors": [],
+  "is_featured": false,
+  "conference": "labweek-23",
+  "nft_ticketing": {
+    "host_wallet_address": "",
+    "verifier_wallet_address": "",
+    "custom_event_URL": "",
+    "pattern_colour": "",
+    "bg_colour": "",
+    "pattern": 1,
+    "email": true,
+    "full_name": true,
+    "wallet_address": true,
+    "additional_fields": {
+      "company": 0,
+      "job_title": 0,
+      "telegram": 0,
+      "twitter": 0
+    }
+  }
+}
