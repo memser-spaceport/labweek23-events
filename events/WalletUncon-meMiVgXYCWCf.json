@@ -1,0 +1,54 @@
+{
+  "event_contact_name": "Chris Bentzen",
+  "event_contact_email": "winstonmanuelvijay.amaljeyakumar@ideas2it.com",
+  "event_name": "WalletUncon",
+  "host": "Fission",
+  "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692884893331_137.webp",
+  "co_host": [
+    {
+      "name": "EF"
+    },
+    {
+      "name": "WalletConnect"
+    },
+    {
+      "name": "Casa"
+    }
+  ],
+  "description": "WalletUncon is a one day unconference on wallets, standards, usability, and more. Come learn from some foundational overview talks, and then split into groups for discussion.",
+  "tags": [
+    "Workshop",
+    "Talks & Presentation"
+  ],
+  "start_date": "2023-11-17T06:00:00.000Z",
+  "end_date": "2023-11-17T15:00:00.000Z",
+  "access_type": "IN-HOUSE_REGISTRATION",
+  "access_option": "OPEN",
+  "format": "IN-PERSON",
+  "location": "TBD",
+  "seat_count": "1-50",
+  "website_link": "https://walletuncon.org/",
+  "agenda": {
+    "session": []
+  },
+  "sponsors": [],
+  "is_featured": false,
+  "conference": "labweek-23",
+  "nft_ticketing": {
+    "host_wallet_address": "",
+    "verifier_wallet_address": "",
+    "custom_event_URL": "",
+    "pattern_colour": "",
+    "bg_colour": "",
+    "pattern": 1,
+    "email": true,
+    "full_name": true,
+    "wallet_address": true,
+    "additional_fields": {
+      "company": 0,
+      "job_title": 0,
+      "telegram": 0,
+      "twitter": 0
+    }
+  }
+}
