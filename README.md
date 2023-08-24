@@ -24,7 +24,7 @@ We encourage you to submit your events via a pull request on github, to do so..
 3. Create a branch like ```event-<your-event-filename>```
 3. Place the finished file in the path as mentioned: ```/events/<your-event-file-name>.json```
 4. Create a PR from this branch to 'main' branch
-5. The LabWeek event planning team will review and merge your event into the [LabWeek23 website](https://labweek.plnetwork.io/schedule).
+5. The LabWeek event planning team will review and merge your event into the [LabWeek23 website](https://labweek.plnetwork.io/schedule/calendar).
 
 ## Important points before raising Pull Request
 1. In the events template json file, fields commented as #mandatory are required fields for your event to be approved.
