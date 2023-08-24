@@ -1,6 +1,6 @@
 {
   "event_contact_name": "Sid Gandhi",
-  "event_contact_email": "winstonmanuelvijay.amaljeyakumar@ideas2it.com",
+  "event_contact_email": "sid@polybaselabs.com",
   "event_name": "Zero Knowledge Wine Tasting & Polylang Workshop",
   "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692885039537_415.webp",
   "host": "Polybase",
@@ -41,5 +41,9 @@
       "telegram": 0,
       "twitter": 0
     }
-  }
+  },
+  "contact_infos": {
+    "Twitter": ""
+  },
+  "meeting_platform": ""
 }
