@@ -1,6 +1,6 @@
 {
   "event_contact_name": "Mike McCoy",
-  "event_contact_email": "winstonmanuelvijay.amaljeyakumar@ideas2it.com",
+  "event_contact_email": "mike.mccoy@protocol.ai",
   "event_name": "CryptoEcon Dinner",
   "host": "CEL",
   "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692884502790_605.png",
@@ -39,5 +39,10 @@
       "telegram": 0,
       "twitter": 0
     }
-  }
+  },
+  "contact_infos": {
+    "Twitter": ""
+  },
+  "event_logo": "",
+  "meeting_platform": ""
 }
