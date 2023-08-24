@@ -1,0 +1,49 @@
+{
+  "event_contact_name": "Ryo Mochido",
+  "event_contact_email": "winstonmanuelvijay.amaljeyakumar@ideas2it.com",
+  "event_name": "Lab Week Opening Party",
+  "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692885059665_685.jpeg",
+  "host": "Protocol Labs",
+  "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692885059665_685.jpeg",
+  "co_host": [
+    {
+      "name": "Spaceport",
+      "logo": "https://pl-events-service.s3.us-west-1.amazonaws.com/logos/image_1691143746197_831.png"
+    }
+  ],
+  "description": "Join us for the official opening party - the kickoff to Lab Week, our second decentralized conference. In the evening, we'll meet, hangout, have cocktails, light bites, and music to kick the week off in style.",
+  "tags": [
+    "Social Event"
+  ],
+  "start_date": "2023-11-13T15:00:00.000Z",
+  "end_date": "2023-11-13T19:30:00.000Z",
+  "access_type": "IN-HOUSE_REGISTRATION",
+  "access_option": "OPEN",
+  "format": "IN-PERSON",
+  "location": "Swissôtel",
+  "location_url": "https://goo.gl/maps/dwZTsBnvwaN8e4es7",
+  "seat_count": "400-500",
+  "agenda": {
+    "session": []
+  },
+  "sponsors": [],
+  "is_featured": true,
+  "conference": "labweek-23",
+  "nft_ticketing": {
+    "host_wallet_address": "",
+    "verifier_wallet_address": "",
+    "custom_event_URL": "",
+    "pattern_colour": "",
+    "bg_colour": "",
+    "pattern": 1,
+    "email": true,
+    "full_name": true,
+    "wallet_address": true,
+    "additional_fields": {
+      "company": 0,
+      "job_title": 0,
+      "telegram": 0,
+      "twitter": 0
+    }
+  }
+}
