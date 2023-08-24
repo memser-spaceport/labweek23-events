@@ -1,0 +1,51 @@
+{
+  "event_contact_name": "Ashwanth Samuel",
+  "event_contact_email": "winstonmanuelvijay.amaljeyakumar@ideas2it.com",
+  "event_name": "DeFi Leasing and Staking on Filecoin",
+  "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692885887972_376.png",
+  "host": "Filecoin",
+  "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692885887972_376.png",
+  "co_host": [
+    {
+      "name": "Outercore",
+      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692885020237_929.webp"
+    }
+  ],
+  "description": "A framework and opportunity to evaluate the staking and leasing service providers building on the Filecoin Virtual Machine",
+  "tags": [
+    "Talks & Presentation",
+    "Workshop",
+    "Demos"
+  ],
+  "start_date": "2023-11-15T05:30:00.000Z",
+  "end_date": "2023-11-15T09:30:00.000Z",
+  "access_type": "IN-HOUSE_REGISTRATION",
+  "access_option": "OPEN",
+  "format": "IN-PERSON",
+  "location": "Swissôtel",
+  "location_url": "https://goo.gl/maps/dwZTsBnvwaN8e4es7",
+  "seat_count": "50-100",
+  "agenda": {
+    "session": []
+  },
+  "sponsors": [],
+  "is_featured": false,
+  "conference": "labweek-23",
+  "nft_ticketing": {
+    "host_wallet_address": "",
+    "verifier_wallet_address": "",
+    "custom_event_URL": "",
+    "pattern_colour": "",
+    "bg_colour": "",
+    "pattern": 1,
+    "email": true,
+    "full_name": true,
+    "wallet_address": true,
+    "additional_fields": {
+      "company": 0,
+      "job_title": 0,
+      "telegram": 0,
+      "twitter": 0
+    }
+  }
+}
