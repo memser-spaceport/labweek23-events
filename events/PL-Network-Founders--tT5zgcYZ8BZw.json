@@ -1,0 +1,51 @@
+{
+  "event_contact_name": "Andrew Woo",
+  "event_contact_email": "winstonmanuelvijay.amaljeyakumar@ideas2it.com",
+  "event_name": "PL Network Founders Dinner",
+  "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692885075605_26.png",
+  "host": "Spaceport",
+  "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692885075605_26.png",
+  "co_host": [
+    {
+      "name": "PL Ventures"
+    },
+    {
+      "name": "PL Accelerators"
+    }
+  ],
+  "description": "Join us for a dinner social that allows all of the founders in the Protocol Labs Network to learn from and forge deep ties with each other.",
+  "tags": [
+    "Social Event",
+    "Private"
+  ],
+  "start_date": "2023-11-15T15:00:00.000Z",
+  "end_date": "2023-11-15T19:30:00.000Z",
+  "access_type": "IN-HOUSE_REGISTRATION",
+  "access_option": "INVITE",
+  "format": "IN-PERSON",
+  "location": "TBD",
+  "seat_count": "100-200",
+  "agenda": {
+    "session": []
+  },
+  "sponsors": [],
+  "is_featured": false,
+  "conference": "labweek-23",
+  "nft_ticketing": {
+    "host_wallet_address": "",
+    "verifier_wallet_address": "",
+    "custom_event_URL": "",
+    "pattern_colour": "",
+    "bg_colour": "",
+    "pattern": 1,
+    "email": true,
+    "full_name": true,
+    "wallet_address": true,
+    "additional_fields": {
+      "company": 0,
+      "job_title": 0,
+      "telegram": 0,
+      "twitter": 0
+    }
+  }
+}
