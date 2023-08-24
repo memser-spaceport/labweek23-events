@@ -1,6 +1,6 @@
 {
   "event_contact_name": "Ashwanth Samuel",
-  "event_contact_email": "winstonmanuelvijay.amaljeyakumar@ideas2it.com",
+  "event_contact_email": "ashwanth.samuel@protocol.ai",
   "event_name": "DeFi Leasing and Staking on Filecoin",
   "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692885887972_376.png",
   "host": "Filecoin",
@@ -47,5 +47,9 @@
       "telegram": 0,
       "twitter": 0
     }
-  }
+  },
+  "contact_infos": {
+    "Twitter": ""
+  },
+  "meeting_platform": ""
 }
