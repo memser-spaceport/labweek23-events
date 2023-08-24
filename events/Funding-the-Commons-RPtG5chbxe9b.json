@@ -1,6 +1,6 @@
 {
   "event_contact_name": "David Casey",
-  "event_contact_email": "winstonmanuelvijay.amaljeyakumar@ideas2it.com",
+  "event_contact_email": "david.casey@protocol.ai",
   "event_name": "Funding the Commons",
   "host": "Funding the Commons",
   "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692884912627_132.png",
@@ -29,5 +29,10 @@
   },
   "sponsors": [],
   "is_featured": false,
-  "conference": "labweek-23"
+  "conference": "labweek-23",
+  "contact_infos": {
+    "Twitter": ""
+  },
+  "event_logo": "",
+  "meeting_platform": ""
 }
