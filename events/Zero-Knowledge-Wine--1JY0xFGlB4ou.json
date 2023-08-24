@@ -1,0 +1,45 @@
+{
+  "event_contact_name": "Sid Gandhi",
+  "event_contact_email": "winstonmanuelvijay.amaljeyakumar@ideas2it.com",
+  "event_name": "Zero Knowledge Wine Tasting & Polylang Workshop",
+  "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692885039537_415.webp",
+  "host": "Polybase",
+  "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692885039537_415.webp",
+  "co_host": [],
+  "description": "Join the Polybase team for a short workshop on Polylang, the easiest way to build with ZK. Polylang is a Typescript-based programming language that compiles to ZK circuits. We'll show why we built it, how it works and what you can use it for. After the workshop we will transition to a zero knowledge wine tasting hangout.",
+  "tags": [
+    "Workshop",
+    "Social Event"
+  ],
+  "start_date": "2023-11-14T13:00:00.000Z",
+  "end_date": "2023-11-14T17:00:00.000Z",
+  "access_type": "IN-HOUSE_REGISTRATION",
+  "access_option": "OPEN",
+  "format": "IN-PERSON",
+  "location": "Swissôtel",
+  "location_url": "https://goo.gl/maps/dwZTsBnvwaN8e4es7",
+  "seat_count": "1-50",
+  "agenda": {
+    "session": []
+  },
+  "sponsors": [],
+  "is_featured": false,
+  "conference": "labweek-23",
+  "nft_ticketing": {
+    "host_wallet_address": "",
+    "verifier_wallet_address": "",
+    "custom_event_URL": "",
+    "pattern_colour": "",
+    "bg_colour": "",
+    "pattern": 1,
+    "email": true,
+    "full_name": true,
+    "wallet_address": true,
+    "additional_fields": {
+      "company": 0,
+      "job_title": 0,
+      "telegram": 0,
+      "twitter": 0
+    }
+  }
+}
