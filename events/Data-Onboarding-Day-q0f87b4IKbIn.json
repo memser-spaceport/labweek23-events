@@ -1,0 +1,43 @@
+{
+  "event_contact_name": "Jennifer King, Andrew Ferrone",
+  "event_contact_email": "winstonmanuelvijay.amaljeyakumar@ideas2it.com",
+  "event_name": "Data Onboarding Day",
+  "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692884455225_711.png",
+  "host": "Network Growth",
+  "co_host": [],
+  "description": "Discover the ultimate Data Onboarding event where leading teams, powerful tools, and transformative projects come together to drive massive-scale data onboarding to Filecoin. Dive into the world of seamless data migration and learn how you can actively participate in this game-changing movement. Don't miss out on this exceptional opportunity to shape the future of data storage.",
+  "tags": [
+    "Talks & Presentation"
+  ],
+  "start_date": "2023-11-14T10:00:00.000Z",
+  "end_date": "2023-11-14T14:00:00.000Z",
+  "access_type": "IN-HOUSE_REGISTRATION",
+  "access_option": "OPEN",
+  "format": "IN-PERSON",
+  "location": "Swissôtel",
+  "location_url": "https://goo.gl/maps/dwZTsBnvwaN8e4es7",
+  "seat_count": "50-100",
+  "agenda": {
+    "session": []
+  },
+  "sponsors": [],
+  "is_featured": false,
+  "conference": "labweek-23",
+  "nft_ticketing": {
+    "host_wallet_address": "",
+    "verifier_wallet_address": "",
+    "custom_event_URL": "",
+    "pattern_colour": "",
+    "bg_colour": "",
+    "pattern": 1,
+    "email": true,
+    "full_name": true,
+    "wallet_address": true,
+    "additional_fields": {
+      "company": 0,
+      "job_title": 0,
+      "telegram": 0,
+      "twitter": 0
+    }
+  }
+}
