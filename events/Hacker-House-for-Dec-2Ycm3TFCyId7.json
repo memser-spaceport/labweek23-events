@@ -1,0 +1,56 @@
+{
+  "event_contact_name": "Guo Liu",
+  "event_contact_email": "winstonmanuelvijay.amaljeyakumar@ideas2it.com",
+  "event_name": "Hacker House for Decentralized Social Infra",
+  "host": "Matters Lab",
+  "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692884954877_708.webp",
+  "co_host": [
+    {
+      "name": "Mask Network",
+      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692884931856_992.webp"
+    },
+    {
+      "name": "CyberConnect",
+      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692884567083_192.webp"
+    },
+    {
+      "name": "Social Layer"
+    }
+  ],
+  "description": "Social network is the information fabric of both our personal life and social consensus, a role calling for a multi-disciplinary approach. In the form of a hacker house, we bring together the experiences from DWeb, the experiments from Web3, and the lessons from physical public spaces, to ask the right questions and challenge the status quo of decentralized social network.",
+  "tags": [
+    "Talks & Presentation",
+    "Hackathon"
+  ],
+  "start_date": "2023-11-13T06:00:00.000Z",
+  "end_date": "2023-11-20T14:00:00.000Z",
+  "access_type": "IN-HOUSE_REGISTRATION",
+  "access_option": "OPEN",
+  "format": "IN-PERSON",
+  "location": "TBD",
+  "seat_count": "50-100",
+  "website_link": "http://hackerhouse.social/",
+  "agenda": {
+    "session": []
+  },
+  "sponsors": [],
+  "is_featured": false,
+  "conference": "labweek-23",
+  "nft_ticketing": {
+    "host_wallet_address": "",
+    "verifier_wallet_address": "",
+    "custom_event_URL": "",
+    "pattern_colour": "",
+    "bg_colour": "",
+    "pattern": 1,
+    "email": true,
+    "full_name": true,
+    "wallet_address": true,
+    "additional_fields": {
+      "company": 0,
+      "job_title": 0,
+      "telegram": 0,
+      "twitter": 0
+    }
+  }
+}
