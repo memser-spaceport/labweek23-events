@@ -1,6 +1,6 @@
 {
   "event_contact_name": "Ryo Mochido",
-  "event_contact_email": "winstonmanuelvijay.amaljeyakumar@ideas2it.com",
+  "event_contact_email": "spaceport-admin@protocol.ai",
   "event_name": "PLN Yoga",
   "host": "Spaceport",
   "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692885075605_26.png",
@@ -38,5 +38,10 @@
       "telegram": 0,
       "twitter": 0
     }
-  }
+  },
+  "contact_infos": {
+    "Twitter": ""
+  },
+  "event_logo": "",
+  "meeting_platform": ""
 }
