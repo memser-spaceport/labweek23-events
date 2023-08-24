@@ -1,6 +1,6 @@
 {
   "event_contact_name": "Boris Mann",
-  "event_contact_email": "winstonmanuelvijay.amaljeyakumar@ideas2it.com",
+  "event_contact_email": "boris@fission.codes",
   "event_name": "IPFS Connect in Istanbul",
   "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692884191807_572.png",
   "host": "Fission",
@@ -41,5 +41,9 @@
       "telegram": 0,
       "twitter": 0
     }
-  }
+  },
+  "contact_infos": {
+    "Twitter": ""
+  },
+  "meeting_platform": ""
 }
