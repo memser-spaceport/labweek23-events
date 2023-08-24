@@ -1,6 +1,6 @@
 {
   "event_contact_name": "Guo Liu",
-  "event_contact_email": "winstonmanuelvijay.amaljeyakumar@ideas2it.com",
+  "event_contact_email": "gl@matters.town",
   "event_name": "Hacker House for Decentralized Social Infra",
   "host": "Matters Lab",
   "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692884954877_708.webp",
@@ -52,5 +52,10 @@
       "telegram": 0,
       "twitter": 0
     }
-  }
+  },
+  "contact_infos": {
+    "Twitter": ""
+  },
+  "event_logo": "",
+  "meeting_platform": ""
 }
