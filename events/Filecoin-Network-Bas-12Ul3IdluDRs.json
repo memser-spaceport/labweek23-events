@@ -1,8 +1,8 @@
 {
   "event_contact_name": "Meredith Pallante",
-  "event_contact_email": "meredith@fil.org",
+  "event_contact_email": "winstonmanuelvijay.amaljeyakumar@ideas2it.com",
   "event_name": "Filecoin Network Base",
-  "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692885887972_376.png",
+  "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692947272029_471.png",
   "host": "Filecoin Foundation",
   "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692884773993_388.webp",
   "co_host": [],
@@ -42,9 +42,6 @@
       "telegram": 0,
       "twitter": 0
     }
-  },
-  "contact_infos": {
-    "Twitter": ""
   },
   "meeting_platform": ""
 }
