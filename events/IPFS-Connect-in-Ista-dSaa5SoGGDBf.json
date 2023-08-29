@@ -13,12 +13,12 @@
   ],
   "start_date": "2023-11-16T06:00:00.000Z",
   "end_date": "2023-11-16T14:00:00.000Z",
-  "access_type": "IN-HOUSE_REGISTRATION",
-  "access_option": "OPEN",
+  "access_type": "CUSTOM_REGISTRATION",
+  "access_option": "PAID",
   "format": "IN-PERSON",
   "location": "TBD",
   "seat_count": "400-500",
-  "website_link": "https://lu.ma/ipfsconnect-istanbul-savedate",
+  "website_link": "https://lu.ma/ipfs-connect-istanbul",
   "agenda": {
     "session": []
   },
@@ -45,5 +45,6 @@
   "contact_infos": {
     "Twitter": ""
   },
-  "meeting_platform": ""
+  "meeting_platform": "",
+  "registration_link": "https://lu.ma/ipfs-connect-istanbul"
 }
