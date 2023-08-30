@@ -3,7 +3,7 @@ LabWeek23 is Protocol Labs' annual decentralized global conference. It features 
 
 Join us this November as we invite builders, thinkers, innovators and leaders to share research and participate in a dynamic program of engineering workshops, summits, tracks and conversations. Let's shape the future together.
 
-We are using [this github repository](https://github.com/memser-spaceport/labweek23-events) and [LabWeek23 website](https://labweek.plnetwork.io/) to coordinate event listings. You can submit the events both using this repo as well as the [LabWeek23 UI](https://labweek.plnetwork.io/events/host).
+We are using [this github repository](https://github.com/memser-spaceport/labweek23-events) and [LabWeek23 website](https://23.labweek.io/) to coordinate event listings. You can submit the events both using this repo as well as the [LabWeek23 UI](https://23.labweek.io/events/host).
 
 # LabWeek23 Location & Date
 LabWeek 2023 is taking place from November 13th, Monday to November 17th, Friday at Istanbul.
@@ -24,7 +24,7 @@ We encourage you to submit your events via a pull request on github, to do so..
 3. Create a branch like ```event-<your-event-filename>```
 3. Place the finished file in the path as mentioned: ```/events/<your-event-file-name>.json```
 4. Create a PR from this branch to 'main' branch
-5. The LabWeek event planning team will review and merge your event into the [LabWeek23 website](https://labweek.plnetwork.io/schedule/calendar).
+5. The LabWeek event planning team will review and merge your event into the [LabWeek23 website](https://23.labweek.io/schedule/calendar).
 
 ## Important points before raising Pull Request
 1. In the events template json file, fields commented as #mandatory are required fields for your event to be approved.
@@ -36,4 +36,4 @@ We encourage you to submit your events via a pull request on github, to do so..
 ## Editing Events
 1.  You've already created your event but want to add or change details, make appropriate changes and raise another pull request to 'main' branch preferrably using the same branch name used when it was created.
 2.  The LabWeek event planning team will review and merge your changes.
-3.  Alternatively, you can also use the [LabWeek23 web UI](https://labweek.plnetwork.io/) to modify & update the event details.
+3.  Alternatively, you can also use the [LabWeek23 web UI](https://23.labweek.io/) to modify & update the event details using the "Event Hosting" Button.
