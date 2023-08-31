@@ -32,7 +32,7 @@
   "nft_ticketing": {
     "host_wallet_address": "",
     "verifier_wallet_address": "",
-    "custom_event_URL": "",
+    "custom_event_URL": "plsummit",
     "pattern_colour": "",
     "bg_colour": "",
     "pattern": 1,
@@ -40,9 +40,9 @@
     "full_name": true,
     "wallet_address": true,
     "additional_fields": {
-      "company": 0,
+      "company": 1,
       "job_title": 0,
-      "telegram": 0,
+      "telegram": 1,
       "twitter": 0
     }
   },
