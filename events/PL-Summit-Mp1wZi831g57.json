@@ -49,5 +49,7 @@
   "contact_infos": {
     "Twitter": ""
   },
-  "meeting_platform": ""
+  "meeting_platform": "",
+  "registration_link": "pl-summit",
+  "website_link": "pl-summit"
 }
