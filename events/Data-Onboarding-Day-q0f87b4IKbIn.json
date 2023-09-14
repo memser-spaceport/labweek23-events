@@ -26,7 +26,7 @@
   "nft_ticketing": {
     "host_wallet_address": "",
     "verifier_wallet_address": "",
-    "custom_event_URL": "",
+    "custom_event_URL": "data-onboarding-day",
     "pattern_colour": "",
     "bg_colour": "",
     "pattern": 1,
