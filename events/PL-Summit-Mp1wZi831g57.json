@@ -32,7 +32,7 @@
   "nft_ticketing": {
     "host_wallet_address": "",
     "verifier_wallet_address": "",
-    "custom_event_URL": "pl-summit",
+    "custom_event_URL": "",
     "pattern_colour": "",
     "bg_colour": "",
     "pattern": 1,
@@ -50,6 +50,6 @@
     "Twitter": ""
   },
   "meeting_platform": "",
-  "registration_link": "pl-summit",
-  "website_link": "pl-summit"
+  "registration_link": "",
+  "website_link": ""
 }
