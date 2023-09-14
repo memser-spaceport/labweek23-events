@@ -1,0 +1,54 @@
+{
+  "event_contact_name": "Prithvi Shahi",
+  "event_contact_email": "prithvi.shahi@protocol.ai",
+  "event_name": "libp2p Day",
+  "event_logo": "",
+  "host": "Prithvi Shahi",
+  "host_logo": "",
+  "co_host": [
+    {
+      "name": "Dave Huseby",
+      "logo": ""
+    }
+  ],
+  "description": "A day long track to discuss libp2p developments from the ecosystem, libp2p + privacy, new work on the DHT from ProbeLab, and more!",
+  "tags": [
+    "Talks & Presentation"
+  ],
+  "start_date": "2023-11-15T06:00:00.000Z",
+  "end_date": "2023-11-15T14:00:00.000Z",
+  "access_type": "IN-HOUSE_REGISTRATION",
+  "access_option": "OPEN",
+  "format": "IN-PERSON",
+  "location": "",
+  "meeting_platform": "",
+  "seat_count": "1-50",
+  "agenda": {
+    "session": []
+  },
+  "sponsors": [],
+  "is_featured": false,
+  "conference": "labweek-23",
+  "nft_ticketing": {
+    "host_wallet_address": "",
+    "verifier_wallet_address": "",
+    "custom_event_URL": "libp2p-day",
+    "pattern_colour": "#fff",
+    "bg_colour": "#156FF7",
+    "pattern": 1,
+    "email": true,
+    "full_name": true,
+    "wallet_address": true,
+    "additional_fields": {
+      "company": 0,
+      "job_title": 0,
+      "telegram": 0,
+      "twitter": 0
+    }
+  },
+  "contact_infos": {
+    "Twitter": ""
+  },
+  "registration_link": "",
+  "website_link": ""
+}
