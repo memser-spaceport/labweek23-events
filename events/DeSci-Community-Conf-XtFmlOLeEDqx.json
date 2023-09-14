@@ -30,7 +30,7 @@
   "nft_ticketing": {
     "host_wallet_address": "",
     "verifier_wallet_address": "",
-    "custom_event_URL": "",
+    "custom_event_URL": "desci-community-conference",
     "pattern_colour": "",
     "bg_colour": "",
     "pattern": 1,
