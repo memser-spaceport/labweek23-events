@@ -41,7 +41,7 @@
     "wallet_address": true,
     "additional_fields": {
       "company": 1,
-      "job_title": 0,
+      "job_title": 1,
       "telegram": 1,
       "twitter": 0
     }
