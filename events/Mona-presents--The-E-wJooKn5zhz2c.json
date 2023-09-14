@@ -1,0 +1,46 @@
+{
+  "event_contact_name": "Sierra Henry",
+  "event_contact_email": "sierra@monaverse.com",
+  "event_name": "Mona presents: The Experience Layer Happy Hour & Minting Experience",
+  "event_logo": "",
+  "host": "Mona",
+  "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1694017811407_141.png",
+  "co_host": [],
+  "description": "Join us for a happy hour and live VRM Avatar minting experience!",
+  "tags": [
+    "Social Event"
+  ],
+  "start_date": "2023-11-14T13:00:00.000Z",
+  "end_date": "2023-11-14T15:00:00.000Z",
+  "access_type": "CUSTOM_REGISTRATION",
+  "access_option": "OPEN",
+  "format": "IN-PERSON",
+  "location": "Swisotel 5th Floor Foyer",
+  "meeting_platform": "",
+  "seat_count": "100-200",
+  "registration_link": "https://lu.ma/k6mm4e00",
+  "website_link": "https://lu.ma/k6mm4e00",
+  "agenda": {
+    "session": []
+  },
+  "sponsors": [],
+  "is_featured": false,
+  "conference": "labweek-23",
+  "nft_ticketing": {
+    "host_wallet_address": "",
+    "verifier_wallet_address": "",
+    "custom_event_URL": "",
+    "pattern_colour": "#fff",
+    "bg_colour": "#156FF7",
+    "pattern": 1,
+    "email": true,
+    "full_name": true,
+    "wallet_address": true,
+    "additional_fields": {
+      "company": 0,
+      "job_title": 0,
+      "telegram": 0,
+      "twitter": 0
+    }
+  }
+}
