@@ -3,7 +3,7 @@
   "event_contact_email": "jorge@protocol.ai",
   "event_name": "Countdown to IPC",
   "host": "ConsensusLab",
-  "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692884524300_220.png",
+  "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1695058480014_889.png",
   "co_host": [
     {
       "name": "Textile",
@@ -44,22 +44,24 @@
     "host_wallet_address": "",
     "verifier_wallet_address": "",
     "custom_event_URL": "countdown-to-ipc",
-    "pattern_colour": "",
-    "bg_colour": "",
+    "pattern_colour": "#17bdff",
+    "bg_colour": "#156ff6",
     "pattern": 1,
     "email": true,
     "full_name": true,
     "wallet_address": true,
     "additional_fields": {
-      "company": 0,
+      "company": 1,
       "job_title": 0,
       "telegram": 0,
       "twitter": 0
     }
   },
   "contact_infos": {
-    "Twitter": ""
+    "Twitter": "https://twitter.com/ConsensusLab_"
   },
-  "event_logo": "",
-  "meeting_platform": ""
+  "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1695058471834_736.png",
+  "meeting_platform": "",
+  "registration_link": "https://23.labweek.io/countdown-to-ipc",
+  "website_link": "https://23.labweek.io/countdown-to-ipc"
 }
