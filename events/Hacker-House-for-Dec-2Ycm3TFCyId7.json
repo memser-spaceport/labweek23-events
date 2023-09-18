@@ -1,7 +1,7 @@
 {
   "event_contact_name": "Guo Liu",
   "event_contact_email": "gl@matters.town",
-  "event_name": "Hacker House for Decentralized Social Infra",
+  "event_name": "ZuSocial: hacker house for decentralized social infra",
   "host": "Matters Lab",
   "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692884954877_708.webp",
   "co_host": [
@@ -10,25 +10,21 @@
       "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692884931856_992.webp"
     },
     {
-      "name": "CyberConnect",
-      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692884567083_192.webp"
-    },
-    {
       "name": "Social Layer"
     }
   ],
-  "description": "Social network is the information fabric of both our personal life and social consensus, a role calling for a multi-disciplinary approach. In the form of a hacker house, we bring together the experiences from DWeb, the experiments from Web3, and the lessons from physical public spaces, to ask the right questions and challenge the status quo of decentralized social network.",
+  "description": "Social networks are the information fabric of both our personal life and social consensus, a public infra calling for a multi-discipline approach. As part of ZuConnect, this hacker house brings together the experiences from DWeb, the experiments from Web3, and the lessons from physical public spaces, to ask the right questions and challenge the status quo.",
   "tags": [
     "Talks & Presentation",
     "Hackathon"
   ],
-  "start_date": "2023-11-13T06:00:00.000Z",
-  "end_date": "2023-11-20T14:00:00.000Z",
-  "access_type": "IN-HOUSE_REGISTRATION",
-  "access_option": "OPEN",
+  "start_date": "2023-11-05T06:00:00.000Z",
+  "end_date": "2023-11-19T14:00:00.000Z",
+  "access_type": "CUSTOM_REGISTRATION",
+  "access_option": "INVITE",
   "format": "IN-PERSON",
-  "location": "TBD",
-  "seat_count": "50-100",
+  "location": "Close to Soho House Istanbul",
+  "seat_count": "1-50",
   "website_link": "http://hackerhouse.social/",
   "agenda": {
     "session": []
@@ -57,5 +53,6 @@
     "Twitter": ""
   },
   "event_logo": "",
-  "meeting_platform": ""
+  "meeting_platform": "",
+  "registration_link": "http://hackerhouse.social/"
 }
