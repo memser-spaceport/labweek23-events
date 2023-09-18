@@ -2,7 +2,7 @@
   "event_contact_name": "Ashwanth Samuel",
   "event_contact_email": "ashwanth.samuel@protocol.ai",
   "event_name": "DeFi Leasing and Staking on Filecoin",
-  "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692947272029_471.png",
+  "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1695048466937_86.png",
   "host": "Filecoin",
   "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692947272029_471.png",
   "co_host": [
@@ -34,15 +34,15 @@
   "nft_ticketing": {
     "host_wallet_address": "",
     "verifier_wallet_address": "",
-    "custom_event_URL": "filecoin-defi-leasing-staking",
-    "pattern_colour": "",
-    "bg_colour": "",
+    "custom_event_URL": "filecoin-defi",
+    "pattern_colour": "#ffffff",
+    "bg_colour": "#2b85d4",
     "pattern": 1,
     "email": true,
     "full_name": true,
     "wallet_address": true,
     "additional_fields": {
-      "company": 0,
+      "company": 1,
       "job_title": 0,
       "telegram": 0,
       "twitter": 0
@@ -51,5 +51,7 @@
   "contact_infos": {
     "Twitter": ""
   },
-  "meeting_platform": ""
+  "meeting_platform": "",
+  "registration_link": "https://23.labweek.io/filecoin-defi",
+  "website_link": "https://23.labweek.io/filecoin-defi"
 }
