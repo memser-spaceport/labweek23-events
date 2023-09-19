@@ -1,0 +1,46 @@
+{
+  "event_contact_name": "Kristal Soman",
+  "event_contact_email": "kristal@3box.io",
+  "event_name": "RepConnect: Web3 Reputation Summit",
+  "event_logo": "",
+  "host": "Ceramic",
+  "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1695156174869_977.png",
+  "co_host": [],
+  "description": "Ceramic presents RepConnect: The Web3 Reputation Summit. Delve into the technical intricacies and visionary future of composable reputation. Engage in panels, talks, and workshops exploring challenges and opportunities in dApps, DeFi, DAOs, DeSci, AI, and loyalty systems.",
+  "tags": [
+    "Talks & Presentation",
+    "Summit"
+  ],
+  "start_date": "2023-11-13T06:00:00.000Z",
+  "end_date": "2023-11-13T09:00:00.000Z",
+  "access_type": "CUSTOM_REGISTRATION",
+  "access_option": "OPEN",
+  "format": "IN-PERSON",
+  "location": "",
+  "meeting_platform": "",
+  "seat_count": "100-200",
+  "website_link": "https://ceramic.network",
+  "agenda": {
+    "session": []
+  },
+  "sponsors": [],
+  "is_featured": false,
+  "conference": "labweek-23",
+  "nft_ticketing": {
+    "host_wallet_address": "",
+    "verifier_wallet_address": "",
+    "custom_event_URL": "",
+    "pattern_colour": "#fff",
+    "bg_colour": "#156FF7",
+    "pattern": 1,
+    "email": true,
+    "full_name": true,
+    "wallet_address": true,
+    "additional_fields": {
+      "company": 0,
+      "job_title": 0,
+      "telegram": 0,
+      "twitter": 0
+    }
+  }
+}
