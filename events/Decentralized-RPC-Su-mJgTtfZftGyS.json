@@ -1,0 +1,64 @@
+{
+  "event_contact_name": "Nadia Venzhina",
+  "event_contact_email": "nadia@fluence.one",
+  "event_name": "Decentralized RPC Summit",
+  "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1695287228873_366.jpeg",
+  "host": "Fluence Labs",
+  "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1695288011629_325.png",
+  "co_host": [
+    {
+      "name": "Drpc.org",
+      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1695287997538_897.png"
+    },
+    {
+      "name": "Gateway.fm",
+      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1695288004516_381.png"
+    }
+  ],
+  "description": "​Decentralized RPC services are one of the most important core components of the entire Web3 ecosystem and it’s decentralization. \n​We gather together industry leaders, researchers, developers, and enthusiasts on the Devconnect & Labweek in Istanbul 🇹🇷 \n\n​Talks from the top web3 infrastructure projects, Q&A, networking, drinks & snacks. Join us to get an in-depth look into the latest research & tech insights. \n\n​Save the date, come share your expertise and be part of the dialogue that shapes the future!",
+  "tags": [
+    "Talks & Presentation"
+  ],
+  "start_date": "2023-11-15T10:00:00.000Z",
+  "end_date": "2023-11-15T19:00:00.000Z",
+  "access_type": "CUSTOM_REGISTRATION",
+  "access_option": "OPEN",
+  "format": "IN-PERSON",
+  "location": "InterContinental Istanbul",
+  "location_url": "https://maps.app.goo.gl/kTFYVLFXTLQqPfSGA",
+  "meeting_platform": "",
+  "seat_count": "100-200",
+  "registration_link": "https://lu.ma/decompute",
+  "website_link": "https://lu.ma/decompute",
+  "agenda": {
+    "session": []
+  },
+  "sponsors": [],
+  "is_featured": false,
+  "conference": "labweek-23",
+  "nft_ticketing": {
+    "host_wallet_address": "",
+    "verifier_wallet_address": "",
+    "custom_event_URL": "",
+    "pattern_colour": "#fff",
+    "bg_colour": "#156FF7",
+    "pattern": 1,
+    "email": true,
+    "full_name": true,
+    "wallet_address": true,
+    "additional_fields": {
+      "company": 0,
+      "job_title": 0,
+      "telegram": 0,
+      "twitter": 0
+    }
+  },
+  "contact_infos": {
+    "Telegram": "https://t.me/derpc_summit",
+    "Twitter": [
+      "https://twitter.com/fluence_project",
+      "https://twitter.com/drpcorg",
+      "https://twitter.com/gateway_eth"
+    ]
+  }
+}
