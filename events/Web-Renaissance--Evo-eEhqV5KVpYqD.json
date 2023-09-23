@@ -3,9 +3,22 @@
   "event_contact_email": "barg@neonyx.io",
   "event_name": "Web Renaissance: Evolution with Neonyx",
   "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1695381315640_541.jpeg",
-  "host": "Mike",
+  "host": "Neonyx",
   "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1695381467442_41.jpeg",
-  "co_host": [],
+  "co_host": [
+    {
+      "name": "Michael",
+      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1695470328458_756.jpeg"
+    },
+    {
+      "name": "Ilya",
+      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1695470374379_450.jpeg"
+    },
+    {
+      "name": "Niko",
+      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1695470423782_490.jpeg"
+    }
+  ],
   "description": "Unlocking Tomorrow's Internet at LabWeek23 with Neonyx.\n\nJoin us for a web evolution at LabWeek! We're building an internet where privacy is paramount, data is reliable, and borders vanish.\n\nWhat you can Discover:\n\n- Cutting-edge Tech, including Blockchain, IPFS, and DHT Innovations\n- Digital Empowerment\n- Seamless Interoperability\n- Privacy & Security\n- A Borderless Web\n\nShape the digital horizon with us! Welcome to the future!",
   "tags": [
     "Talks & Presentation",
@@ -50,5 +63,8 @@
       "telegram": 2,
       "twitter": 2
     }
+  },
+  "contact_infos": {
+    "Twitter": ""
   }
 }
