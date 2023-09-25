@@ -1,7 +1,7 @@
 {
   "event_contact_name": "Boris Mann",
   "event_contact_email": "boris@fission.codes",
-  "event_name": "IPFS Connect in Istanbul",
+  "event_name": "IPFS Connect Istanbul",
   "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692884191807_572.png",
   "host": "Fission",
   "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692884893331_137.webp",
@@ -18,7 +18,7 @@
   "format": "IN-PERSON",
   "location": "TBD",
   "seat_count": "400-500",
-  "website_link": "https://lu.ma/ipfs-connect-istanbul",
+  "website_link": "https://lu.ma/ipfs-connect-istanbu",
   "agenda": {
     "session": []
   },
@@ -46,5 +46,5 @@
     "Twitter": ""
   },
   "meeting_platform": "",
-  "registration_link": "https://lu.ma/ipfs-connect-istanbul"
+  "registration_link": "https://lu.ma/ipfs-connect-istanbu"
 }
