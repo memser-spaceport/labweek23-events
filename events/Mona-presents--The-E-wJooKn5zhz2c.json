@@ -1,12 +1,12 @@
 {
   "event_contact_name": "Sierra Henry",
   "event_contact_email": "sierra@monaverse.com",
-  "event_name": "Mona presents: The Experience Layer Happy Hour & Minting Experience",
+  "event_name": "Mona presents: The Experience Layer Happy Hour & Free Mint Experience",
   "event_logo": "",
   "host": "Mona",
   "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1694017811407_141.png",
   "co_host": [],
-  "description": "Join us for a happy hour and live VRM Avatar minting experience!",
+  "description": "Join us for a happy hour and VRM Avatar minting experience!",
   "tags": [
     "Social Event"
   ],
@@ -42,5 +42,8 @@
       "telegram": 0,
       "twitter": 0
     }
+  },
+  "contact_infos": {
+    "Twitter": ""
   }
 }
