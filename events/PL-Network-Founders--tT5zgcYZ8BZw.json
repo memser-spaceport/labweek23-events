@@ -1,11 +1,12 @@
 {
   "event_contact_name": "Andrew Woo",
-  "event_contact_email": "spaceport-admin@protocol.ai",
+  "event_contact_email": "labweek23@protocol.ai",
+  "secondary_contacts": [],
   "event_name": "PLN Founders Dinner",
   "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692885075605_26.png",
   "host": "Spaceport",
   "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692885075605_26.png",
-  "co_host": [
+  "co_hosts": [
     {
       "name": "PL Ventures"
     },
@@ -13,7 +14,7 @@
       "name": "PL Accelerators"
     }
   ],
-  "description": "Join us for a dinner social that allows all of the founders in the Protocol Labs Network to learn from and forge deep ties with each other.",
+  "description": "Get ready for the biggest gathering of PLN Founders this year! Don't miss out on the opportunity to connect with the network over dinner and drinks.​The location is will be determined soon, so mark your calendars for Tuesday, November 14. We sincerely hope you join us!<br/><br/>Please note that this event is invite-only and your registration is only confirmed once you've been approved by the event organizer.",
   "tags": [
     "Social Event",
     "Private"
@@ -23,33 +24,109 @@
   "access_type": "IN-HOUSE_REGISTRATION",
   "access_option": "INVITE",
   "format": "IN-PERSON",
-  "location": "TBD",
+  "location": "",
   "seat_count": "100-200",
   "agenda": {
-    "session": []
+    "sessions": []
   },
   "sponsors": [],
   "is_featured": false,
   "conference": "labweek-23",
   "nft_ticketing": {
+    "nft_contract_address": "0x361a9444eeca7890d3c7f44bb8b0ff53f12b1c65",
     "host_wallet_address": "",
-    "verifier_wallet_address": "",
+    "verifier_wallet_addresses": [],
     "custom_event_URL": "pln-founders-dinner",
-    "pattern_colour": "",
-    "bg_colour": "",
-    "pattern": 1,
-    "email": true,
-    "full_name": true,
-    "wallet_address": true,
-    "additional_fields": {
-      "company": 0,
-      "job_title": 0,
-      "telegram": 0,
-      "twitter": 0
-    }
+    "pattern": 2,
+    "hide_event_logo": false,
+    "ticketing_provider": "UNLOCK",
+    "default_fields": [
+      {
+        "name": "name",
+        "key": "name",
+        "label": "Name",
+        "value": 2,
+        "placeholder_text": "Enter Your Full name",
+        "order": 1,
+        "type": "TEXT"
+      },
+      {
+        "name": "email",
+        "key": "email",
+        "label": "Email",
+        "value": 2,
+        "placeholder_text": "Enter Your Contact Email",
+        "order": 2,
+        "type": "TEXT"
+      }
+    ],
+    "additional_fields": [
+      {
+        "order": 5,
+        "type": "text",
+        "name": "dietary_restrictions",
+        "label": "Dietary Restrictions",
+        "key": "dietary_restrictions",
+        "value": 0,
+        "placeholder_text": "Enter any Food Allergies or Restrictions"
+      },
+      {
+        "order": 8,
+        "type": "checkbox",
+        "name": "communication_consent",
+        "label": "I agree to receive communication from Protocol Labs",
+        "key": "communication_consent",
+        "value": 1,
+        "placeholder_text": "I agree to receive communication from Protocol Labs",
+        "alt": "GDPR Consent (yes/no)"
+      },
+      {
+        "order": 1,
+        "type": "text",
+        "name": "company",
+        "label": "Team or Project",
+        "key": "company",
+        "value": 0,
+        "placeholder_text": "Name of the Team or Project"
+      },
+      {
+        "order": 2,
+        "type": "text",
+        "name": "job_title",
+        "label": "Job Title",
+        "key": "job_title",
+        "value": 0,
+        "placeholder_text": "Current Job Title or Position"
+      },
+      {
+        "order": 3,
+        "type": "text",
+        "name": "telegram",
+        "label": "Telegram",
+        "key": "telegram",
+        "value": 0,
+        "placeholder_text": "Telegram Handle/URL"
+      },
+      {
+        "order": 4,
+        "type": "text",
+        "name": "twitter",
+        "label": "Twitter",
+        "key": "twitter",
+        "value": 0,
+        "placeholder_text": "Twitter Handle/URL"
+      },
+      {
+        "order": 6,
+        "type": "text",
+        "name": "wallet_address",
+        "label": "Wallet Address",
+        "key": "wallet_address",
+        "value": 1,
+        "placeholder_text": "Enter FEVM, ETH Address or ENS"
+      }
+    ]
   },
-  "contact_infos": {
-    "Twitter": ""
-  },
+  "contact_infos": {},
   "meeting_platform": ""
 }

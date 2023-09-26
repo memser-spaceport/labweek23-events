@@ -1,10 +1,11 @@
 {
   "event_contact_name": "David Casey",
   "event_contact_email": "david.casey@protocol.ai",
+  "secondary_contacts": [],
   "event_name": "Funding the Commons",
   "host": "Funding the Commons",
   "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692884912627_132.png",
-  "co_host": [
+  "co_hosts": [
     {
       "name": "DPACT",
       "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692884994815_446.webp"
@@ -26,7 +27,7 @@
   "seat_count": "300-400",
   "website_link": "https://fundingthecommons.io/#istanbul-apply",
   "agenda": {
-    "session": []
+    "sessions": []
   },
   "sponsors": [
     {
@@ -37,9 +38,9 @@
   "is_featured": false,
   "conference": "labweek-23",
   "contact_infos": {
-    "Twitter": [
-      "@fundingcommons",
-      "@MerkezsizGm"
+    "twitter": [
+      "https://twitter.com/fundingcommons",
+      "https://twitter.com/MerkezsizGm"
     ]
   },
   "event_logo": "",

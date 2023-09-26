@@ -1,11 +1,12 @@
 {
   "event_contact_name": "Sierra Henry",
   "event_contact_email": "sierra@monaverse.com",
+  "secondary_contacts": [],
   "event_name": "Mona presents: The Experience Layer",
   "event_logo": "",
   "host": "Mona",
   "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1694012240392_183.png",
-  "co_host": [],
+  "co_hosts": [],
   "description": "A multiday showcase of Mona’s platform and SDK through visual and immersive experiences. Enter the metaverse IRL.",
   "tags": [
     "Art Exhibition"
@@ -19,28 +20,11 @@
   "meeting_platform": "",
   "seat_count": "50-100",
   "agenda": {
-    "session": []
+    "sessions": []
   },
   "sponsors": [],
   "is_featured": false,
   "conference": "labweek-23",
-  "nft_ticketing": {
-    "host_wallet_address": "",
-    "verifier_wallet_address": "",
-    "custom_event_URL": "",
-    "pattern_colour": "#fff",
-    "bg_colour": "#156FF7",
-    "pattern": 1,
-    "email": true,
-    "full_name": true,
-    "wallet_address": true,
-    "additional_fields": {
-      "company": 0,
-      "job_title": 0,
-      "telegram": 0,
-      "twitter": 0
-    }
-  },
   "registration_link": "https://lu.ma/epakg4ly",
   "website_link": "https://lu.ma/epakg4ly"
 }
