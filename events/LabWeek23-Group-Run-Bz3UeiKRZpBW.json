@@ -1,11 +1,10 @@
 {
   "event_contact_name": "Ryo Mochido",
   "event_contact_email": "labweek23@protocol.ai",
-  "secondary_contacts": [],
   "event_name": "LabWeek23 Group Run",
   "host": "Spaceport",
   "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692885075605_26.png",
-  "co_hosts": [],
+  "co_host": [],
   "description": "​Come join a group run around the Swissotel! Explore the property with new and old friends while breaking a sweat.",
   "tags": [
     "Social Event"
@@ -116,9 +115,21 @@
         "value": 1,
         "placeholder_text": "Enter FEVM, ETH Address or ENS"
       }
-    ]
+    ],
+    "custom_fields": []
   },
-  "contact_infos": {},
   "event_logo": "",
-  "meeting_platform": ""
+  "meeting_platform": "",
+  "updatedAt": "2023-09-26T21:33:38.073Z",
+  "co_hosts": [],
+  "secondary_contacts": [
+    {
+      "name": "Denice",
+      "email": "denice.zhu@protocol.ai"
+    },
+    {
+      "name": "La Christa",
+      "email": "leccles@protocol.ai"
+    }
+  ]
 }
