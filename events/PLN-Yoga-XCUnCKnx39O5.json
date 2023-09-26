@@ -1,11 +1,10 @@
 {
   "event_contact_name": "Ryo Mochido",
   "event_contact_email": "labweek23@protocol.ai",
-  "secondary_contacts": [],
   "event_name": "PLN Yoga",
   "host": "Spaceport",
   "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692885075605_26.png",
-  "co_hosts": [],
+  "co_host": [],
   "description": "Come connect the body, breath and mind! Come join fellow PLN yogis and experience serenity before you embark on your Lab Week journey. All levels are welcome.",
   "tags": [
     "Social Event"
@@ -116,9 +115,21 @@
         "value": 1,
         "placeholder_text": "Enter FEVM, ETH Address or ENS"
       }
-    ]
+    ],
+    "custom_fields": []
   },
-  "contact_infos": {},
   "event_logo": "",
-  "meeting_platform": ""
+  "meeting_platform": "",
+  "updatedAt": "2023-09-26T21:34:09.473Z",
+  "co_hosts": [],
+  "secondary_contacts": [
+    {
+      "name": "Denice",
+      "email": "denice.zhu@protocol.ai"
+    },
+    {
+      "name": "La Christa",
+      "email": "leccles@protocol.ai"
+    }
+  ]
 }
