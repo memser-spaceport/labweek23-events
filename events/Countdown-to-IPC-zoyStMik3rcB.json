@@ -1,10 +1,11 @@
 {
   "event_contact_name": "Jorge Soares, Mikhail Turilin",
   "event_contact_email": "jorge@protocol.ai",
+  "secondary_contacts": [],
   "event_name": "Countdown to IPC",
   "host": "ConsensusLab",
   "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1695058480014_889.png",
-  "co_host": [
+  "co_hosts": [
     {
       "name": "Textile",
       "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692885094598_266.webp"
@@ -32,33 +33,113 @@
   "access_option": "OPEN",
   "format": "IN-PERSON",
   "location": "Swissôtel",
-  "location_url": "https://goo.gl/maps/dwZTsBnvwaN8e4es7",
+  "location_url": "https://maps.app.goo.gl/JXnJXD5w6MpAtLNT9",
   "seat_count": "50-100",
   "agenda": {
-    "session": []
+    "sessions": []
   },
   "sponsors": [],
   "is_featured": false,
   "conference": "labweek-23",
   "nft_ticketing": {
+    "nft_contract_address": "0x5217aaa74fed519315c10fdede047dcfab43b7c8",
     "host_wallet_address": "",
-    "verifier_wallet_address": "",
+    "verifier_wallet_addresses": [],
     "custom_event_URL": "countdown-to-ipc",
-    "pattern_colour": "#17bdff",
-    "bg_colour": "#156ff6",
-    "pattern": 1,
-    "email": true,
-    "full_name": true,
-    "wallet_address": true,
-    "additional_fields": {
-      "company": 1,
-      "job_title": 0,
-      "telegram": 0,
-      "twitter": 0
-    }
+    "pattern": 2,
+    "hide_event_logo": false,
+    "ticketing_provider": "UNLOCK",
+    "default_fields": [
+      {
+        "name": "name",
+        "key": "name",
+        "label": "Name",
+        "value": 2,
+        "placeholder_text": "Enter Your Full Name",
+        "order": 1,
+        "type": "TEXT"
+      },
+      {
+        "name": "email",
+        "key": "email",
+        "label": "Email",
+        "value": 2,
+        "placeholder_text": "Enter Your Contact Email",
+        "order": 2,
+        "type": "TEXT"
+      }
+    ],
+    "additional_fields": [
+      {
+        "order": 5,
+        "type": "text",
+        "name": "dietary_restrictions",
+        "label": "Dietary Restrictions",
+        "key": "dietary_restrictions",
+        "value": 0,
+        "placeholder_text": "Enter any Food Allergies or Restrictions"
+      },
+      {
+        "order": 8,
+        "type": "checkbox",
+        "name": "communication_consent",
+        "label": "I agree to receive communication from Protocol Labs",
+        "key": "communication_consent",
+        "value": 1,
+        "placeholder_text": "I agree to receive communication from Protocol Labs",
+        "alt": "GDPR Consent (yes/no)"
+      },
+      {
+        "order": 1,
+        "type": "text",
+        "name": "company",
+        "label": "Team or Project",
+        "key": "company",
+        "value": 0,
+        "placeholder_text": "Name of the Team or Project"
+      },
+      {
+        "order": 2,
+        "type": "text",
+        "name": "job_title",
+        "label": "Job Title",
+        "key": "job_title",
+        "value": 0,
+        "placeholder_text": "Current Job Title or Position"
+      },
+      {
+        "order": 3,
+        "type": "text",
+        "name": "telegram",
+        "label": "Telegram",
+        "key": "telegram",
+        "value": 0,
+        "placeholder_text": "Telegram Handle/URL"
+      },
+      {
+        "order": 4,
+        "type": "text",
+        "name": "twitter",
+        "label": "Twitter",
+        "key": "twitter",
+        "value": 0,
+        "placeholder_text": "Twitter Handle/URL"
+      },
+      {
+        "order": 6,
+        "type": "text",
+        "name": "wallet_address",
+        "label": "Wallet Address",
+        "key": "wallet_address",
+        "value": 1,
+        "placeholder_text": "Enter FEVM, ETH Address or ENS"
+      }
+    ]
   },
   "contact_infos": {
-    "Twitter": "https://twitter.com/ConsensusLab_"
+    "twitter": [
+      "https://twitter.com/ConsensusLab"
+    ]
   },
   "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1695058471834_736.png",
   "meeting_platform": "",

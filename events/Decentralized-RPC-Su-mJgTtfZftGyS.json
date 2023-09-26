@@ -1,11 +1,12 @@
 {
   "event_contact_name": "Nadia Venzhina",
   "event_contact_email": "nadia@fluence.one",
+  "secondary_contacts": [],
   "event_name": "Decentralized RPC Summit",
   "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1695287228873_366.jpeg",
   "host": "Fluence Labs",
   "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1695288011629_325.png",
-  "co_host": [
+  "co_hosts": [
     {
       "name": "Drpc.org",
       "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1695287997538_897.png"
@@ -31,34 +32,22 @@
   "registration_link": "https://lu.ma/decompute",
   "website_link": "https://lu.ma/decompute",
   "agenda": {
-    "session": []
+    "sessions": []
   },
   "sponsors": [],
   "is_featured": false,
   "conference": "labweek-23",
-  "nft_ticketing": {
-    "host_wallet_address": "",
-    "verifier_wallet_address": "",
-    "custom_event_URL": "",
-    "pattern_colour": "#fff",
-    "bg_colour": "#156FF7",
-    "pattern": 1,
-    "email": true,
-    "full_name": true,
-    "wallet_address": true,
-    "additional_fields": {
-      "company": 0,
-      "job_title": 0,
-      "telegram": 0,
-      "twitter": 0
-    }
-  },
   "contact_infos": {
-    "Telegram": "https://t.me/derpc_summit",
-    "Twitter": [
+    "twitter": [
       "https://twitter.com/fluence_project",
       "https://twitter.com/drpcorg",
       "https://twitter.com/gateway_eth"
+    ],
+    "telegram": [
+      "https://t.me/derpc_summit"
+    ],
+    "discord": [
+      "https://discordapp.com/channels/899652135552167957/1065052179746000936"
     ]
   }
 }

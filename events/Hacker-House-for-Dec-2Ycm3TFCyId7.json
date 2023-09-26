@@ -1,10 +1,11 @@
 {
   "event_contact_name": "Guo Liu",
   "event_contact_email": "gl@matters.town",
+  "secondary_contacts": [],
   "event_name": "ZuSocial: hacker house for decentralized social infra",
   "host": "Matters Lab",
   "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692884954877_708.webp",
-  "co_host": [
+  "co_hosts": [
     {
       "name": "Mask Network",
       "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692884931856_992.webp"
@@ -27,31 +28,12 @@
   "seat_count": "1-50",
   "website_link": "http://hackerhouse.social/",
   "agenda": {
-    "session": []
+    "sessions": []
   },
   "sponsors": [],
   "is_featured": false,
   "conference": "labweek-23",
-  "nft_ticketing": {
-    "host_wallet_address": "",
-    "verifier_wallet_address": "",
-    "custom_event_URL": "social-infra-hacker-house",
-    "pattern_colour": "",
-    "bg_colour": "",
-    "pattern": 1,
-    "email": true,
-    "full_name": true,
-    "wallet_address": true,
-    "additional_fields": {
-      "company": 0,
-      "job_title": 0,
-      "telegram": 0,
-      "twitter": 0
-    }
-  },
-  "contact_infos": {
-    "Twitter": ""
-  },
+  "contact_infos": {},
   "event_logo": "",
   "meeting_platform": "",
   "registration_link": "http://hackerhouse.social/"

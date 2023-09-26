@@ -1,11 +1,12 @@
 {
   "event_contact_name": "Sierra Henry",
   "event_contact_email": "sierra@monaverse.com",
+  "secondary_contacts": [],
   "event_name": "Mona presents: The Experience Layer Happy Hour & Free Mint Experience",
   "event_logo": "",
   "host": "Mona",
   "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1694017811407_141.png",
-  "co_host": [],
+  "co_hosts": [],
   "description": "Join us for a happy hour and VRM Avatar minting experience!",
   "tags": [
     "Social Event"
@@ -21,29 +22,10 @@
   "registration_link": "https://lu.ma/k6mm4e00",
   "website_link": "https://lu.ma/k6mm4e00",
   "agenda": {
-    "session": []
+    "sessions": []
   },
   "sponsors": [],
   "is_featured": false,
   "conference": "labweek-23",
-  "nft_ticketing": {
-    "host_wallet_address": "",
-    "verifier_wallet_address": "",
-    "custom_event_URL": "",
-    "pattern_colour": "#fff",
-    "bg_colour": "#156FF7",
-    "pattern": 1,
-    "email": true,
-    "full_name": true,
-    "wallet_address": true,
-    "additional_fields": {
-      "company": 0,
-      "job_title": 0,
-      "telegram": 0,
-      "twitter": 0
-    }
-  },
-  "contact_infos": {
-    "Twitter": ""
-  }
+  "contact_infos": {}
 }

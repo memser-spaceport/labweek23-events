@@ -1,11 +1,12 @@
 {
   "event_contact_name": "Talent Protocol",
   "event_contact_email": "contact@talentprotocol.com",
+  "secondary_contacts": [],
   "event_name": "Talent Brunch 🥞 - Istanbul",
   "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692908845631_258.png",
   "host": "Pedro",
   "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692910040331_601.png",
-  "co_host": [
+  "co_hosts": [
     {
       "name": "Juampi",
       "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692910066161_402.png"
@@ -22,13 +23,13 @@
   "access_type": "CUSTOM_REGISTRATION",
   "access_option": "OPEN",
   "format": "IN-PERSON",
-  "location": "TBD",
+  "location": "",
   "meeting_platform": "",
   "seat_count": "50-100",
   "registration_link": "https://lu.ma/TalentBrunch",
   "website_link": "https://lu.ma/TalentBrunch",
   "agenda": {
-    "session": []
+    "sessions": []
   },
   "sponsors": [
     {
@@ -37,22 +38,5 @@
     }
   ],
   "is_featured": false,
-  "conference": "labweek-23",
-  "nft_ticketing": {
-    "host_wallet_address": "",
-    "verifier_wallet_address": "",
-    "custom_event_URL": "",
-    "pattern_colour": "#fff",
-    "bg_colour": "#156FF7",
-    "pattern": 1,
-    "email": true,
-    "full_name": true,
-    "wallet_address": true,
-    "additional_fields": {
-      "company": 0,
-      "job_title": 0,
-      "telegram": 0,
-      "twitter": 0
-    }
-  }
+  "conference": "labweek-23"
 }

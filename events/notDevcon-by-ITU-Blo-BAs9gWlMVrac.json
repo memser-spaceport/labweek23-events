@@ -1,11 +1,12 @@
 {
   "event_contact_name": "Beyza Oral",
   "event_contact_email": "mbeyzaoral9@gmail.com",
+  "secondary_contacts": [],
   "event_name": "notDevcon by ITU Blockchain",
   "event_logo": "",
   "host": "ITU Blockchain",
   "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1695322775354_641.png",
-  "co_host": [],
+  "co_hosts": [],
   "description": "Are you ready to embark on a journey into the heart of Ethereum's core values? Join us for an extraordinary event, notDEVCON, where we will delve into the endless possibilities and societal impact of Ethereum technology. notDEVCON is set to take place on November 14th at the Mustafa Kemal Amphitheater, located within Istanbul Technical University's Maçka Campus in Istanbul.\n\n\n\n\n\n​notDEVCON is more than just a conference; it's a gateway to both the future and the past. As Ethereum continues to shape the digital landscape, this event serves as a compass, guiding you through the intricate realms of Ethereum technology, decentralization, and the new era of Web3. While the blockchain community is evolving rapidly, we believe that the core values that unite us are at risk of being forgotten.",
   "tags": [
     "Talks & Presentation",
@@ -23,26 +24,9 @@
   "registration_link": "https://lu.ma/wm6i1arw",
   "website_link": "https://www.itublockchain.com/",
   "agenda": {
-    "session": []
+    "sessions": []
   },
   "sponsors": [],
   "is_featured": false,
-  "conference": "labweek-23",
-  "nft_ticketing": {
-    "host_wallet_address": "",
-    "verifier_wallet_address": "",
-    "custom_event_URL": "",
-    "pattern_colour": "#fff",
-    "bg_colour": "#156FF7",
-    "pattern": 1,
-    "email": true,
-    "full_name": true,
-    "wallet_address": true,
-    "additional_fields": {
-      "company": 0,
-      "job_title": 0,
-      "telegram": 0,
-      "twitter": 0
-    }
-  }
+  "conference": "labweek-23"
 }
