@@ -25,7 +25,7 @@
   "start_date": "2023-11-12T05:30:00.000Z",
   "end_date": "2023-11-13T17:30:00.000Z",
   "access_type": "IN-HOUSE_REGISTRATION",
-  "access_option": "OPEN",
+  "access_option": "INVITE",
   "format": "HYBRID",
   "location": "Ängelholm, Sweden",
   "location_url": "https://maps.app.goo.gl/cGUsBWFU77XHmW7k7",
@@ -64,7 +64,7 @@
   "is_featured": false,
   "conference": "labweek-23",
   "nft_ticketing": {
-    "nft_contract_address": "0x65fb3052b39abc1d473597f0d995a678e91e2b35",
+    "nft_contract_address": "0xcb250e8a532c6327e10f4b16609b981d2a6bd03d",
     "host_wallet_address": "",
     "verifier_wallet_addresses": [],
     "custom_event_URL": "sanity-one",
@@ -171,5 +171,5 @@
     ]
   },
   "createdAt": "2023-09-26T19:32:09.970Z",
-  "updatedAt": "2023-09-26T19:33:11.755Z"
+  "updatedAt": "2023-09-26T20:03:42.766Z"
 }
