@@ -64,6 +64,7 @@
   "is_featured": false,
   "conference": "labweek-23",
   "nft_ticketing": {
+    "nft_contract_address": "0x65fb3052b39abc1d473597f0d995a678e91e2b35",
     "host_wallet_address": "",
     "verifier_wallet_addresses": [],
     "custom_event_URL": "sanity-one",
