@@ -1,0 +1,174 @@
+{
+  "event_contact_name": "Winston",
+  "event_contact_email": "winstonmanuelvijay.amaljeyakumar@ideas2it.com",
+  "secondary_contacts": [
+    {
+      "name": "Madan",
+      "email": "madan.v@ideas2it.com"
+    }
+  ],
+  "event_name": "Sanity One",
+  "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1695756361893_93.jpeg",
+  "host": "RainDrop",
+  "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1695756387547_576.jpeg",
+  "co_hosts": [],
+  "description": "Description for the test event - Sanity One",
+  "tags": [
+    "Talks & Presentation",
+    "Hackathon",
+    "Art Exhibition",
+    "Workshop",
+    "Social Event",
+    "fly",
+    "test1"
+  ],
+  "start_date": "2023-11-12T05:30:00.000Z",
+  "end_date": "2023-11-13T17:30:00.000Z",
+  "access_type": "IN-HOUSE_REGISTRATION",
+  "access_option": "OPEN",
+  "format": "HYBRID",
+  "location": "Ängelholm, Sweden",
+  "location_url": "https://maps.app.goo.gl/cGUsBWFU77XHmW7k7",
+  "meeting_platform": "Calendly",
+  "meeting_link": "https://calendly.com/winstonmanuelvijay-a/30min",
+  "seat_count": "50-100",
+  "website_link": "https://www.pagani.com/",
+  "agenda": {
+    "sessions": [
+      {
+        "name": "Session 1",
+        "description": "Description for Session 1",
+        "start_date": "2023-11-13T05:30:00.000Z",
+        "end_date": "2023-11-13T07:15:00.000Z"
+      },
+      {
+        "name": "Session 2",
+        "description": "Speaker - Winston",
+        "start_date": "2023-11-13T05:30:00.000Z",
+        "end_date": "2023-11-13T17:30:00.000Z"
+      }
+    ]
+  },
+  "sponsors": [],
+  "contact_infos": {
+    "twitter": [
+      "https://twitter.com/cryptoeconlab"
+    ],
+    "telegram": [
+      "https://t.me/Project_Veritas"
+    ],
+    "discord": [
+      "https://discordapp.com/channels/899652135552167957/1065052179746000936"
+    ]
+  },
+  "is_featured": false,
+  "conference": "labweek-23",
+  "nft_ticketing": {
+    "host_wallet_address": "",
+    "verifier_wallet_addresses": [],
+    "custom_event_URL": "sanity-one",
+    "pattern": 1,
+    "bg_URL": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1695756672975_619.jpeg",
+    "hide_event_logo": false,
+    "ticketing_provider": "UNLOCK",
+    "default_fields": [
+      {
+        "name": "name",
+        "key": "name",
+        "label": "Name",
+        "value": 2,
+        "placeholder_text": "Enter Your Full Name",
+        "order": 1,
+        "type": "TEXT"
+      },
+      {
+        "name": "email",
+        "key": "email",
+        "label": "Email",
+        "value": 2,
+        "placeholder_text": "Enter Your Contact Email",
+        "order": 2,
+        "type": "TEXT"
+      }
+    ],
+    "additional_fields": [
+      {
+        "order": 6,
+        "type": "text",
+        "name": "wallet_address",
+        "label": "Wallet Address",
+        "key": "wallet_address",
+        "value": 1,
+        "placeholder_text": "Enter FEVM, ETH Address or ENS"
+      },
+      {
+        "order": 8,
+        "type": "checkbox",
+        "name": "communication_consent",
+        "label": "I agree to receive communication from Protocol Labs",
+        "key": "communication_consent",
+        "value": 1,
+        "placeholder_text": "I agree to receive communication from Protocol Labs",
+        "alt": "GDPR Consent (yes/no)"
+      },
+      {
+        "order": 1,
+        "type": "text",
+        "name": "company",
+        "label": "Team or Project",
+        "key": "company",
+        "value": 1,
+        "placeholder_text": "Name of the Team or Project"
+      },
+      {
+        "order": 2,
+        "type": "text",
+        "name": "job_title",
+        "label": "Job Title",
+        "key": "job_title",
+        "value": 1,
+        "placeholder_text": "Current Job Title or Position"
+      },
+      {
+        "order": 3,
+        "type": "text",
+        "name": "telegram",
+        "label": "Telegram",
+        "key": "telegram",
+        "value": 1,
+        "placeholder_text": "Telegram Handle/URL"
+      },
+      {
+        "order": 4,
+        "type": "text",
+        "name": "twitter",
+        "label": "Twitter",
+        "key": "twitter",
+        "value": 1,
+        "placeholder_text": "Twitter Handle/URL"
+      },
+      {
+        "order": 5,
+        "type": "text",
+        "name": "dietary_restrictions",
+        "label": "Dietary Restrictions",
+        "key": "dietary_restrictions",
+        "value": 1,
+        "placeholder_text": "Enter Any Food Allergies or Restrictions"
+      }
+    ],
+    "custom_fields": [
+      {
+        "order": 7,
+        "type": "text",
+        "name": "are_you__employed_(yes/no)",
+        "label": "Are You  Employed (Yes/No)",
+        "key": "are_you__employed_(yes/no)",
+        "value": 1,
+        "placeholder_text": "Please confirm your status here"
+      }
+    ]
+  },
+  "createdAt": "2023-09-26T19:32:09.970Z",
+  "updatedAt": "2023-09-26T19:33:11.755Z"
+}
