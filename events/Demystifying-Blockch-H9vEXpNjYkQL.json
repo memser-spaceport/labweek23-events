@@ -1,23 +1,23 @@
 {
   "event_contact_name": "Jérémy Zaccherini, Genia Shipova",
   "event_contact_email": "genia.shipova@zama.ai",
-  "secondary_contacts": [],
-  "event_name": "Demystifying Blockchain Privacy: A Closer Look at Zero-Knowledge Proofs and Fully Homomorphic Encryption",
+  "event_name": "Demystifying Blockchain Privacy: Zama Meetup and Afterwork",
   "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692885115076_794.webp",
   "host": "Zama",
   "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692885115076_794.webp",
-  "co_hosts": [],
-  "description": "Workshop about Zama's recently launched fhEVM, the only protocol based on fully homomorphic encryption (FHE) enabling both transparency and confidentiality on blockchain, followed by an afterwork.",
+  "co_host": [],
+  "description": "The workshop: 6pm-7:30pm 🤓⛓\n\n​Current blockchain transparency is an issue when on-chain data needs to be confidential.\n\n​Zama’s fhEVM, the only protocol based on fully homomorphic encryption (FHE) enabling both transparency and confidentiality, allows computing on the encrypted data on-chain.\n\nFollowing the release of the Zama's fhEVM white paper https://github.com/zama-ai/fhevm/blob/main/fhevm-whitepaper.pdf, Morten Dahl, Zama's Senior Blockchain Director, will dive into how FHE can be integrated directly into the EVM.\n\nHe will also explain how it is enabling developers to write private smart contracts in Solidity, and will tell more about how FHE can contribute to blockchain privacy in comparison to other existing technologies.\n\n​The after workshop: 7:30pm-11pm 🍕🍺\n\n​Right after the meetup the venue will be transformed into a lounge and you’ll be invited to enjoy drinks, food and music with the Zama team. Join us and let’s discuss everything blockchain, privacy and homomorphic encryption.\n\nWe hope you are excited, because we are!",
   "tags": [
     "Workshop",
-    "Social Event"
+    "Social Event",
+    "Talks & Presentation"
   ],
-  "start_date": "2023-11-16T14:00:00.000Z",
-  "end_date": "2023-11-16T17:00:00.000Z",
-  "access_type": "IN-HOUSE_REGISTRATION",
+  "start_date": "2023-11-16T16:00:00.000Z",
+  "end_date": "2023-11-16T20:00:00.000Z",
+  "access_type": "CUSTOM_REGISTRATION",
   "access_option": "OPEN",
   "format": "IN-PERSON",
-  "location": "",
+  "location": "Gabbro Bar, Swissotel The Bosphorus",
   "seat_count": "50-100",
   "website_link": "https://lu.ma/zama-meetup-labweek23",
   "agenda": {
@@ -119,8 +119,18 @@
         "value": 1,
         "placeholder_text": "Enter FEVM, ETH Address or ENS"
       }
+    ],
+    "custom_fields": []
+  },
+  "contact_infos": {
+    "twitter": [
+      "https://twitter.com/zama_fhe"
     ]
   },
-  "contact_infos": {},
-  "meeting_platform": ""
+  "meeting_platform": "",
+  "updatedAt": "2023-09-26T20:42:59.436Z",
+  "co_hosts": [],
+  "secondary_contacts": [],
+  "location_url": "https://www.google.com/maps/place/Swiss%C3%B4tel+The+Bosphorus+Istanbul/@41.0411641,28.9976787,17z/data=!3m1!4b1!4m9!3m8!1s0x14cab77526f3dc9b:0x92ada1dd6c7d611e!5m2!4m1!1i2!8m2!3d41.0411641!4d28.9976787!16s%2Fm%2F0120y9yk?entry=ttu",
+  "registration_link": "https://lu.ma/zama-meetup-labweek23"
 }
