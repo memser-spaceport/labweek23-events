@@ -128,7 +128,7 @@
   "meeting_platform": "",
   "registration_link": "",
   "website_link": "",
-  "updatedAt": "2023-09-26T21:30:36.135Z",
+  "updatedAt": "2023-09-27T17:16:47.221Z",
   "co_hosts": [
     {
       "name": "Spaceport",
@@ -143,6 +143,14 @@
     {
       "name": "La Chrita",
       "email": "leccles@protocol.ai"
+    },
+    {
+      "name": "Brooke",
+      "email": "brooke.vitalie@protocol.ai"
+    },
+    {
+      "name": "Spaceport-admin",
+      "email": "spaceport-admin@protocol.ai"
     }
   ]
 }
