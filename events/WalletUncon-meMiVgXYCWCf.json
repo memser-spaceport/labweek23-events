@@ -25,7 +25,7 @@
   "access_type": "CUSTOM_REGISTRATION",
   "access_option": "OPEN",
   "format": "IN-PERSON",
-  "location": "",
+  "location": "ICC Istanbul",
   "seat_count": "100-200",
   "website_link": "https://walletuncon.org/",
   "agenda": {
@@ -132,7 +132,7 @@
   },
   "event_logo": "",
   "meeting_platform": "",
-  "updatedAt": "2023-09-27T17:28:10.549Z",
+  "updatedAt": "2023-09-27T17:34:12.934Z",
   "co_hosts": [
     {
       "name": "EF"
@@ -145,5 +145,6 @@
     }
   ],
   "secondary_contacts": [],
-  "registration_link": "https://walletuncon.org/"
+  "registration_link": "https://walletuncon.org/",
+  "location_url": "https://maps.app.goo.gl/udQkYavRHuu6HWr69"
 }
