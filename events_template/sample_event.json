@@ -3,9 +3,15 @@
   "event_contact_email": "<valid email>",         #mandatory
   "event_name": "",                               #mandatory
   "event_logo": "",                               # a static url of the logo, may be s3 or ipfs
+  "secondary_contacts": [
+      {
+        "name": "",
+        "email": ""
+      }
+  ]
   "host": "Humans",                               #mandatory
   "host_logo": "",
-  "co_host": [
+  "co_hosts": [
      {
        "name": "",
        "logo": ""                                 # Same rule as event or host logo
@@ -30,7 +36,7 @@
   "registration_link": "",
   "website_link": "",
   "agenda": {
-    "session": [
+    "sessions": [
        {
           name: '',
           description: '',                          # optional
@@ -45,21 +51,43 @@
    ],
   "is_featured": ,                                  # <true/false>,
   "conference": "labweek-23",                       # for now this is the only value supported
-  "nft_ticketing": {                                # if you choose access_type as IN-HOUSE_REGISTRATION
+  "contact_infos": {
+    "twitter": "<link/handle>",
+    "telegram": "",
+    "discord": "",
+    "bluesky": "",
+    "mastadon": ""
+  }
+  "nft_ticketing": {                                # if you choose access_type as IN-HOUSE_REGISTRATION, else not needed
     "host_wallet_address": "",                      # valid wallet address
-    "verifier_wallet_address": "",                  # valid wallet address
-    "custom_event_URL": "",
-    "pattern_colour": "",                           # valid color hex code
-    "bg_colour": "",                                # valid color hex code
+    "verifier_wallet_addresses": [],                # Comma separated valid wallet addresses
+    "custom_event_URL": "",                         # Your custom url path for your event registration page, must be unique
     "pattern": 1,                                   # 1 - 4
-    "email": ,                                      # true/false
-    "full_name": ,                                  # true/false
-    "wallet_address": ,                             # true/false
-    "additional_fields": {
-      "company": 0,                                 # 0 - Off, 1 - optional,  2 - required
-      "job_title": 0,                               # 0 - Off, 1 - optional,  2 - required
-      "telegram": 0,                                # 0 - Off, 1 - optional,  2 - required
-      "twitter": 0                                  # 0 - Off, 1 - optional,  2 - required
-    }
+    "bg_URL": "",                                   # In case you wish to have custom image for your registration page instead of our pattern
+    "hide_event_logo": true/false                   # Whether to show your logo image on top of background image, default - false  
+    "additional_fields": [                          # The commonly used fields apart from default name and email like company, job_title, twitter, wallet_address, dietary_preferences, communication_consent etc
+      {                           
+      "name": "",                                   # Valid string, avoid spaces
+      "key": "",                                    # Avoid spaces, use underscores as joiners
+      "label": "",                                  # Display text to be used in registration form
+      "placeholder_text": "",                       # Placeholder text for the input
+      "alt": "",                                    # The alt text to be used in cases like csv export, leave it blank to use same as label
+      "order": 0...N,                               # Valid integer to arrange the fields in form
+      "value": "",                                  # 0 - Off, 1 - optional,  2 - required
+      "type: ""                                     # TEXT or CHECKBOX
+      }
+    ],
+    "custom_fields": [                              # Custom fields you want specific to your event like age, location etc
+      {                               
+      "name": "",                                   # Valid string, avoid spaces
+      "key": "",                                    # Avoid spaces, use underscores as joiners
+      "label": "",                                  # Display text to be used in registration form
+      "placeholder_text": "",                       # Placeholder text for the input
+      "alt": "",                                    # The alt text to be used in cases like csv export, leave it blank to use same as label
+      "order": 0...N,                               # Valid integer to arrange the fields in form
+      "value": "",                                  # 0 - Off, 1 - optional,  2 - required
+      "type: ""                                     # TEXT or CHECKBOX
+     }
+    ]
   }
 }
