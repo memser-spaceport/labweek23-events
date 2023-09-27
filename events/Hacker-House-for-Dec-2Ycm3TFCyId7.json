@@ -1,11 +1,10 @@
 {
   "event_contact_name": "Guo Liu",
   "event_contact_email": "gl@matters.town",
-  "secondary_contacts": [],
   "event_name": "ZuSocial: hacker house for decentralized social infra",
   "host": "Matters Lab",
   "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692884954877_708.webp",
-  "co_hosts": [
+  "co_host": [
     {
       "name": "Mask Network",
       "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692884931856_992.webp"
@@ -14,7 +13,7 @@
       "name": "Social Layer"
     }
   ],
-  "description": "Social networks are the information fabric of both our personal life and social consensus, a public infra calling for a multi-discipline approach. As part of ZuConnect, this hacker house brings together the experiences from DWeb, the experiments from Web3, and the lessons from physical public spaces, to ask the right questions and challenge the status quo.",
+  "description": "Social networks are the information fabric of both our personal life and social consensus, a public infra calling for a multi-discipline approach. As part of ZuConnect and DevConnect, this 2-week hacker house brings together the experiences from DWeb, the experiments from Web3, and the lessons from physical public spaces, to ask the right questions and challenge the status quo.\n\nWe provide accommodation for hackers to attend hackathons, from in-house demo day to HackZuzalu to ETH Global, providing a space to find collaborators and form teams.  This hacker house is free of charge for accepted applicants.",
   "tags": [
     "Talks & Presentation",
     "Hackathon"
@@ -24,7 +23,7 @@
   "access_type": "CUSTOM_REGISTRATION",
   "access_option": "OPEN",
   "format": "IN-PERSON",
-  "location": "Close to Soho House Istanbul",
+  "location": "",
   "seat_count": "1-50",
   "website_link": "http://hackerhouse.social/",
   "agenda": {
@@ -33,8 +32,40 @@
   "sponsors": [],
   "is_featured": false,
   "conference": "labweek-23",
-  "contact_infos": {},
+  "nft_ticketing": {
+    "host_wallet_address": "",
+    "verifier_wallet_addresses": [],
+    "custom_event_URL": "social-infra-hacker-house",
+    "pattern": 1,
+    "hide_event_logo": false,
+    "default_fields": [],
+    "additional_fields": [
+      {
+        "company": 0,
+        "job_title": 0,
+        "telegram": 0,
+        "twitter": 0
+      }
+    ],
+    "custom_fields": []
+  },
+  "contact_infos": {
+    "twitter": [
+      "https://twitter.com/Mattersw3b"
+    ]
+  },
   "event_logo": "",
   "meeting_platform": "",
-  "registration_link": "http://hackerhouse.social/"
+  "registration_link": "http://hackerhouse.social/",
+  "updatedAt": "2023-09-27T19:09:15.814Z",
+  "co_hosts": [
+    {
+      "name": "Mask Network",
+      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692884931856_992.webp"
+    },
+    {
+      "name": "Social Layer"
+    }
+  ],
+  "secondary_contacts": []
 }
