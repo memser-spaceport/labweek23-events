@@ -1,12 +1,11 @@
 {
   "event_contact_name": "Patrick McClurg",
-  "event_contact_email": "ryo.mochido@protocol.ai",
-  "secondary_contacts": [],
+  "event_contact_email": "patrick.mcclurg@protocol.ai",
   "event_name": "League of Entropy",
   "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692884309666_14.png",
   "host": "drand",
   "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692884609971_622.png",
-  "co_hosts": [],
+  "co_host": [],
   "description": "The League of Entropy together with drand clients will be meet to discuss latest developments, future plans and the immediate roadmap of the team. If you're interested joining, please get in touch by joining our Slack workspace, which can be found at https://drand.love.",
   "tags": [
     "Workshop"
@@ -19,6 +18,7 @@
   "location": "Swissôtel",
   "location_url": "https://maps.app.goo.gl/JXnJXD5w6MpAtLNT9",
   "seat_count": "1-50",
+  "website_link": "",
   "agenda": {
     "sessions": []
   },
@@ -118,8 +118,11 @@
         "value": 1,
         "placeholder_text": "Enter FEVM, ETH Address or ENS"
       }
-    ]
+    ],
+    "custom_fields": []
   },
-  "contact_infos": {},
-  "meeting_platform": ""
+  "meeting_platform": "",
+  "updatedAt": "2023-09-27T17:12:34.623Z",
+  "co_hosts": [],
+  "secondary_contacts": []
 }
