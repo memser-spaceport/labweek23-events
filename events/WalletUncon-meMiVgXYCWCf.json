@@ -1,11 +1,10 @@
 {
   "event_contact_name": "Chris Bentzen",
   "event_contact_email": "chris@fission.codes",
-  "secondary_contacts": [],
   "event_name": "WalletUncon",
   "host": "Fission",
   "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692884893331_137.webp",
-  "co_hosts": [
+  "co_host": [
     {
       "name": "EF"
     },
@@ -23,11 +22,11 @@
   ],
   "start_date": "2023-11-17T06:00:00.000Z",
   "end_date": "2023-11-17T15:00:00.000Z",
-  "access_type": "IN-HOUSE_REGISTRATION",
+  "access_type": "CUSTOM_REGISTRATION",
   "access_option": "OPEN",
   "format": "IN-PERSON",
   "location": "",
-  "seat_count": "1-50",
+  "seat_count": "100-200",
   "website_link": "https://walletuncon.org/",
   "agenda": {
     "sessions": []
@@ -128,9 +127,23 @@
         "value": 1,
         "placeholder_text": "Enter FEVM, ETH Address or ENS"
       }
-    ]
+    ],
+    "custom_fields": []
   },
-  "contact_infos": {},
   "event_logo": "",
-  "meeting_platform": ""
+  "meeting_platform": "",
+  "updatedAt": "2023-09-27T17:13:02.401Z",
+  "co_hosts": [
+    {
+      "name": "EF"
+    },
+    {
+      "name": "WalletConnect"
+    },
+    {
+      "name": "Casa"
+    }
+  ],
+  "secondary_contacts": [],
+  "registration_link": "https://lu.ma/walletuncon-istanbul-savedate"
 }
