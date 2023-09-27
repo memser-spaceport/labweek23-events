@@ -1,26 +1,25 @@
 {
   "event_contact_name": "Meredith Pallante",
   "event_contact_email": "meredith@fil.org",
-  "secondary_contacts": [],
-  "event_name": "Filecoin Network Base",
+  "event_name": "Filecoin Foundation Network Base",
   "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692947272029_471.png",
   "host": "Filecoin Foundation",
   "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692884773993_388.webp",
-  "co_hosts": [],
-  "description": "Visit our co-working space to catch a lightning talk, participate in workshops with developers, and learn the latest on the Filecoin Virtual Machine. Always packed with programming, networking opportunities, builder sessions and more, the Network Base is your go-to spot for cross-chain connections and collaborations. ",
+  "co_host": [],
+  "description": "Visit our co-working space to catch a lightning talk, participate in workshops with developers, and learn the latest on the Filecoin Virtual Machine. Always packed with programming, networking opportunities, builder sessions and more, the Network Base is your go-to spot for cross-chain connections and collaborations.",
   "tags": [
     "Talks & Presentation",
     "Workshop"
   ],
   "start_date": "2023-11-14T06:00:00.000Z",
   "end_date": "2023-11-16T14:00:00.000Z",
-  "access_type": "IN-HOUSE_REGISTRATION",
+  "access_type": "CUSTOM_REGISTRATION",
   "access_option": "OPEN",
   "format": "IN-PERSON",
   "location": "Swissôtel",
   "location_url": "https://maps.app.goo.gl/JXnJXD5w6MpAtLNT9",
   "seat_count": "200-300",
-  "website_link": "https://networkbase.io/",
+  "website_link": "https://networkbase.io/istanbul/",
   "agenda": {
     "sessions": []
   },
@@ -120,8 +119,21 @@
         "value": 1,
         "placeholder_text": "Enter FEVM, ETH Address or ENS"
       }
-    ]
+    ],
+    "custom_fields": []
   },
-  "contact_infos": {},
-  "meeting_platform": ""
+  "meeting_platform": "",
+  "updatedAt": "2023-09-27T15:56:34.355Z",
+  "co_hosts": [],
+  "secondary_contacts": [
+    {
+      "name": "Elsa Nguyen ",
+      "email": "elsa@fil.org"
+    },
+    {
+      "name": "Olivia Sigler",
+      "email": "olivia@fil.org"
+    }
+  ],
+  "registration_link": "https://networkbase.io/istanbul/"
 }
