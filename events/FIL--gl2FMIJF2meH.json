@@ -1,11 +1,10 @@
 {
   "event_contact_name": "Jennifer King, Deep Kapur",
   "event_contact_email": "jennifer.bell@protocol.ai",
-  "secondary_contacts": [],
   "event_name": "FIL+",
   "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692884378470_691.png",
   "host": "Network Growth",
-  "co_hosts": [],
+  "co_host": [],
   "description": "Join us for a day of talks and sessions covering the Fil+ program. Come meet members of the community and learn more about current initiatives and how to get involved.",
   "tags": [
     "Talks & Presentation"
@@ -117,9 +116,21 @@
         "value": 1,
         "placeholder_text": "Enter FEVM, ETH Address or ENS"
       }
-    ]
+    ],
+    "custom_fields": []
   },
-  "contact_infos": {},
   "host_logo": "",
-  "meeting_platform": ""
+  "meeting_platform": "",
+  "updatedAt": "2023-09-27T17:01:12.226Z",
+  "co_hosts": [],
+  "secondary_contacts": [
+    {
+      "name": "ryo",
+      "email": "ryo.mochido@protocol.ai"
+    },
+    {
+      "name": "denice",
+      "email": "denice.zhu@protocol.ai"
+    }
+  ]
 }
