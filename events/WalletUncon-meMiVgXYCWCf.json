@@ -1,6 +1,6 @@
 {
   "event_contact_name": "Chris Bentzen",
-  "event_contact_email": "chris@fission.codes",
+  "event_contact_email": "events@fission.codes",
   "event_name": "WalletUncon",
   "host": "Fission",
   "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692884893331_137.webp",
@@ -132,7 +132,7 @@
   },
   "event_logo": "",
   "meeting_platform": "",
-  "updatedAt": "2023-09-27T17:13:02.401Z",
+  "updatedAt": "2023-09-27T17:14:19.150Z",
   "co_hosts": [
     {
       "name": "EF"
