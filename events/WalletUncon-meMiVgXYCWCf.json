@@ -132,7 +132,7 @@
   },
   "event_logo": "",
   "meeting_platform": "",
-  "updatedAt": "2023-09-27T17:18:23.367Z",
+  "updatedAt": "2023-09-27T17:28:10.549Z",
   "co_hosts": [
     {
       "name": "EF"
@@ -145,5 +145,5 @@
     }
   ],
   "secondary_contacts": [],
-  "registration_link": "https://lu.ma/walletuncon-istanbul-savedate"
+  "registration_link": "https://walletuncon.org/"
 }
