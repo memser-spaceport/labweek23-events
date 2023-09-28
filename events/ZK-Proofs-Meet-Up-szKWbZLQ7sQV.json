@@ -1,0 +1,131 @@
+{
+  "event_contact_name": "Sara Hamdan",
+  "event_contact_email": "sara.hamdan@protocol.ai",
+  "secondary_contacts": [
+    {
+      "name": "Ryo",
+      "email": "ryo.mochido@protocol.ai"
+    }
+  ],
+  "event_name": "ZK Proofs Meet Up",
+  "event_logo": "",
+  "host": "Spaceport",
+  "host_logo": "",
+  "co_hosts": [],
+  "description": "Join us for a casual gathering with various PLN teams to explore the topic of ZK proofs. Whether you have a technical background or simply curious to learn more, this is an opportunity to step back, relax, and savor a Turkish coffee at the PLN Lounge while engaging in insightful discussions",
+  "tags": [
+    "Social Event"
+  ],
+  "start_date": "2023-11-15T08:00:00.000Z",
+  "end_date": "2023-11-15T09:00:00.000Z",
+  "access_type": "IN-HOUSE_REGISTRATION",
+  "access_option": "OPEN",
+  "format": "IN-PERSON",
+  "location": "Swissotel - Lausanne - 5th Floor",
+  "meeting_platform": "",
+  "seat_count": "1-50",
+  "agenda": {
+    "sessions": []
+  },
+  "sponsors": [],
+  "is_featured": false,
+  "conference": "labweek-23",
+  "nft_ticketing": {
+    "host_wallet_address": "",
+    "verifier_wallet_addresses": [],
+    "custom_event_URL": "zkproofs",
+    "pattern": 1,
+    "bg_URL": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1695866732934_40.jpeg",
+    "hide_event_logo": false,
+    "ticketing_provider": "UNLOCK",
+    "default_fields": [
+      {
+        "name": "name",
+        "key": "name",
+        "label": "Name",
+        "value": 2,
+        "placeholder_text": "Enter Your Full Name",
+        "order": 1,
+        "type": "TEXT"
+      },
+      {
+        "name": "email",
+        "key": "email",
+        "label": "Email",
+        "value": 2,
+        "placeholder_text": "Enter Your Contact Email",
+        "order": 2,
+        "type": "TEXT"
+      }
+    ],
+    "additional_fields": [
+      {
+        "order": 2,
+        "type": "text",
+        "name": "job_itle",
+        "label": "Job Title",
+        "key": "job_title",
+        "value": 0,
+        "placeholder_text": "Current Job Title or Position"
+      },
+      {
+        "order": 3,
+        "type": "text",
+        "name": "telegram",
+        "label": "Telegram",
+        "key": "telegram",
+        "value": 0,
+        "placeholder_text": "Telegram Handle/URL"
+      },
+      {
+        "order": 4,
+        "type": "text",
+        "name": "twitter",
+        "label": "Twitter",
+        "key": "twitter",
+        "value": 0,
+        "placeholder_text": "Twitter Handle/URL"
+      },
+      {
+        "order": 5,
+        "type": "text",
+        "name": "dietary_restrictions",
+        "label": "Dietary Restrictions",
+        "key": "dietary_restrictions",
+        "value": 0,
+        "placeholder_text": "Enter Any Food Allergies or Restrictions"
+      },
+      {
+        "order": 8,
+        "type": "checkbox",
+        "name": "communication_consent",
+        "label": "I agree to receive communication from Protocol Labs",
+        "key": "communication_consent",
+        "value": 1,
+        "placeholder_text": "I agree to receive communication from Protocol Labs",
+        "alt": "GDPR Consent (yes/no)"
+      },
+      {
+        "order": 1,
+        "type": "text",
+        "name": "company",
+        "label": "Team or Project",
+        "key": "company",
+        "value": 2,
+        "placeholder_text": "Name of the Team or Project"
+      },
+      {
+        "order": 6,
+        "type": "text",
+        "name": "wallet_address",
+        "label": "Wallet Address",
+        "key": "wallet_address",
+        "value": 0,
+        "placeholder_text": "Enter FEVM, ETH Address or ENS"
+      }
+    ],
+    "custom_fields": []
+  },
+  "createdAt": "2023-09-28T02:05:42.188Z",
+  "updatedAt": "2023-09-28T02:05:42.188Z"
+}
