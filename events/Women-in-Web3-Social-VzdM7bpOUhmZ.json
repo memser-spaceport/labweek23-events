@@ -1,0 +1,131 @@
+{
+  "event_contact_name": "Denice Zhu",
+  "event_contact_email": "denice.zhu@protocol.ai",
+  "secondary_contacts": [
+    {
+      "name": "Ryo ",
+      "email": "ryo.mochido@protocol.ai"
+    }
+  ],
+  "event_name": "Women in Web3 Social",
+  "event_logo": "",
+  "host": "Spaceport",
+  "host_logo": "",
+  "co_hosts": [],
+  "description": "Calling all women who want to innovate in web3! Join us in the PLN Lounge (5th floor, Swissotel), for a chance to connect with other talented women in the space over delightful Turkish coffee. This social is informal, the perfect opportunity to relax, network, and share your experiences and insights.",
+  "tags": [
+    "Social Event"
+  ],
+  "start_date": "2023-11-14T08:00:00.000Z",
+  "end_date": "2023-11-14T09:00:00.000Z",
+  "access_type": "IN-HOUSE_REGISTRATION",
+  "access_option": "OPEN",
+  "format": "IN-PERSON",
+  "location": "Swissotel - Lausanne - 5th Floor",
+  "meeting_platform": "",
+  "seat_count": "1-50",
+  "agenda": {
+    "sessions": []
+  },
+  "sponsors": [],
+  "is_featured": false,
+  "conference": "labweek-23",
+  "nft_ticketing": {
+    "host_wallet_address": "",
+    "verifier_wallet_addresses": [],
+    "custom_event_URL": "womeninweb3",
+    "pattern": 4,
+    "bg_URL": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1695866339072_605.jpeg",
+    "hide_event_logo": false,
+    "ticketing_provider": "UNLOCK",
+    "default_fields": [
+      {
+        "name": "name",
+        "key": "name",
+        "label": "Name",
+        "value": 2,
+        "placeholder_text": "Enter Your Full Name",
+        "order": 1,
+        "type": "TEXT"
+      },
+      {
+        "name": "email",
+        "key": "email",
+        "label": "Email",
+        "value": 2,
+        "placeholder_text": "Enter Your Contact Email",
+        "order": 2,
+        "type": "TEXT"
+      }
+    ],
+    "additional_fields": [
+      {
+        "order": 2,
+        "type": "text",
+        "name": "job_itle",
+        "label": "Job Title",
+        "key": "job_title",
+        "value": 0,
+        "placeholder_text": "Current Job Title or Position"
+      },
+      {
+        "order": 3,
+        "type": "text",
+        "name": "telegram",
+        "label": "Telegram",
+        "key": "telegram",
+        "value": 0,
+        "placeholder_text": "Telegram Handle/URL"
+      },
+      {
+        "order": 4,
+        "type": "text",
+        "name": "twitter",
+        "label": "Twitter",
+        "key": "twitter",
+        "value": 0,
+        "placeholder_text": "Twitter Handle/URL"
+      },
+      {
+        "order": 5,
+        "type": "text",
+        "name": "dietary_restrictions",
+        "label": "Dietary Restrictions",
+        "key": "dietary_restrictions",
+        "value": 0,
+        "placeholder_text": "Enter Any Food Allergies or Restrictions"
+      },
+      {
+        "order": 8,
+        "type": "checkbox",
+        "name": "communication_consent",
+        "label": "I agree to receive communication from Protocol Labs",
+        "key": "communication_consent",
+        "value": 1,
+        "placeholder_text": "I agree to receive communication from Protocol Labs",
+        "alt": "GDPR Consent (yes/no)"
+      },
+      {
+        "order": 1,
+        "type": "text",
+        "name": "company",
+        "label": "Team or Project",
+        "key": "company",
+        "value": 2,
+        "placeholder_text": "Name of the Team or Project"
+      },
+      {
+        "order": 6,
+        "type": "text",
+        "name": "wallet_address",
+        "label": "Wallet Address",
+        "key": "wallet_address",
+        "value": 0,
+        "placeholder_text": "Enter FEVM, ETH Address or ENS"
+      }
+    ],
+    "custom_fields": []
+  },
+  "createdAt": "2023-09-28T01:59:12.712Z",
+  "updatedAt": "2023-09-28T01:59:12.712Z"
+}
