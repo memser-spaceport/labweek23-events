@@ -8,9 +8,9 @@
     }
   ],
   "event_name": "ZK Proofs Meet Up",
-  "event_logo": "",
+  "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1695870448587_678.jpeg",
   "host": "Spaceport",
-  "host_logo": "",
+  "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1695870100074_844.png",
   "co_hosts": [],
   "description": "Join us for a casual gathering with various PLN teams to explore the topic of ZK proofs. Whether you have a technical background or simply curious to learn more, this is an opportunity to step back, relax, and savor a Turkish coffee at the PLN Lounge while engaging in insightful discussions",
   "tags": [
@@ -127,5 +127,6 @@
     "custom_fields": []
   },
   "createdAt": "2023-09-28T02:05:42.188Z",
-  "updatedAt": "2023-09-28T02:05:42.188Z"
+  "updatedAt": "2023-09-28T03:07:42.134Z",
+  "location_url": "https://maps.app.goo.gl/QUPRAuTjiCsz9YgT8"
 }
