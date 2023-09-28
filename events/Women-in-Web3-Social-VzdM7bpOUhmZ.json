@@ -31,6 +31,7 @@
   "is_featured": false,
   "conference": "labweek-23",
   "nft_ticketing": {
+    "nft_contract_address": "0x31b349a34a9eeace8e76177f2fb72e5f4bcbac84",
     "host_wallet_address": "",
     "verifier_wallet_addresses": [],
     "custom_event_URL": "womeninweb3",

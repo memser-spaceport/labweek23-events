@@ -31,6 +31,7 @@
   "is_featured": false,
   "conference": "labweek-23",
   "nft_ticketing": {
+    "nft_contract_address": "0xcc346a5107d814f339d8b16041f6fe825536b11b",
     "host_wallet_address": "",
     "verifier_wallet_addresses": [],
     "custom_event_URL": "zkproofs",
