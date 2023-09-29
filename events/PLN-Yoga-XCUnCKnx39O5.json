@@ -1,6 +1,6 @@
 {
   "event_contact_name": "Ryo Mochido",
-  "event_contact_email": "labweek23@protocol.ai",
+  "event_contact_email": "ryo.mochido@protocol.ai",
   "event_name": "PLN Yoga",
   "host": "Spaceport",
   "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692885075605_26.png",
@@ -120,7 +120,7 @@
   },
   "event_logo": "",
   "meeting_platform": "",
-  "updatedAt": "2023-09-28T18:18:49.301Z",
+  "updatedAt": "2023-09-29T19:22:14.223Z",
   "co_hosts": [],
   "secondary_contacts": [
     {
