@@ -1,12 +1,11 @@
 {
   "event_contact_name": "Prithvi Shahi",
   "event_contact_email": "prithvi.shahi@protocol.ai",
-  "secondary_contacts": [],
   "event_name": "libp2p Day",
   "event_logo": "",
   "host": "Prithvi Shahi",
   "host_logo": "",
-  "co_hosts": [
+  "co_host": [
     {
       "name": "Dave Huseby",
       "logo": ""
@@ -123,7 +122,22 @@
         "value": 1,
         "placeholder_text": "Enter FEVM, ETH Address or ENS"
       }
-    ]
+    ],
+    "custom_fields": []
   },
-  "contact_infos": {}
+  "registration_link": "",
+  "website_link": "",
+  "updatedAt": "2023-09-29T17:00:49.150Z",
+  "co_hosts": [
+    {
+      "name": "Dave Huseby",
+      "logo": ""
+    }
+  ],
+  "secondary_contacts": [
+    {
+      "name": "David Huseby",
+      "email": "david.huseby@protocol.ai"
+    }
+  ]
 }
