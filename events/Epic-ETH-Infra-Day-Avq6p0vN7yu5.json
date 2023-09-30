@@ -29,10 +29,20 @@
   "agenda": {
     "sessions": [
       {
-        "name": "Agenda",
-        "description": "2:00 PM — ​​doors opening, networking, food;\n2:30 — 7:20 PM — keynotes, panel discussion, AMA session;\n7:30 — 9:30 PM — networking, food & music 🧞🧚",
+        "name": "​​Doors opening, networking, food",
+        "description": "",
         "start_date": "2023-11-15T11:00:00.000Z",
-        "end_date": "2023-11-15T18:30:00.000Z"
+        "end_date": "2023-11-15T11:30:00.000Z"
+      },
+      {
+        "start_date": "2023-11-15T11:30:00.000Z",
+        "end_date": "2023-11-15T16:20:00.000Z",
+        "name": "Keynotes, panel discussion, AMA session"
+      },
+      {
+        "start_date": "2023-11-15T16:30:00.000Z",
+        "end_date": "2023-11-15T18:30:00.000Z",
+        "name": "Networking, food & music 🧞🧚"
       }
     ]
   },
@@ -124,5 +134,5 @@
     "custom_fields": []
   },
   "createdAt": "2023-09-29T08:37:30.392Z",
-  "updatedAt": "2023-09-29T08:37:30.392Z"
+  "updatedAt": "2023-09-30T00:04:03.251Z"
 }
