@@ -1,0 +1,113 @@
+{
+  "event_contact_name": "Dana",
+  "event_contact_email": "dana@banyan.computer",
+  "secondary_contacts": [],
+  "event_name": "Banyan Social",
+  "event_logo": "",
+  "host": "Banyan",
+  "host_logo": "",
+  "co_hosts": [
+    {
+      "name": "Glif",
+      "logo": ""
+    }
+  ],
+  "description": "Check back for more information!",
+  "tags": [
+    "Social Event"
+  ],
+  "start_date": "2023-11-14T11:00:00.000Z",
+  "end_date": "2023-11-14T15:00:00.000Z",
+  "access_type": "CUSTOM_REGISTRATION",
+  "access_option": "INVITE",
+  "format": "IN-PERSON",
+  "location": "Lausanne Conference Room, Swissotel",
+  "location_url": "https://maps.app.goo.gl/Kk3AUPGc5oxRoJ6y5",
+  "meeting_platform": "",
+  "seat_count": "1-50",
+  "website_link": "https://www.banyan.computer/",
+  "agenda": {
+    "sessions": []
+  },
+  "sponsors": [],
+  "is_featured": false,
+  "conference": "labweek-23",
+  "nft_ticketing": {
+    "host_wallet_address": "",
+    "verifier_wallet_addresses": [],
+    "custom_event_URL": "",
+    "pattern": 1,
+    "hide_event_logo": false,
+    "ticketing_provider": "UNLOCK",
+    "default_fields": [],
+    "additional_fields": [
+      {
+        "order": 1,
+        "type": "text",
+        "name": "company",
+        "label": "Team or Project",
+        "key": "company",
+        "value": 0,
+        "placeholder_text": "Name of the Team or Project"
+      },
+      {
+        "order": 2,
+        "type": "text",
+        "name": "job_itle",
+        "label": "Job Title",
+        "key": "job_title",
+        "value": 0,
+        "placeholder_text": "Current Job Title or Position"
+      },
+      {
+        "order": 3,
+        "type": "text",
+        "name": "telegram",
+        "label": "Telegram",
+        "key": "telegram",
+        "value": 0,
+        "placeholder_text": "Telegram Handle/URL"
+      },
+      {
+        "order": 4,
+        "type": "text",
+        "name": "twitter",
+        "label": "Twitter",
+        "key": "twitter",
+        "value": 0,
+        "placeholder_text": "Twitter Handle/URL"
+      },
+      {
+        "order": 5,
+        "type": "text",
+        "name": "dietary_restrictions",
+        "label": "Dietary Restrictions",
+        "key": "dietary_restrictions",
+        "value": 0,
+        "placeholder_text": "Enter Any Food Allergies or Restrictions"
+      },
+      {
+        "order": 6,
+        "type": "text",
+        "name": "wallet_address",
+        "label": "Wallet Address",
+        "key": "wallet_address",
+        "value": 1,
+        "placeholder_text": "Enter FEVM, ETH Address or ENS"
+      },
+      {
+        "order": 8,
+        "type": "checkbox",
+        "name": "communication_consent",
+        "label": "I agree to receive communication from Protocol Labs",
+        "key": "communication_consent",
+        "value": 1,
+        "placeholder_text": "I agree to receive communication from Protocol Labs",
+        "alt": "GDPR Consent (yes/no)"
+      }
+    ],
+    "custom_fields": []
+  },
+  "createdAt": "2023-10-02T19:32:34.580Z",
+  "updatedAt": "2023-10-02T19:32:34.580Z"
+}
