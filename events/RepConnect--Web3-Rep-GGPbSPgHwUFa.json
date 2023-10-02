@@ -2,7 +2,7 @@
   "event_contact_name": "Kristal Soman",
   "event_contact_email": "kristal@3box.io",
   "event_name": "RepConnect: Web3 Reputation Summit",
-  "event_logo": "",
+  "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1696290333247_203.png",
   "host": "Ceramic",
   "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1695156174869_977.png",
   "co_host": [],
@@ -30,8 +30,7 @@
     "host_wallet_address": "0xd2f72f214C73890519C2423A25BD47be51A257c0",
     "verifier_wallet_addresses": [],
     "custom_event_URL": "repconnect",
-    "pattern": 4,
-    "bg_URL": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1696289877451_164.png",
+    "pattern": 1,
     "hide_event_logo": true,
     "ticketing_provider": "UNLOCK",
     "default_fields": [],
@@ -73,7 +72,7 @@
       }
     ]
   },
-  "updatedAt": "2023-10-02T23:38:05.561Z",
+  "updatedAt": "2023-10-02T23:46:24.834Z",
   "co_hosts": [
     {
       "name": "Veramo Labs",
