@@ -25,7 +25,13 @@
   "meeting_platform": "",
   "seat_count": "1-50",
   "agenda": {
-    "sessions": []
+    "sessions": [
+      {
+        "start_date": "2023-11-14T08:00:00.000Z",
+        "end_date": "2023-11-14T09:00:00.000Z",
+        "name": "Social Hour"
+      }
+    ]
   },
   "sponsors": [],
   "is_featured": false,
@@ -128,6 +134,6 @@
     "custom_fields": []
   },
   "createdAt": "2023-09-28T01:59:12.712Z",
-  "updatedAt": "2023-10-02T20:52:55.989Z",
+  "updatedAt": "2023-10-02T20:54:59.944Z",
   "location_url": "https://maps.app.goo.gl/QUPRAuTjiCsz9YgT8"
 }
