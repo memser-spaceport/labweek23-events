@@ -31,7 +31,7 @@
     "verifier_wallet_addresses": [],
     "custom_event_URL": "repconnect",
     "pattern": 4,
-    "bg_URL": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1696288935093_913.png",
+    "bg_URL": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1696289510786_735.png",
     "hide_event_logo": true,
     "ticketing_provider": "UNLOCK",
     "default_fields": [],
@@ -73,7 +73,7 @@
       }
     ]
   },
-  "updatedAt": "2023-10-02T23:22:36.558Z",
+  "updatedAt": "2023-10-02T23:32:01.953Z",
   "co_hosts": [
     {
       "name": "Veramo Labs",
