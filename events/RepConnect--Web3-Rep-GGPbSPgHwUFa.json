@@ -1,31 +1,85 @@
 {
   "event_contact_name": "Kristal Soman",
   "event_contact_email": "kristal@3box.io",
-  "secondary_contacts": [],
   "event_name": "RepConnect: Web3 Reputation Summit",
   "event_logo": "",
   "host": "Ceramic",
   "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1695156174869_977.png",
-  "co_hosts": [],
-  "description": "Ceramic presents RepConnect: The Web3 Reputation Summit. Delve into the technical intricacies and visionary future of composable reputation. Engage in panels, talks, and workshops exploring challenges and opportunities in dApps, DeFi, DAOs, DeSci, AI, and loyalty systems.",
+  "co_host": [],
+  "description": "Ceramic & Veramo Labs present RepConnect: The Web3 Reputation Summit. Delve into the technical intricacies and visionary future of composable reputation. Engage in panels, talks, and workshops exploring challenges and opportunities in dApps, DeFi, DAOs, DeSci, AI, and loyalty systems.",
   "tags": [
     "Talks & Presentation",
     "Summit"
   ],
   "start_date": "2023-11-13T06:00:00.000Z",
   "end_date": "2023-11-13T09:00:00.000Z",
-  "access_type": "CUSTOM_REGISTRATION",
+  "access_type": "IN-HOUSE_REGISTRATION",
   "access_option": "OPEN",
   "format": "IN-PERSON",
-  "location": "",
+  "location": "Swissôtel",
   "meeting_platform": "",
   "seat_count": "100-200",
   "website_link": "https://ceramic.network",
   "agenda": {
     "sessions": []
   },
-  "contact_infos": {},
   "sponsors": [],
   "is_featured": false,
-  "conference": "labweek-23"
+  "conference": "labweek-23",
+  "nft_ticketing": {
+    "host_wallet_address": "0xd2f72f214C73890519C2423A25BD47be51A257c0",
+    "verifier_wallet_addresses": [],
+    "custom_event_URL": "repconnect",
+    "pattern": 4,
+    "bg_URL": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1696288935093_913.png",
+    "hide_event_logo": true,
+    "ticketing_provider": "UNLOCK",
+    "default_fields": [],
+    "additional_fields": [
+      {
+        "company": 0,
+        "job_title": 0,
+        "telegram": 0,
+        "twitter": 0
+      },
+      {
+        "order": 1,
+        "type": "text",
+        "name": "company",
+        "label": "Team or Project",
+        "key": "company",
+        "value": 1,
+        "placeholder_text": "Name of the Team or Project"
+      },
+      {
+        "order": 3,
+        "type": "text",
+        "name": "telegram",
+        "label": "Telegram",
+        "key": "telegram",
+        "value": 1,
+        "placeholder_text": "Telegram Handle/URL"
+      }
+    ],
+    "custom_fields": [
+      {
+        "order": 7,
+        "type": "text",
+        "name": "custom_field",
+        "label": "Custom Field",
+        "key": "custom_field",
+        "value": 0,
+        "placeholder_text": "Provide Your Inputs"
+      }
+    ]
+  },
+  "updatedAt": "2023-10-02T23:22:36.558Z",
+  "co_hosts": [
+    {
+      "name": "Veramo Labs",
+      "logo": ""
+    }
+  ],
+  "secondary_contacts": [],
+  "location_url": "https://www.google.com/maps/place/Swiss%C3%B4tel+The+Bosphorus+Istanbul/@41.0411641,28.9976787,17z/data=!3m1!4b1!4m9!3m8!1s0x14cab77526f3dc9b:0x92ada1dd6c7d611e!5m2!4m1!1i2!8m2!3d41.0411641!4d28.9976787!16s%2Fm%2F0120y9yk?entry=ttu"
 }
