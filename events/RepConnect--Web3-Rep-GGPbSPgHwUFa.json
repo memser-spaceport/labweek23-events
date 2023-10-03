@@ -6,7 +6,7 @@
   "host": "Ceramic",
   "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1695156174869_977.png",
   "co_host": [],
-  "description": "Ceramic & Veramo Labs present RepConnect: The Web3 Reputation Summit. Delve into the technical intricacies and visionary future of composable reputation. Engage in panels, talks, and workshops exploring challenges and opportunities in dApps, DeFi, DAOs, DeSci, AI, and loyalty systems.",
+  "description": "RepConnect is setting the stage to enlighten the web3 community about how reputation is revolutionizing the decentralized space – from dApps and DeFi, to DAOs, DeSci, AI, and loyalty systems.\n\nWe're gathering top projects and leading thinkers from the reputation and identity worlds for one purpose: to discuss our shared future. The space is evolving, and the impact being created is undeniable.\n\nJoin us for a transformative day of insightful keynotes, impactful panel discussions, and networking with peers and trailblazers who are redefining reputation, badging and identity in the web3 ecosystem. We've meticulously curated a lineup of speakers poised to equip you with innovative strategies and profound insights.",
   "tags": [
     "Talks & Presentation",
     "Summit"
@@ -72,7 +72,7 @@
       }
     ]
   },
-  "updatedAt": "2023-10-03T01:45:42.948Z",
+  "updatedAt": "2023-10-03T05:48:40.603Z",
   "co_hosts": [
     {
       "name": "Veramo Labs",
@@ -80,5 +80,6 @@
     }
   ],
   "secondary_contacts": [],
-  "location_url": "https://www.google.com/maps/place/Swiss%C3%B4tel+The+Bosphorus+Istanbul/@41.0411641,28.9976787,17z/data=!3m1!4b1!4m9!3m8!1s0x14cab77526f3dc9b:0x92ada1dd6c7d611e!5m2!4m1!1i2!8m2!3d41.0411641!4d28.9976787!16s%2Fm%2F0120y9yk?entry=ttu"
+  "location_url": "https://www.google.com/maps/place/Swiss%C3%B4tel+The+Bosphorus+Istanbul/@41.0411641,28.9976787,17z/data=!3m1!4b1!4m9!3m8!1s0x14cab77526f3dc9b:0x92ada1dd6c7d611e!5m2!4m1!1i2!8m2!3d41.0411641!4d28.9976787!16s%2Fm%2F0120y9yk?entry=ttu",
+  "registration_link": "https://repconnect.splashthat.com/"
 }
