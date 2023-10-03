@@ -1,5 +1,5 @@
 {
-  "event_contact_name": "Jorge Soares, Mikhail Turilin",
+  "event_contact_name": "Jorge Soares",
   "event_contact_email": "jorge@protocol.ai",
   "event_name": "Countdown to IPC",
   "host": "ConsensusLab",
@@ -145,7 +145,7 @@
   "meeting_platform": "",
   "registration_link": "https://23.labweek.io/countdown-to-ipc",
   "website_link": "https://23.labweek.io/countdown-to-ipc",
-  "updatedAt": "2023-10-03T07:26:54.561Z",
+  "updatedAt": "2023-10-03T21:33:08.399Z",
   "co_hosts": [
     {
       "name": "Textile",
@@ -164,5 +164,10 @@
       "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692885020237_929.webp"
     }
   ],
-  "secondary_contacts": []
+  "secondary_contacts": [
+    {
+      "name": "Mikhail Turilin",
+      "email": "mikhail.turilin@protocol.ai"
+    }
+  ]
 }
