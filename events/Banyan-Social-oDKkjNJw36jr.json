@@ -1,7 +1,12 @@
 {
   "event_contact_name": "Dana",
   "event_contact_email": "dana@banyan.computer",
-  "secondary_contacts": [],
+  "secondary_contacts": [
+    {
+      "name": "Theresa",
+      "email": "theresa.therriault@gmail.com"
+    }
+  ],
   "event_name": "Banyan Social",
   "event_logo": "",
   "host": "Banyan",
@@ -12,7 +17,7 @@
       "logo": ""
     }
   ],
-  "description": "Check back for more information!",
+  "description": "Come hang out with Banyan to learn about our onboarding products, talk about providing data as an SP, and give us feedback. The entire team will be in attendance. There will be snacks!",
   "tags": [
     "Social Event"
   ],
@@ -109,7 +114,7 @@
     "custom_fields": []
   },
   "createdAt": "2023-10-02T19:32:34.580Z",
-  "updatedAt": "2023-10-03T18:37:06.151Z",
+  "updatedAt": "2023-10-04T15:17:38.722Z",
   "contact_infos": {
     "twitter": [
       "https://twitter.com/BanyanComputer"
