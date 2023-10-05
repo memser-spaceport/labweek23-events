@@ -1,0 +1,116 @@
+{
+  "event_contact_name": "Jay Kurahashi-Sofue",
+  "event_contact_email": "jay@avalabs.org",
+  "secondary_contacts": [],
+  "event_name": "Avalanche House | Istanbul",
+  "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1696513743981_927.png",
+  "host": "Avalanche",
+  "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1696513581978_441.png",
+  "co_hosts": [],
+  "description": "​The tech is real, and you'll find out how at Avalanche House | Istanbul. ​​Connect with like-minded individuals, participate in thought-provoking discussions, and explore cutting-edge ideas. The event will feature a lineup of esteemed speakers, captivating performances, interactive art, and gaming activations all carefully curated to leave you feeling inspired.",
+  "tags": [
+    "Talks & Presentation",
+    "Workshop",
+    "Social Event",
+    "Art Exhibition"
+  ],
+  "start_date": "2023-11-14T07:30:00.000Z",
+  "end_date": "2023-11-14T16:00:00.000Z",
+  "access_type": "CUSTOM_REGISTRATION",
+  "access_option": "OPEN",
+  "format": "IN-PERSON",
+  "location": "TBD",
+  "meeting_platform": "",
+  "seat_count": "700+",
+  "registration_link": "https://lu.ma/avalanchehouse_istanbul_2023",
+  "website_link": "https://lu.ma/avalanchehouse_istanbul_2023",
+  "agenda": {
+    "sessions": []
+  },
+  "sponsors": [],
+  "contact_infos": {
+    "twitter": [
+      "https://twitter.com/avax"
+    ]
+  },
+  "is_featured": false,
+  "conference": "labweek-23",
+  "nft_ticketing": {
+    "host_wallet_address": "",
+    "verifier_wallet_addresses": [],
+    "custom_event_URL": "",
+    "pattern": 1,
+    "hide_event_logo": false,
+    "ticketing_provider": "UNLOCK",
+    "default_fields": [],
+    "additional_fields": [
+      {
+        "order": 1,
+        "type": "text",
+        "name": "company",
+        "label": "Team or Project",
+        "key": "company",
+        "value": 0,
+        "placeholder_text": "Name of the Team or Project"
+      },
+      {
+        "order": 2,
+        "type": "text",
+        "name": "job_itle",
+        "label": "Job Title",
+        "key": "job_title",
+        "value": 0,
+        "placeholder_text": "Current Job Title or Position"
+      },
+      {
+        "order": 3,
+        "type": "text",
+        "name": "telegram",
+        "label": "Telegram",
+        "key": "telegram",
+        "value": 0,
+        "placeholder_text": "Telegram Handle/URL"
+      },
+      {
+        "order": 4,
+        "type": "text",
+        "name": "twitter",
+        "label": "Twitter",
+        "key": "twitter",
+        "value": 0,
+        "placeholder_text": "Twitter Handle/URL"
+      },
+      {
+        "order": 5,
+        "type": "text",
+        "name": "dietary_restrictions",
+        "label": "Dietary Restrictions",
+        "key": "dietary_restrictions",
+        "value": 0,
+        "placeholder_text": "Enter Any Food Allergies or Restrictions"
+      },
+      {
+        "order": 6,
+        "type": "text",
+        "name": "wallet_address",
+        "label": "Wallet Address",
+        "key": "wallet_address",
+        "value": 1,
+        "placeholder_text": "Enter FEVM, ETH Address or ENS"
+      },
+      {
+        "order": 8,
+        "type": "checkbox",
+        "name": "communication_consent",
+        "label": "I agree to receive communication from Protocol Labs",
+        "key": "communication_consent",
+        "value": 1,
+        "placeholder_text": "I agree to receive communication from Protocol Labs",
+        "alt": "GDPR Consent (yes/no)"
+      }
+    ],
+    "custom_fields": []
+  },
+  "createdAt": "2023-10-05T13:49:06.866Z",
+  "updatedAt": "2023-10-05T13:49:06.866Z"
+}
