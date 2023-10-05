@@ -17,7 +17,7 @@
   "tags": [
     "Social Event",
     "Private",
-    "Invite-Only"
+    "Invite Only"
   ],
   "start_date": "2023-11-14T15:00:00.000Z",
   "end_date": "2023-11-14T19:30:00.000Z",
@@ -129,7 +129,7 @@
     "custom_fields": []
   },
   "meeting_platform": "",
-  "updatedAt": "2023-10-05T19:40:40.719Z",
+  "updatedAt": "2023-10-05T19:41:00.494Z",
   "co_hosts": [
     {
       "name": "PL Ventures"
