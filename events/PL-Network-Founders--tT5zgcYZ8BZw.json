@@ -61,15 +61,6 @@
     ],
     "additional_fields": [
       {
-        "order": 5,
-        "type": "text",
-        "name": "dietary_restrictions",
-        "label": "Dietary Restrictions",
-        "key": "dietary_restrictions",
-        "value": 0,
-        "placeholder_text": "Enter any Food Allergies or Restrictions"
-      },
-      {
         "order": 8,
         "type": "checkbox",
         "name": "communication_consent",
@@ -78,24 +69,6 @@
         "value": 1,
         "placeholder_text": "I agree to receive communication from Protocol Labs",
         "alt": "GDPR Consent (yes/no)"
-      },
-      {
-        "order": 1,
-        "type": "text",
-        "name": "company",
-        "label": "Team or Project",
-        "key": "company",
-        "value": 0,
-        "placeholder_text": "Name of the Team or Project"
-      },
-      {
-        "order": 2,
-        "type": "text",
-        "name": "job_title",
-        "label": "Job Title",
-        "key": "job_title",
-        "value": 0,
-        "placeholder_text": "Current Job Title or Position"
       },
       {
         "order": 3,
@@ -123,12 +96,39 @@
         "key": "wallet_address",
         "value": 1,
         "placeholder_text": "Enter FEVM, ETH Address or ENS"
+      },
+      {
+        "order": 1,
+        "type": "text",
+        "name": "company",
+        "label": "Team or Project",
+        "key": "company",
+        "value": 1,
+        "placeholder_text": "Name of the Team or Project"
+      },
+      {
+        "order": 2,
+        "type": "text",
+        "name": "job_title",
+        "label": "Job Title",
+        "key": "job_title",
+        "value": 1,
+        "placeholder_text": "Current Job Title or Position"
+      },
+      {
+        "order": 5,
+        "type": "text",
+        "name": "dietary_restrictions",
+        "label": "Dietary Restrictions",
+        "key": "dietary_restrictions",
+        "value": 1,
+        "placeholder_text": "Enter Any Food Allergies or Restrictions"
       }
     ],
     "custom_fields": []
   },
   "meeting_platform": "",
-  "updatedAt": "2023-09-28T18:18:27.425Z",
+  "updatedAt": "2023-10-05T19:37:15.314Z",
   "co_hosts": [
     {
       "name": "PL Ventures"
