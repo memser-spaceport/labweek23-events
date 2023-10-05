@@ -1,0 +1,117 @@
+{
+  "event_contact_name": "Denice Zhu",
+  "event_contact_email": "denicezhu@gmail.com",
+  "secondary_contacts": [],
+  "event_name": "ETHGlobal Istanbul Hackathon",
+  "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1696475749174_55.jpeg",
+  "host": "ETHGlobal",
+  "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1696475740570_42.png",
+  "co_hosts": [],
+  "description": "Hackathons teach new skills, strengthen developer communities, and push the limits of new technologies. Join us at ETHGlobal Istanbul to help build the decentralized future!",
+  "tags": [
+    "Talks & Presentation",
+    "Hackathon",
+    "Workshop",
+    "Social Event"
+  ],
+  "start_date": "2023-11-17T10:00:00.000Z",
+  "end_date": "2023-11-19T16:00:00.000Z",
+  "access_type": "CUSTOM_REGISTRATION",
+  "access_option": "OPEN",
+  "format": "IN-PERSON",
+  "location": "ICC - Istanbul Congress Center",
+  "location_url": "https://maps.app.goo.gl/Htoo7nPdpTgehvKE6",
+  "meeting_platform": "",
+  "seat_count": "1-50",
+  "registration_link": "https://ethglobal.com/events/istanbul/apply",
+  "website_link": "https://ethglobal.com/events/istanbul",
+  "agenda": {
+    "sessions": []
+  },
+  "sponsors": [],
+  "contact_infos": {
+    "twitter": [
+      "https://x.com/ETHGlobal"
+    ]
+  },
+  "is_featured": false,
+  "conference": "labweek-23",
+  "nft_ticketing": {
+    "host_wallet_address": "",
+    "verifier_wallet_addresses": [],
+    "custom_event_URL": "",
+    "pattern": 1,
+    "hide_event_logo": false,
+    "ticketing_provider": "UNLOCK",
+    "default_fields": [],
+    "additional_fields": [
+      {
+        "order": 1,
+        "type": "text",
+        "name": "company",
+        "label": "Team or Project",
+        "key": "company",
+        "value": 0,
+        "placeholder_text": "Name of the Team or Project"
+      },
+      {
+        "order": 2,
+        "type": "text",
+        "name": "job_itle",
+        "label": "Job Title",
+        "key": "job_title",
+        "value": 0,
+        "placeholder_text": "Current Job Title or Position"
+      },
+      {
+        "order": 3,
+        "type": "text",
+        "name": "telegram",
+        "label": "Telegram",
+        "key": "telegram",
+        "value": 0,
+        "placeholder_text": "Telegram Handle/URL"
+      },
+      {
+        "order": 4,
+        "type": "text",
+        "name": "twitter",
+        "label": "Twitter",
+        "key": "twitter",
+        "value": 0,
+        "placeholder_text": "Twitter Handle/URL"
+      },
+      {
+        "order": 5,
+        "type": "text",
+        "name": "dietary_restrictions",
+        "label": "Dietary Restrictions",
+        "key": "dietary_restrictions",
+        "value": 0,
+        "placeholder_text": "Enter Any Food Allergies or Restrictions"
+      },
+      {
+        "order": 6,
+        "type": "text",
+        "name": "wallet_address",
+        "label": "Wallet Address",
+        "key": "wallet_address",
+        "value": 1,
+        "placeholder_text": "Enter FEVM, ETH Address or ENS"
+      },
+      {
+        "order": 8,
+        "type": "checkbox",
+        "name": "communication_consent",
+        "label": "I agree to receive communication from Protocol Labs",
+        "key": "communication_consent",
+        "value": 1,
+        "placeholder_text": "I agree to receive communication from Protocol Labs",
+        "alt": "GDPR Consent (yes/no)"
+      }
+    ],
+    "custom_fields": []
+  },
+  "createdAt": "2023-10-05T03:30:56.421Z",
+  "updatedAt": "2023-10-05T18:06:00.762Z"
+}
