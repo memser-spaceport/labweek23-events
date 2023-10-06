@@ -12,7 +12,7 @@
     }
   ],
   "event_name": "CryptoKitchen: DWeb Open Day",
-  "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1696434349554_995.png",
+  "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1696605247152_886.png",
   "host": "DataverseOS",
   "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1696433633256_286.png",
   "co_hosts": [
@@ -128,5 +128,5 @@
     "custom_fields": []
   },
   "createdAt": "2023-10-04T16:16:08.117Z",
-  "updatedAt": "2023-10-06T01:20:26.006Z"
+  "updatedAt": "2023-10-06T15:14:20.873Z"
 }
