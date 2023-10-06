@@ -31,8 +31,8 @@
   "access_type": "CUSTOM_REGISTRATION",
   "access_option": "OPEN",
   "format": "IN-PERSON",
-  "location": "Göknar Sokak No 11 daire 21, Beşiktaş",
-  "location_url": "https://www.google.com/maps/place/Muradiye,+G%C3%B6knar+Sk.+No:11+D:21,+34357+Be%C5%9Fikta%C5%9F%2F%C4%B0stanbul,+T%C3%BCrkiye/@41.048537,28.9968091,17z/data=!3m1!4b1!4m5!3m4!1s0x14cab70a074e6c91:0x40891741505ccf8e!8m2!3d41.048533!4d28.999384?entry=ttu",
+  "location": "TBD",
+  "location_url": "",
   "meeting_platform": "",
   "seat_count": "1-50",
   "registration_link": "https://app.unlock-protocol.com/event/crypto-kitchen-1",
@@ -51,6 +51,82 @@
   },
   "is_featured": false,
   "conference": "labweek-23",
+  "nft_ticketing": {
+    "host_wallet_address": "",
+    "verifier_wallet_addresses": [],
+    "custom_event_URL": "",
+    "pattern": 1,
+    "hide_event_logo": false,
+    "ticketing_provider": "UNLOCK",
+    "default_fields": [],
+    "additional_fields": [
+      {
+        "order": 1,
+        "type": "text",
+        "name": "company",
+        "label": "Team or Project",
+        "key": "company",
+        "value": 0,
+        "placeholder_text": "Name of the Team or Project"
+      },
+      {
+        "order": 2,
+        "type": "text",
+        "name": "job_itle",
+        "label": "Job Title",
+        "key": "job_title",
+        "value": 0,
+        "placeholder_text": "Current Job Title or Position"
+      },
+      {
+        "order": 3,
+        "type": "text",
+        "name": "telegram",
+        "label": "Telegram",
+        "key": "telegram",
+        "value": 0,
+        "placeholder_text": "Telegram Handle/URL"
+      },
+      {
+        "order": 4,
+        "type": "text",
+        "name": "twitter",
+        "label": "Twitter",
+        "key": "twitter",
+        "value": 0,
+        "placeholder_text": "Twitter Handle/URL"
+      },
+      {
+        "order": 5,
+        "type": "text",
+        "name": "dietary_restrictions",
+        "label": "Dietary Restrictions",
+        "key": "dietary_restrictions",
+        "value": 0,
+        "placeholder_text": "Enter Any Food Allergies or Restrictions"
+      },
+      {
+        "order": 6,
+        "type": "text",
+        "name": "wallet_address",
+        "label": "Wallet Address",
+        "key": "wallet_address",
+        "value": 1,
+        "placeholder_text": "Enter FEVM, ETH Address or ENS"
+      },
+      {
+        "order": 8,
+        "type": "checkbox",
+        "name": "communication_consent",
+        "label": "I agree to receive communication from Protocol Labs",
+        "key": "communication_consent",
+        "value": 1,
+        "placeholder_text": "I agree to receive communication from Protocol Labs",
+        "alt": "GDPR Consent (yes/no)"
+      }
+    ],
+    "custom_fields": []
+  },
   "createdAt": "2023-10-04T16:16:08.117Z",
-  "updatedAt": "2023-10-04T16:17:04.614Z"
+  "updatedAt": "2023-10-06T01:20:26.006Z"
 }
