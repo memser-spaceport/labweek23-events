@@ -9,9 +9,23 @@
   ],
   "event_name": "d:pact",
   "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1696273176842_370.png",
-  "host": "Merkezsiz, Paribu Hub, Funding the Commons, Token Engineering Academy, Regens Unite",
+  "host": "Merkezsiz",
   "host_logo": "",
-  "co_hosts": [],
+  "co_hosts": [
+    {
+      "name": "Paribu Hub"
+    },
+    {
+      "name": "Funding the Commons",
+      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692884912627_132.png"
+    },
+    {
+      "name": "Token Engineering Academy"
+    },
+    {
+      "name": "Regens Unite"
+    }
+  ],
   "description": "D:pact is a day summit at the heart of Istanbul during DevConnect which covers Media, Culture and Impact. The event will serve as a catalyst for stimulating discussions, forging meaningful connections, and nurturing innovative approaches that can drive positive change in our interconnected world by diving deep into technical concepts from a non-technical perspective.",
   "tags": [
     "Talks & Presentation",
@@ -33,82 +47,6 @@
   "sponsors": [],
   "is_featured": false,
   "conference": "labweek-23",
-  "nft_ticketing": {
-    "host_wallet_address": "",
-    "verifier_wallet_addresses": [],
-    "custom_event_URL": "",
-    "pattern": 1,
-    "hide_event_logo": false,
-    "ticketing_provider": "UNLOCK",
-    "default_fields": [],
-    "additional_fields": [
-      {
-        "order": 1,
-        "type": "text",
-        "name": "company",
-        "label": "Team or Project",
-        "key": "company",
-        "value": 0,
-        "placeholder_text": "Name of the Team or Project"
-      },
-      {
-        "order": 2,
-        "type": "text",
-        "name": "job_itle",
-        "label": "Job Title",
-        "key": "job_title",
-        "value": 0,
-        "placeholder_text": "Current Job Title or Position"
-      },
-      {
-        "order": 3,
-        "type": "text",
-        "name": "telegram",
-        "label": "Telegram",
-        "key": "telegram",
-        "value": 0,
-        "placeholder_text": "Telegram Handle/URL"
-      },
-      {
-        "order": 4,
-        "type": "text",
-        "name": "twitter",
-        "label": "Twitter",
-        "key": "twitter",
-        "value": 0,
-        "placeholder_text": "Twitter Handle/URL"
-      },
-      {
-        "order": 5,
-        "type": "text",
-        "name": "dietary_restrictions",
-        "label": "Dietary Restrictions",
-        "key": "dietary_restrictions",
-        "value": 0,
-        "placeholder_text": "Enter Any Food Allergies or Restrictions"
-      },
-      {
-        "order": 6,
-        "type": "text",
-        "name": "wallet_address",
-        "label": "Wallet Address",
-        "key": "wallet_address",
-        "value": 1,
-        "placeholder_text": "Enter FEVM, ETH Address or ENS"
-      },
-      {
-        "order": 8,
-        "type": "checkbox",
-        "name": "communication_consent",
-        "label": "I agree to receive communication from Protocol Labs",
-        "key": "communication_consent",
-        "value": 1,
-        "placeholder_text": "I agree to receive communication from Protocol Labs",
-        "alt": "GDPR Consent (yes/no)"
-      }
-    ],
-    "custom_fields": []
-  },
   "createdAt": "2023-10-02T19:03:15.971Z",
   "updatedAt": "2023-10-03T07:58:59.425Z"
 }
