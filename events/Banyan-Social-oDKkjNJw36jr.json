@@ -8,7 +8,7 @@
     }
   ],
   "event_name": "Banyan Social",
-  "event_logo": "",
+  "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1696961153749_923.png",
   "host": "Banyan",
   "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1696358145494_914.png",
   "co_hosts": [
@@ -114,10 +114,11 @@
     "custom_fields": []
   },
   "createdAt": "2023-10-02T19:32:34.580Z",
-  "updatedAt": "2023-10-04T15:17:38.722Z",
+  "updatedAt": "2023-10-10T18:10:27.466Z",
   "contact_infos": {
     "twitter": [
       "https://twitter.com/BanyanComputer"
     ]
-  }
+  },
+  "registration_link": "https://partiful.com/e/eJR8hQbhM9rXXZSQwxLW"
 }
