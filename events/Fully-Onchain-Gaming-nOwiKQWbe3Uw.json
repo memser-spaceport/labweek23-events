@@ -1,0 +1,152 @@
+{
+  "event_contact_name": "Jose Betancourt",
+  "event_contact_email": "jose@ontropy.io",
+  "secondary_contacts": [],
+  "event_name": "Fully Onchain Gaming Day",
+  "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1696961051380_687.png",
+  "host": "Ontropy",
+  "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1696960579147_242.png",
+  "co_hosts": [
+    {
+      "name": "Manta",
+      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1696960706160_249.png"
+    },
+    {
+      "name": "Yale Blockchain",
+      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1696960731238_904.png"
+    }
+  ],
+  "description": "Welcome to Fully Onchain Gaming Day hosted by Ontropy, Manta Network and Yale Blockchain. We are thrilled to announce a variety industry leading onchain gaming founders, researchers and investors, all whom can shed a light on the up and coming trends and technologies in the space. *Speaker line-ups and agenda will be posted shortly",
+  "tags": [
+    "Talks & Presentation"
+  ],
+  "start_date": "2023-11-13T21:00:00.000Z",
+  "end_date": "2023-11-13T21:00:00.000Z",
+  "access_type": "CUSTOM_REGISTRATION",
+  "access_option": "OPEN",
+  "format": "IN-PERSON",
+  "location": "Sofitel Istanbul",
+  "location_url": "https://www.google.com/maps/search/?api=1&query=Sofitel%20Istanbul%20Taksim&query_place_id=ChIJGS8FGfe3yhQRG0pkuRAfJAU",
+  "meeting_platform": "",
+  "seat_count": "100-200",
+  "website_link": "https://lu.ma/gcxez81l",
+  "agenda": {
+    "sessions": []
+  },
+  "sponsors": [],
+  "contact_infos": {
+    "twitter": [
+      "https://x.com/ontropy"
+    ]
+  },
+  "is_featured": false,
+  "conference": "labweek-23",
+  "nft_ticketing": {
+    "host_wallet_address": "",
+    "verifier_wallet_addresses": [],
+    "custom_event_URL": "",
+    "pattern": 3,
+    "hide_event_logo": false,
+    "ticketing_provider": "UNLOCK",
+    "default_fields": [
+      {
+        "name": "name",
+        "key": "name",
+        "label": "Name",
+        "value": 2,
+        "placeholder_text": "Enter Your Full Name",
+        "order": 1,
+        "type": "TEXT"
+      },
+      {
+        "name": "email",
+        "key": "email",
+        "label": "Email",
+        "value": 2,
+        "placeholder_text": "Enter Your Contact Email",
+        "order": 2,
+        "type": "TEXT"
+      }
+    ],
+    "additional_fields": [
+      {
+        "order": 2,
+        "type": "text",
+        "name": "job_itle",
+        "label": "Job Title",
+        "key": "job_title",
+        "value": 0,
+        "placeholder_text": "Current Job Title or Position"
+      },
+      {
+        "order": 4,
+        "type": "text",
+        "name": "twitter",
+        "label": "Twitter",
+        "key": "twitter",
+        "value": 0,
+        "placeholder_text": "Twitter Handle/URL"
+      },
+      {
+        "order": 5,
+        "type": "text",
+        "name": "dietary_restrictions",
+        "label": "Dietary Restrictions",
+        "key": "dietary_restrictions",
+        "value": 0,
+        "placeholder_text": "Enter Any Food Allergies or Restrictions"
+      },
+      {
+        "order": 8,
+        "type": "checkbox",
+        "name": "communication_consent",
+        "label": "I agree to receive communication from Protocol Labs",
+        "key": "communication_consent",
+        "value": 1,
+        "placeholder_text": "I agree to receive communication from Protocol Labs",
+        "alt": "GDPR Consent (yes/no)"
+      },
+      {
+        "order": 1,
+        "type": "text",
+        "name": "company",
+        "label": "Team or Project",
+        "key": "company",
+        "value": 2,
+        "placeholder_text": "Name of the Team or Project"
+      },
+      {
+        "order": 6,
+        "type": "text",
+        "name": "wallet_address",
+        "label": "Wallet Address",
+        "key": "wallet_address",
+        "value": 0,
+        "placeholder_text": "Enter FEVM, ETH Address or ENS"
+      },
+      {
+        "order": 3,
+        "type": "text",
+        "name": "telegram",
+        "label": "Telegram",
+        "key": "telegram",
+        "value": 2,
+        "placeholder_text": "Telegram Handle/URL"
+      }
+    ],
+    "custom_fields": [
+      {
+        "order": 7,
+        "type": "text",
+        "name": "custom_field",
+        "label": "Custom Field",
+        "key": "custom_field",
+        "value": 0,
+        "placeholder_text": "Provide Your Inputs"
+      }
+    ]
+  },
+  "createdAt": "2023-10-10T18:06:07.967Z",
+  "updatedAt": "2023-10-11T21:17:19.641Z",
+  "registration_link": "https://lu.ma/gcxez81l"
+}
