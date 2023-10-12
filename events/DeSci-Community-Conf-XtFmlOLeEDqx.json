@@ -1,11 +1,10 @@
 {
   "event_contact_name": "Joshua Bate",
-  "event_contact_email": "vincent@molecule.to",
-  "secondary_contacts": [],
+  "event_contact_email": "joshua@coinstruct.live",
   "event_name": "DeSci Community Conference",
   "host": "Molecule",
   "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692884974604_856.png",
-  "co_hosts": [
+  "co_host": [
     {
       "name": "DeSci Labs",
       "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692884590720_329.png"
@@ -121,9 +120,17 @@
         "value": 1,
         "placeholder_text": "Enter FEVM, ETH Address or ENS"
       }
-    ]
+    ],
+    "custom_fields": []
   },
-  "contact_infos": {},
   "event_logo": "",
-  "meeting_platform": ""
+  "meeting_platform": "",
+  "updatedAt": "2023-10-12T19:08:12.827Z",
+  "co_hosts": [
+    {
+      "name": "DeSci Labs",
+      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692884590720_329.png"
+    }
+  ],
+  "secondary_contacts": []
 }
