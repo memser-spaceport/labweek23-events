@@ -23,7 +23,26 @@
   "location": "Swissotel",
   "seat_count": "1-50",
   "agenda": {
-    "sessions": []
+    "sessions": [
+      {
+        "start_date": "2023-11-13T07:00:00.000Z",
+        "end_date": "2023-11-13T14:00:00.000Z",
+        "name": "Room 1: People and Projects of DeSci",
+        "description": "Gain some insights into the individuals that are leading the charge in decentralised science; the stories, the projects and their voices."
+      },
+      {
+        "start_date": "2023-11-13T07:00:00.000Z",
+        "end_date": "2023-11-13T14:00:00.000Z",
+        "name": "Room 2: DeSci Solutions for Enterprise Application",
+        "description": "Showcasing the most powerful and practical applications of the DeSci stack for Enterprise use-cases. "
+      },
+      {
+        "start_date": "2023-11-13T07:00:00.000Z",
+        "end_date": "2023-11-13T14:00:00.000Z",
+        "name": "Room 3: Governance and Standards in DeSci",
+        "description": "A new paradigm of science and academia requires a new understanding of protocol governace and operational standards. Contribute to the discussion!"
+      }
+    ]
   },
   "sponsors": [],
   "is_featured": false,
@@ -141,7 +160,7 @@
   },
   "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1697140613722_829.png",
   "meeting_platform": "",
-  "updatedAt": "2023-10-12T20:06:32.037Z",
+  "updatedAt": "2023-10-12T20:27:30.805Z",
   "co_hosts": [
     {
       "name": "Rymedi",
