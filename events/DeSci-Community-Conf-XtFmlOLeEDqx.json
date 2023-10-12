@@ -10,12 +10,12 @@
       "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692884590720_329.png"
     }
   ],
-  "description": "",
+  "description": "[[Speaker Applications: https://forms.gle/gw8yHe6Bz4tUyJ9XA]]\n\nA wonderful opportunity for DeScientists and onlookers alike to get exposed to the Protocol Labs network, DeSci builders and external web3 advocates.\n\nThose attending can expect to collaborate, ideate and form new partnerships in this budding space. This is a pivotal moment in DeSci history - the bottom of the hill. Don't hesitate, develop your project, your network and your vision!",
   "tags": [
     "Workshop",
     "Talks & Presentation"
   ],
-  "start_date": "2023-11-13T07:00:00.000Z",
+  "start_date": "2023-11-13T06:00:00.000Z",
   "end_date": "2023-11-13T14:00:00.000Z",
   "access_type": "IN-HOUSE_REGISTRATION",
   "access_option": "OPEN",
@@ -25,19 +25,19 @@
   "agenda": {
     "sessions": [
       {
-        "start_date": "2023-11-13T07:00:00.000Z",
+        "start_date": "2023-11-13T06:30:00.000Z",
         "end_date": "2023-11-13T14:00:00.000Z",
         "name": "Room 1: People and Projects of DeSci",
         "description": "Gain some insights into the individuals that are leading the charge in decentralised science; the stories, the projects and their voices."
       },
       {
-        "start_date": "2023-11-13T07:00:00.000Z",
+        "start_date": "2023-11-13T06:30:00.000Z",
         "end_date": "2023-11-13T14:00:00.000Z",
         "name": "Room 2: DeSci Solutions for Enterprise Application",
-        "description": "Showcasing the most powerful and practical applications of the DeSci stack for Enterprise use-cases. "
+        "description": "Showcasing the most powerful and practical applications of the DeSci stack for Enterprise use-cases."
       },
       {
-        "start_date": "2023-11-13T07:00:00.000Z",
+        "start_date": "2023-11-13T06:30:00.000Z",
         "end_date": "2023-11-13T14:00:00.000Z",
         "name": "Room 3: Governance and Standards in DeSci",
         "description": "A new paradigm of science and academia requires a new understanding of protocol governace and operational standards. Contribute to the discussion!"
@@ -160,7 +160,7 @@
   },
   "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1697140613722_829.png",
   "meeting_platform": "",
-  "updatedAt": "2023-10-12T20:27:30.805Z",
+  "updatedAt": "2023-10-12T21:14:56.459Z",
   "co_hosts": [
     {
       "name": "Rymedi",
