@@ -30,7 +30,7 @@
   "conference": "labweek-23",
   "nft_ticketing": {
     "nft_contract_address": "0x990ccb970581ed42a8bed7c3df8ae7f50a0e1083",
-    "host_wallet_address": "",
+    "host_wallet_address": "0xBAC78374F87D02d3b0d6FAf82d8794201D40b35B",
     "verifier_wallet_addresses": [],
     "custom_event_URL": "desci-community-conference",
     "pattern": 2,
@@ -77,12 +77,30 @@
         "alt": "GDPR Consent (yes/no)"
       },
       {
+        "order": 4,
+        "type": "text",
+        "name": "twitter",
+        "label": "Twitter",
+        "key": "twitter",
+        "value": 0,
+        "placeholder_text": "Twitter Handle/URL"
+      },
+      {
+        "order": 6,
+        "type": "text",
+        "name": "wallet_address",
+        "label": "Wallet Address",
+        "key": "wallet_address",
+        "value": 1,
+        "placeholder_text": "Enter FEVM, ETH Address or ENS"
+      },
+      {
         "order": 1,
         "type": "text",
         "name": "company",
         "label": "Team or Project",
         "key": "company",
-        "value": 0,
+        "value": 1,
         "placeholder_text": "Name of the Team or Project"
       },
       {
@@ -100,33 +118,30 @@
         "name": "telegram",
         "label": "Telegram",
         "key": "telegram",
-        "value": 0,
-        "placeholder_text": "Telegram Handle/URL"
-      },
-      {
-        "order": 4,
-        "type": "text",
-        "name": "twitter",
-        "label": "Twitter",
-        "key": "twitter",
-        "value": 0,
-        "placeholder_text": "Twitter Handle/URL"
-      },
-      {
-        "order": 6,
-        "type": "text",
-        "name": "wallet_address",
-        "label": "Wallet Address",
-        "key": "wallet_address",
         "value": 1,
-        "placeholder_text": "Enter FEVM, ETH Address or ENS"
+        "placeholder_text": "Telegram Handle/URL"
       }
     ],
-    "custom_fields": []
+    "custom_fields": [
+      {
+        "order": 7,
+        "type": "text",
+        "name": "key_interest_in_desci",
+        "label": "Key Interest in DeSci",
+        "key": "key_interest_in_desci",
+        "value": 1,
+        "placeholder_text": "Provide Your Inputs"
+      }
+    ]
+  },
+  "contact_infos": {
+    "twitter": [
+      "https://twitter.com/DeSciWorld/"
+    ]
   },
   "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1697140613722_829.png",
   "meeting_platform": "",
-  "updatedAt": "2023-10-12T19:57:15.195Z",
+  "updatedAt": "2023-10-12T20:06:32.037Z",
   "co_hosts": [
     {
       "name": "Rymedi",
