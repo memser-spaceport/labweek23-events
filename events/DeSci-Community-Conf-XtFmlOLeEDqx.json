@@ -2,8 +2,8 @@
   "event_contact_name": "Joshua Bate",
   "event_contact_email": "joshua@coinstruct.live",
   "event_name": "DeSci Community Conference",
-  "host": "Molecule",
-  "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692884974604_856.png",
+  "host": "DeSciWorld",
+  "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1697140046461_284.png",
   "co_host": [
     {
       "name": "DeSci Labs",
@@ -12,14 +12,15 @@
   ],
   "description": "",
   "tags": [
-    "Workshop"
+    "Workshop",
+    "Talks & Presentation"
   ],
-  "start_date": "2023-11-12T06:00:00.000Z",
+  "start_date": "2023-11-13T07:00:00.000Z",
   "end_date": "2023-11-13T14:00:00.000Z",
   "access_type": "IN-HOUSE_REGISTRATION",
   "access_option": "OPEN",
   "format": "IN-PERSON",
-  "location": "",
+  "location": "Swissotel",
   "seat_count": "1-50",
   "agenda": {
     "sessions": []
@@ -123,13 +124,17 @@
     ],
     "custom_fields": []
   },
-  "event_logo": "",
+  "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1697140613722_829.png",
   "meeting_platform": "",
-  "updatedAt": "2023-10-12T19:08:12.827Z",
+  "updatedAt": "2023-10-12T19:57:15.195Z",
   "co_hosts": [
     {
+      "name": "Rymedi",
+      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1697140036330_442.jpeg"
+    },
+    {
       "name": "DeSci Labs",
-      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692884590720_329.png"
+      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1697140113973_48.jpeg"
     }
   ],
   "secondary_contacts": []
