@@ -1,0 +1,121 @@
+{
+  "event_contact_name": "Lana",
+  "event_contact_email": "lana@flare.network",
+  "secondary_contacts": [],
+  "event_name": "Flare [Dev] Meetup: Istanbul Edition",
+  "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1697173629261_207.png",
+  "host": "Flare Network",
+  "host_logo": "",
+  "co_hosts": [],
+  "description": "Discover Flare, the Blockchain for Data, at DevConnect Week.\n\n🗓️ Date: November 16th, 2023\n🕗 Time: 8PM - 11PM\n📍 Location: Istanbul\n\nCalling all Developers. Get ready for a night of code and connections with Flare at a secret location in Istanbul - free flowing drinks supplied.\n\nNumbers are limited so the location will only be revealed to approved registrants in your confirmation email.\n\nCome and meet the Flare team and connect with fellow devs shaping the future of blockchain #FlareMeetup\n\nAbout Flare:\n- Flare is the blockchain for data, an EVM smart contract platform that expands the utility of blockchain. \n- With decentralized oracles built into the structure of the network, Flare is the only smart contract platform optimized for decentralized data acquisition - price & time series data, blockchain event & state data, and web2 API data.\n- Flare’s mission is to provide developers with decentralized access, at scale, and for minimal cost, to all of the data and data proofs they need to build new blockchain use cases that are more relevant to more people\n- We call this “data as a public good”",
+  "tags": [
+    "Social Event",
+    "networking",
+    "drinks"
+  ],
+  "start_date": "2023-11-16T17:00:00.000Z",
+  "end_date": "2023-11-16T20:00:00.000Z",
+  "access_type": "CUSTOM_REGISTRATION",
+  "access_option": "OPEN",
+  "format": "IN-PERSON",
+  "location": "Istanbul",
+  "meeting_platform": "",
+  "seat_count": "200-300",
+  "registration_link": "https://lu.ma/vjuh197f",
+  "website_link": "https://lu.ma/vjuh197f",
+  "agenda": {
+    "sessions": []
+  },
+  "sponsors": [],
+  "contact_infos": {
+    "twitter": [
+      "https://twitter.com/FlareNetworks"
+    ],
+    "telegram": [
+      "https://t.me/FlareNetwork"
+    ],
+    "discord": [
+      "https://discord.com/invite/flarenetwork"
+    ]
+  },
+  "is_featured": false,
+  "conference": "labweek-23",
+  "nft_ticketing": {
+    "host_wallet_address": "",
+    "verifier_wallet_addresses": [],
+    "custom_event_URL": "",
+    "pattern": 1,
+    "hide_event_logo": false,
+    "ticketing_provider": "UNLOCK",
+    "default_fields": [],
+    "additional_fields": [
+      {
+        "order": 1,
+        "type": "text",
+        "name": "company",
+        "label": "Team or Project",
+        "key": "company",
+        "value": 0,
+        "placeholder_text": "Name of the Team or Project"
+      },
+      {
+        "order": 2,
+        "type": "text",
+        "name": "job_itle",
+        "label": "Job Title",
+        "key": "job_title",
+        "value": 0,
+        "placeholder_text": "Current Job Title or Position"
+      },
+      {
+        "order": 3,
+        "type": "text",
+        "name": "telegram",
+        "label": "Telegram",
+        "key": "telegram",
+        "value": 0,
+        "placeholder_text": "Telegram Handle/URL"
+      },
+      {
+        "order": 4,
+        "type": "text",
+        "name": "twitter",
+        "label": "Twitter",
+        "key": "twitter",
+        "value": 0,
+        "placeholder_text": "Twitter Handle/URL"
+      },
+      {
+        "order": 5,
+        "type": "text",
+        "name": "dietary_restrictions",
+        "label": "Dietary Restrictions",
+        "key": "dietary_restrictions",
+        "value": 0,
+        "placeholder_text": "Enter Any Food Allergies or Restrictions"
+      },
+      {
+        "order": 6,
+        "type": "text",
+        "name": "wallet_address",
+        "label": "Wallet Address",
+        "key": "wallet_address",
+        "value": 1,
+        "placeholder_text": "Enter FEVM, ETH Address or ENS"
+      },
+      {
+        "order": 8,
+        "type": "checkbox",
+        "name": "communication_consent",
+        "label": "I agree to receive communication from Protocol Labs",
+        "key": "communication_consent",
+        "value": 1,
+        "placeholder_text": "I agree to receive communication from Protocol Labs",
+        "alt": "GDPR Consent (yes/no)"
+      }
+    ],
+    "custom_fields": []
+  },
+  "createdAt": "2023-10-13T05:10:18.833Z",
+  "updatedAt": "2023-10-13T05:10:18.833Z"
+}
