@@ -53,6 +53,7 @@
     "verifier_wallet_addresses": [],
     "custom_event_URL": "desci-community-conference",
     "pattern": 2,
+    "bg_URL": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1697365542489_34.jpeg",
     "hide_event_logo": false,
     "ticketing_provider": "UNLOCK",
     "default_fields": [
@@ -160,7 +161,7 @@
   },
   "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1697140613722_829.png",
   "meeting_platform": "",
-  "updatedAt": "2023-10-12T21:18:30.584Z",
+  "updatedAt": "2023-10-15T10:26:03.271Z",
   "co_hosts": [
     {
       "name": "Rymedi",
