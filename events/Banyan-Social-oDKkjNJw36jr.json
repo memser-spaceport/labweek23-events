@@ -21,7 +21,7 @@
       "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1697473537501_664.png"
     }
   ],
-  "description": "Take a pause from LabWeek with Banyan and Glif! We’re cohosting a coffee break to relax, mingle, and chat about the future of decentralized storage.\nWhy You should Come\nSnag some snacks and warm beverages\n Learn more about Banyan’s approach to making Filecoin accessible to businesses and organizations with large storage needs.\nLearn more about borrowing FIL from GLIF - Filecoin’s premier DeFi protocol.\nLearn about Banyan’s SP program and how banyan can help you and your customers.\nAsk questions and share feedback.\nRSVP and mark your calendars! See you in Istanbul!",
+  "description": "Take a pause from LabWeek with Banyan and Glif! We’re cohosting a coffee break to relax, mingle, and chat about the future of decentralized storage.\n\nWhy You should Come:\n- Snag some snacks and warm beverages\n- Learn more about Banyan’s approach to making Filecoin accessible to businesses and organizations with large storage needs.\n- Learn more about borrowing FIL from GLIF - Filecoin’s premier DeFi protocol.\n- Learn about Banyan’s SP program and how banyan can help you and your customers.\n- Ask questions and share feedback.\n\nRSVP and mark your calendars! See you in Istanbul!",
   "tags": [
     "Social Event"
   ],
@@ -118,7 +118,7 @@
     "custom_fields": []
   },
   "createdAt": "2023-10-02T19:32:34.580Z",
-  "updatedAt": "2023-10-16T16:25:48.231Z",
+  "updatedAt": "2023-10-16T16:28:09.368Z",
   "contact_infos": {
     "twitter": [
       "https://twitter.com/BanyanComputer"
