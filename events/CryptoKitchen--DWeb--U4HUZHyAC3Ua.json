@@ -5,10 +5,6 @@
     {
       "name": "Jean Chen",
       "email": "cjun72@gmail.com"
-    },
-    {
-      "name": "Yaxin",
-      "email": "yaxinwalibel@gmail.com"
     }
   ],
   "event_name": "CryptoKitchen: DWeb Open Day",
@@ -128,5 +124,5 @@
     "custom_fields": []
   },
   "createdAt": "2023-10-04T16:16:08.117Z",
-  "updatedAt": "2023-10-16T16:23:11.950Z"
+  "updatedAt": "2023-10-16T16:28:14.608Z"
 }
