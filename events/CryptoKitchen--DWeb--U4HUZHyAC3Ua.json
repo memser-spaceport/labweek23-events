@@ -26,8 +26,8 @@
     "Social Event",
     "Talks & Presentation"
   ],
-  "start_date": "2023-11-14T06:30:00.000Z",
-  "end_date": "2023-11-15T18:30:00.000Z",
+  "start_date": "2023-11-14T07:30:00.000Z",
+  "end_date": "2023-11-14T18:00:00.000Z",
   "access_type": "CUSTOM_REGISTRATION",
   "access_option": "OPEN",
   "format": "IN-PERSON",
@@ -128,5 +128,5 @@
     "custom_fields": []
   },
   "createdAt": "2023-10-04T16:16:08.117Z",
-  "updatedAt": "2023-10-06T15:14:20.873Z"
+  "updatedAt": "2023-10-16T16:23:11.950Z"
 }
