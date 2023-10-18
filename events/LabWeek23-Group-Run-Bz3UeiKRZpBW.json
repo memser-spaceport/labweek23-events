@@ -14,7 +14,7 @@
   "access_type": "IN-HOUSE_REGISTRATION",
   "access_option": "OPEN",
   "format": "IN-PERSON",
-  "location": "",
+  "location": "Swissôtel",
   "seat_count": "1-50",
   "agenda": {
     "sessions": []
@@ -120,7 +120,7 @@
   },
   "event_logo": "",
   "meeting_platform": "",
-  "updatedAt": "2023-09-28T18:18:00.459Z",
+  "updatedAt": "2023-10-18T21:01:33.607Z",
   "co_hosts": [],
   "secondary_contacts": [
     {
