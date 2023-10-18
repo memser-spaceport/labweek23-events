@@ -1,12 +1,11 @@
 {
   "event_contact_name": "Ilya",
   "event_contact_email": "barg@neonyx.io",
-  "secondary_contacts": [],
   "event_name": "Web Renaissance: Evolution with Neonyx",
   "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1695381315640_541.jpeg",
   "host": "Neonyx",
   "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1695381467442_41.jpeg",
-  "co_hosts": [
+  "co_host": [
     {
       "name": "Michael",
       "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1695470328458_756.jpeg"
@@ -38,7 +37,6 @@
   "access_option": "OPEN",
   "format": "IN-PERSON",
   "location": "Swissôtel",
-  "location_url": "https://maps.app.goo.gl/JXnJXD5w6MpAtLNT9",
   "meeting_platform": "",
   "seat_count": "100-200",
   "registration_link": "https://neonyx.io/",
@@ -144,7 +142,35 @@
         "value": 1,
         "placeholder_text": "Enter FEVM, ETH Address or ENS"
       }
+    ],
+    "custom_fields": []
+  },
+  "contact_infos": {
+    "twitter": [
+      "https://twitter.com/neonyxapp"
+    ],
+    "telegram": [
+      "https://t.me/neonyxfuture"
+    ],
+    "discord": [
+      "https://discord.gg/neonyx"
     ]
   },
-  "contact_infos": {}
+  "updatedAt": "2023-10-18T12:16:40.817Z",
+  "co_hosts": [
+    {
+      "name": "Michael",
+      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1695470328458_756.jpeg"
+    },
+    {
+      "name": "Ilya",
+      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1695470374379_450.jpeg"
+    },
+    {
+      "name": "Niko",
+      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1695470423782_490.jpeg"
+    }
+  ],
+  "location_url": "https://maps.app.goo.gl/JXnJXD5w6MpAtLNT9",
+  "secondary_contacts": []
 }
