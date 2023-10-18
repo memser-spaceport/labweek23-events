@@ -1,7 +1,7 @@
 {
   "event_contact_name": "Andrew Woo",
   "event_contact_email": "labweek23@protocol.ai",
-  "event_name": "PL Summit",
+  "event_name": "PL Summit 23",
   "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692884354166_752.png",
   "host": "Protocol Labs",
   "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692885059665_685.jpeg",
@@ -128,7 +128,7 @@
   "meeting_platform": "",
   "registration_link": "",
   "website_link": "",
-  "updatedAt": "2023-09-28T18:17:13.302Z",
+  "updatedAt": "2023-10-18T00:26:51.841Z",
   "co_hosts": [
     {
       "name": "Spaceport",
