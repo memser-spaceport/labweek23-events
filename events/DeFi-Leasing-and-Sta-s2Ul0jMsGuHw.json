@@ -1,12 +1,11 @@
 {
   "event_contact_name": "Ashwanth Samuel",
   "event_contact_email": "ashwanth.samuel@protocol.ai",
-  "secondary_contacts": [],
   "event_name": "DeFi Leasing and Staking on Filecoin",
   "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1695048466937_86.png",
   "host": "Filecoin",
   "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692947272029_471.png",
-  "co_hosts": [
+  "co_host": [
     {
       "name": "Outercore",
       "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692885020237_929.webp"
@@ -125,8 +124,30 @@
         "value": 1,
         "placeholder_text": "Enter FEVM, ETH Address or ENS"
       }
-    ]
+    ],
+    "custom_fields": []
   },
-  "contact_infos": {},
-  "meeting_platform": ""
+  "meeting_platform": "",
+  "registration_link": "",
+  "website_link": "",
+  "updatedAt": "2023-10-19T18:16:39.385Z",
+  "co_hosts": [
+    {
+      "name": "Outercore",
+      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692885020237_929.webp"
+    },
+    {
+      "name": "Secured Finance",
+      "logo": ""
+    },
+    {
+      "name": "Glif",
+      "logo": ""
+    },
+    {
+      "name": "Collectif DAO",
+      "logo": ""
+    }
+  ],
+  "secondary_contacts": []
 }
