@@ -1,7 +1,7 @@
 {
   "event_contact_name": "Ryo Mochido",
   "event_contact_email": "ryo.mochido@protocol.ai",
-  "event_name": "Lab Week Opening Party",
+  "event_name": "LabWeek23 Opening Party",
   "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692885059665_685.jpeg",
   "host": "Protocol Labs",
   "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692885059665_685.jpeg",
@@ -128,7 +128,7 @@
   "meeting_platform": "",
   "registration_link": "",
   "website_link": "",
-  "updatedAt": "2023-10-12T16:39:22.495Z",
+  "updatedAt": "2023-10-20T04:14:19.768Z",
   "co_hosts": [
     {
       "name": "Spaceport",
