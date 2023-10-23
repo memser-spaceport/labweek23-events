@@ -23,7 +23,7 @@
     "Talks & Presentation"
   ],
   "start_date": "2023-11-14T07:30:00.000Z",
-  "end_date": "2023-11-14T18:00:00.000Z",
+  "end_date": "2023-11-14T12:30:00.000Z",
   "access_type": "CUSTOM_REGISTRATION",
   "access_option": "OPEN",
   "format": "IN-PERSON",
@@ -31,7 +31,7 @@
   "location_url": "",
   "meeting_platform": "",
   "seat_count": "1-50",
-  "registration_link": "https://app.unlock-protocol.com/event/crypto-kitchen-1",
+  "registration_link": "https://lu.ma/xdqd12xm",
   "website_link": "https://cryptokitchen.io",
   "agenda": {
     "sessions": []
@@ -50,9 +50,11 @@
   "nft_ticketing": {
     "host_wallet_address": "",
     "verifier_wallet_addresses": [],
+    "verifier_email_addresses": [],
     "custom_event_URL": "",
     "pattern": 1,
     "hide_event_logo": false,
+    "hide_attendees": false,
     "ticketing_provider": "UNLOCK",
     "default_fields": [],
     "additional_fields": [
@@ -124,5 +126,5 @@
     "custom_fields": []
   },
   "createdAt": "2023-10-04T16:16:08.117Z",
-  "updatedAt": "2023-10-16T16:28:14.608Z"
+  "updatedAt": "2023-10-23T16:44:22.576Z"
 }
