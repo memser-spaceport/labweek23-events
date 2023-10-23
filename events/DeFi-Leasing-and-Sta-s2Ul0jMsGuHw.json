@@ -11,7 +11,7 @@
       "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692885020237_929.webp"
     }
   ],
-  "description": "A framework and opportunity to evaluate the staking and leasing service providers building on the Filecoin Virtual Machine",
+  "description": "A framework and opportunity to evaluate the staking and leasing service providers building on the Filecoin Virtual Machine. Come hear from teams building DeFi solutions on Filecoin and other contributors to this quickly growing ecosystem. Presenters include: Secured Finance, Glif, Collectif DAO, stFIL, HashMix, Starboard, CryptoEconLab, and much more!",
   "tags": [
     "Talks & Presentation",
     "Workshop",
@@ -26,7 +26,14 @@
   "location_url": "https://maps.app.goo.gl/JXnJXD5w6MpAtLNT9",
   "seat_count": "50-100",
   "agenda": {
-    "sessions": []
+    "sessions": [
+      {
+        "start_date": "2023-11-15T06:00:00.000Z",
+        "end_date": "2023-11-15T09:30:00.000Z",
+        "name": "Filecoin DeFi Presentations",
+        "description": "- Deep Dives from Glif, Secured Finance, and CollectifDAO\n- Panels from Token Holders and Storage Providers on their favorite protocols\n- An overview of metrics from the Starboard team\n- A cryptoeconomic discussion on how DeFi affects Filecoin's Island Economy\n- and much more! "
+      }
+    ]
   },
   "sponsors": [
     {
@@ -142,10 +149,15 @@
     ],
     "custom_fields": []
   },
+  "contact_infos": {
+    "twitter": [
+      "https://twitter.com/FilecoinTLDR?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+    ]
+  },
   "meeting_platform": "",
   "registration_link": "",
   "website_link": "",
-  "updatedAt": "2023-10-23T19:44:49.889Z",
+  "updatedAt": "2023-10-23T21:47:51.862Z",
   "co_hosts": [],
   "secondary_contacts": []
 }
