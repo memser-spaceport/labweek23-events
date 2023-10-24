@@ -5,7 +5,7 @@
   "event_name": "PLN Meditation",
   "event_logo": "",
   "host": "Spaceport",
-  "host_logo": "",
+  "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692885075605_26.png",
   "co_hosts": [],
   "description": "​Come join a group meditation session in the Swissôtel! Enjoy slowing down and finding your center with one another.",
   "tags": [
@@ -16,7 +16,8 @@
   "access_type": "IN-HOUSE_REGISTRATION",
   "access_option": "OPEN",
   "format": "IN-PERSON",
-  "location": "Swissotel",
+  "location": "Swissôtel",
+  "location_url": "https://maps.app.goo.gl/JXnJXD5w6MpAtLNT9",
   "meeting_platform": "",
   "seat_count": "1-50",
   "agenda": {
@@ -26,6 +27,7 @@
   "is_featured": false,
   "conference": "labweek-23",
   "nft_ticketing": {
+    "nft_contract_address": "0xc698cec8964d6593ee60098fc5490f6226562d3e",
     "host_wallet_address": "",
     "verifier_wallet_addresses": [],
     "verifier_email_addresses": [],
