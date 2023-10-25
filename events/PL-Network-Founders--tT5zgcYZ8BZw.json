@@ -1,7 +1,7 @@
 {
   "event_contact_name": "Andrew Woo",
   "event_contact_email": "labweek23@protocol.ai",
-  "event_name": "PLN Founders Dinner",
+  "event_name": "PL Founders Dinner",
   "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692885075605_26.png",
   "host": "Spaceport",
   "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692885075605_26.png",
@@ -13,7 +13,7 @@
       "name": "PL Accelerators"
     }
   ],
-  "description": "Get ready for the biggest gathering of PLN Founders this year! Don't miss out on the opportunity to connect with the network over dinner and drinks.​The location is will be determined soon, so mark your calendars for Tuesday, November 14. We sincerely hope you join us!<br/><br/>Please note that this event is invite-only and your registration is only confirmed once you've been approved by the event organizer.",
+  "description": "Get ready for the biggest gathering of PL Founders this year! Don't miss out on the opportunity to connect with the network over dinner and drinks.​The location is will be determined soon, so mark your calendars for Tuesday, November 14. We sincerely hope you join us!<br/><br/>Please note that this event is invite-only and your registration is only confirmed once you've been approved by the event organizer.",
   "tags": [
     "Social Event",
     "Private",
@@ -36,9 +36,11 @@
     "nft_contract_address": "0x361a9444eeca7890d3c7f44bb8b0ff53f12b1c65",
     "host_wallet_address": "",
     "verifier_wallet_addresses": [],
+    "verifier_email_addresses": [],
     "custom_event_URL": "pln-founders-dinner",
     "pattern": 2,
     "hide_event_logo": false,
+    "hide_attendees": false,
     "ticketing_provider": "UNLOCK",
     "default_fields": [
       {
@@ -129,7 +131,7 @@
     "custom_fields": []
   },
   "meeting_platform": "",
-  "updatedAt": "2023-10-20T04:15:02.442Z",
+  "updatedAt": "2023-10-25T01:34:03.586Z",
   "co_hosts": [
     {
       "name": "PL Ventures"
