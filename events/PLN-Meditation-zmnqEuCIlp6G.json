@@ -1,7 +1,12 @@
 {
   "event_contact_name": "Brooke Vitalie",
   "event_contact_email": "brooke.vitalie@protocol.ai",
-  "secondary_contacts": [],
+  "secondary_contacts": [
+    {
+      "name": "Ryo Mochido",
+      "email": "ryo.mochido@protocol.ai"
+    }
+  ],
   "event_name": "PLN Meditation",
   "event_logo": "",
   "host": "Spaceport",
@@ -17,7 +22,6 @@
   "access_option": "OPEN",
   "format": "IN-PERSON",
   "location": "Swissôtel",
-  "location_url": "https://maps.app.goo.gl/JXnJXD5w6MpAtLNT9",
   "meeting_platform": "",
   "seat_count": "1-50",
   "agenda": {
@@ -125,5 +129,6 @@
     "custom_fields": []
   },
   "createdAt": "2023-10-23T21:13:53.035Z",
-  "updatedAt": "2023-10-23T21:13:53.035Z"
+  "updatedAt": "2023-10-25T01:44:13.719Z",
+  "location_url": "https://maps.app.goo.gl/JXnJXD5w6MpAtLNT9"
 }
