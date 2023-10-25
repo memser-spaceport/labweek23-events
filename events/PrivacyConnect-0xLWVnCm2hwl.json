@@ -1,75 +1,47 @@
 {
-  "event_contact_name": "Brooke Vitalie",
-  "event_contact_email": "brooke.vitalie@protocol.ai",
-  "secondary_contacts": [
-    {
-      "name": "Ryo Mochido",
-      "email": "ryo.mochido@protocol.ai"
-    }
-  ],
-  "event_name": "PLN Meditation",
-  "event_logo": "",
-  "host": "Spaceport",
-  "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692885075605_26.png",
+  "event_contact_name": "Will Scott",
+  "event_contact_email": "will.scott@protocol.ai",
+  "secondary_contacts": [],
+  "event_name": "PrivConnect",
+  "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1698143302454_823.jpeg",
+  "host": "Universal Privacy Alliance",
+  "host_logo": "",
   "co_hosts": [],
-  "description": "​Come join a group meditation session in the Swissôtel! Enjoy slowing down and finding your center with one another.",
+  "description": "The Universal Privacy Alliance (UPA) invites you to PrivConnect - The Universal Privacy Meetup, a thought-provoking event dedicated to advancing the understanding of privacy as the cornerstone of free and thriving digital societies. In today's interconnected world, where data is constantly shared and processed, the significance of privacy has never been more crucial.",
   "tags": [
-    "Social Event"
+    "Talks & Presentation"
   ],
-  "start_date": "2023-11-16T05:00:00.000Z",
-  "end_date": "2023-11-16T06:00:00.000Z",
-  "access_type": "IN-HOUSE_REGISTRATION",
+  "start_date": "2023-11-17T09:00:00.000Z",
+  "end_date": "2023-11-17T14:00:00.000Z",
+  "access_type": "CUSTOM_REGISTRATION",
   "access_option": "OPEN",
   "format": "IN-PERSON",
-  "location": "Swissôtel",
+  "location": "Workinton",
   "meeting_platform": "",
-  "seat_count": "1-50",
+  "seat_count": "50-100",
+  "website_link": "https://privacyalliance.com/",
   "agenda": {
     "sessions": []
   },
   "sponsors": [],
+  "contact_infos": {
+    "twitter": [
+      "https://twitter.com/priv_alliance"
+    ]
+  },
   "is_featured": false,
   "conference": "labweek-23",
   "nft_ticketing": {
-    "nft_contract_address": "0xc698cec8964d6593ee60098fc5490f6226562d3e",
     "host_wallet_address": "",
     "verifier_wallet_addresses": [],
     "verifier_email_addresses": [],
-    "custom_event_URL": "meditation",
-    "pattern": 1,
+    "custom_event_URL": "upa",
+    "pattern": 2,
     "hide_event_logo": false,
     "hide_attendees": false,
     "ticketing_provider": "UNLOCK",
-    "default_fields": [
-      {
-        "name": "name",
-        "key": "name",
-        "label": "Name",
-        "value": 2,
-        "placeholder_text": "Enter Your Full Name",
-        "order": 1,
-        "type": "TEXT"
-      },
-      {
-        "name": "email",
-        "key": "email",
-        "label": "Email",
-        "value": 2,
-        "placeholder_text": "Enter Your Contact Email",
-        "order": 2,
-        "type": "TEXT"
-      }
-    ],
+    "default_fields": [],
     "additional_fields": [
-      {
-        "order": 1,
-        "type": "text",
-        "name": "company",
-        "label": "Team or Project",
-        "key": "company",
-        "value": 0,
-        "placeholder_text": "Name of the Team or Project"
-      },
       {
         "order": 2,
         "type": "text",
@@ -124,11 +96,21 @@
         "value": 1,
         "placeholder_text": "I agree to receive communication from Protocol Labs",
         "alt": "GDPR Consent (yes/no)"
+      },
+      {
+        "order": 1,
+        "type": "text",
+        "name": "company",
+        "label": "Team or Project",
+        "key": "company",
+        "value": 1,
+        "placeholder_text": "Name of the Team or Project"
       }
     ],
     "custom_fields": []
   },
-  "createdAt": "2023-10-23T21:13:53.035Z",
-  "updatedAt": "2023-10-25T01:44:13.719Z",
-  "location_url": "https://maps.app.goo.gl/JXnJXD5w6MpAtLNT9"
+  "createdAt": "2023-10-03T14:37:31.946Z",
+  "updatedAt": "2023-10-24T10:28:55.458Z",
+  "location_url": "https://maps.google.com/maps?ll=41.052141,28.988325&z=13&t=m&hl=tr&gl=US&mapclient=embed&cid=1351311558557753211",
+  "registration_link": "https://lu.ma/upa-istanbul"
 }
