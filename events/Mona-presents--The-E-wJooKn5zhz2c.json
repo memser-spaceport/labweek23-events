@@ -1,13 +1,12 @@
 {
   "event_contact_name": "Sierra Henry",
   "event_contact_email": "sierra@monaverse.com",
-  "secondary_contacts": [],
-  "event_name": "Mona presents: The Experience Layer Happy Hour & Free Mint Experience",
+  "event_name": "The Experience Layer: Step into the Monaverse",
   "event_logo": "",
   "host": "Mona",
   "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1694017811407_141.png",
-  "co_hosts": [],
-  "description": "Join us for a happy hour and VRM Avatar minting experience!",
+  "co_host": [],
+  "description": "​Join us in Mona for an exclusive tour featuring Interactive games, free claims, & more! Come see what the Monaverse has to offer!",
   "tags": [
     "Social Event"
   ],
@@ -15,9 +14,9 @@
   "end_date": "2023-11-14T15:00:00.000Z",
   "access_type": "CUSTOM_REGISTRATION",
   "access_option": "OPEN",
-  "format": "IN-PERSON",
+  "format": "VIRTUAL",
   "location": "Swissôtel-5th Floor-Foyer",
-  "meeting_platform": "",
+  "meeting_platform": "Official link coming soon",
   "seat_count": "100-200",
   "registration_link": "https://lu.ma/k6mm4e00",
   "website_link": "https://lu.ma/k6mm4e00",
@@ -27,5 +26,27 @@
   "sponsors": [],
   "is_featured": false,
   "conference": "labweek-23",
-  "contact_infos": {}
+  "nft_ticketing": {
+    "host_wallet_address": "",
+    "verifier_wallet_addresses": [],
+    "verifier_email_addresses": [],
+    "custom_event_URL": "",
+    "pattern": 1,
+    "hide_event_logo": false,
+    "hide_attendees": false,
+    "default_fields": [],
+    "additional_fields": [
+      {
+        "company": 0,
+        "job_title": 0,
+        "telegram": 0,
+        "twitter": 0
+      }
+    ],
+    "custom_fields": []
+  },
+  "updatedAt": "2023-10-25T18:28:16.072Z",
+  "co_hosts": [],
+  "secondary_contacts": [],
+  "meeting_link": "monaverse.com"
 }
