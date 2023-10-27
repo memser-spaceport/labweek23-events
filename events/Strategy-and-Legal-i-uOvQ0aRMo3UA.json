@@ -1,0 +1,147 @@
+{
+  "event_contact_name": "Denice Zhu",
+  "event_contact_email": "denicezhu@gmail.com",
+  "secondary_contacts": [
+    {
+      "name": "Basak Yigit",
+      "email": "basak.b.yigit@gmail.com"
+    }
+  ],
+  "event_name": "Strategy and Legal in Web3 Meetup",
+  "event_logo": "",
+  "host": "Istanbul Blockchain Women",
+  "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1698419975265_334.jpeg",
+  "co_hosts": [],
+  "description": "Attention all strategy and legal professionals in the web3 space! Join us at the PL Lounge (5th floor, Swissôtel) for an engaging and coffee-fueled meetup. This causal meetup is designed to be informal, offering you the perfect environment to unwind, connect, and discuss challenges in the rapidly evolving wold of web3.",
+  "tags": [
+    "Talks & Presentation"
+  ],
+  "start_date": "2023-11-15T11:00:00.000Z",
+  "end_date": "2023-11-15T12:00:00.000Z",
+  "access_type": "IN-HOUSE_REGISTRATION",
+  "access_option": "OPEN",
+  "format": "IN-PERSON",
+  "location": "Swissôtel-6th Floor-Marble-Area",
+  "location_url": "https://maps.app.goo.gl/QUPRAuTjiCsz9YgT8",
+  "meeting_platform": "",
+  "seat_count": "1-50",
+  "agenda": {
+    "sessions": [
+      {
+        "name": "Social Hour",
+        "start_date": "2023-11-15T11:00:00.000Z",
+        "end_date": "2023-11-15T12:00:00.000Z"
+      }
+    ]
+  },
+  "sponsors": [],
+  "contact_infos": {
+    "twitter": [
+      "https://twitter.com/istbcw"
+    ]
+  },
+  "is_featured": false,
+  "conference": "labweek-23",
+  "nft_ticketing": {
+    "host_wallet_address": "",
+    "verifier_wallet_addresses": [],
+    "verifier_email_addresses": [
+      "denicezhu@gmail.com",
+      "basak.b.yigit@gmail.com"
+    ],
+    "custom_event_URL": "strategylegalweb3",
+    "pattern": 5,
+    "hide_event_logo": false,
+    "hide_attendees": false,
+    "ticketing_provider": "UNLOCK",
+    "default_fields": [
+      {
+        "name": "name",
+        "key": "name",
+        "label": "Name",
+        "value": 2,
+        "placeholder_text": "Enter Your Full Name",
+        "order": 1,
+        "type": "TEXT"
+      },
+      {
+        "name": "email",
+        "key": "email",
+        "label": "Email",
+        "value": 2,
+        "placeholder_text": "Enter Your Contact Email",
+        "order": 2,
+        "type": "TEXT"
+      }
+    ],
+    "additional_fields": [
+      {
+        "order": 5,
+        "type": "text",
+        "name": "dietary_restrictions",
+        "label": "Dietary Restrictions",
+        "key": "dietary_restrictions",
+        "value": 0,
+        "placeholder_text": "Enter Any Food Allergies or Restrictions"
+      },
+      {
+        "order": 6,
+        "type": "text",
+        "name": "wallet_address",
+        "label": "Wallet Address",
+        "key": "wallet_address",
+        "value": 1,
+        "placeholder_text": "Enter FEVM, ETH Address or ENS"
+      },
+      {
+        "order": 8,
+        "type": "checkbox",
+        "name": "communication_consent",
+        "label": "I agree to receive communication from Protocol Labs",
+        "key": "communication_consent",
+        "value": 1,
+        "placeholder_text": "I agree to receive communication from Protocol Labs",
+        "alt": "GDPR Consent (yes/no)"
+      },
+      {
+        "order": 1,
+        "type": "text",
+        "name": "company",
+        "label": "Team or Project",
+        "key": "company",
+        "value": 2,
+        "placeholder_text": "Name of the Team or Project"
+      },
+      {
+        "order": 2,
+        "type": "text",
+        "name": "job_title",
+        "label": "Job Title",
+        "key": "job_title",
+        "value": 2,
+        "placeholder_text": "Current Job Title or Position"
+      },
+      {
+        "order": 3,
+        "type": "text",
+        "name": "telegram",
+        "label": "Telegram",
+        "key": "telegram",
+        "value": 1,
+        "placeholder_text": "Telegram Handle/URL"
+      },
+      {
+        "order": 4,
+        "type": "text",
+        "name": "twitter",
+        "label": "Twitter",
+        "key": "twitter",
+        "value": 1,
+        "placeholder_text": "Twitter Handle/URL"
+      }
+    ],
+    "custom_fields": []
+  },
+  "createdAt": "2023-10-27T15:30:36.789Z",
+  "updatedAt": "2023-10-27T16:15:03.650Z"
+}
