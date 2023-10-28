@@ -1,0 +1,140 @@
+{
+  "event_contact_name": "Malak Albaw",
+  "event_contact_email": "malak@blankhq.co",
+  "secondary_contacts": [],
+  "event_name": "Blank-fest NFT Challenge and Innovation Showcase",
+  "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1698491779853_944.jpeg",
+  "host": "Malak Albaw",
+  "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1698491859266_361.jpeg",
+  "co_hosts": [],
+  "description": "Join us for an exciting day of NFT innovation as we host the \"Blank-fest NFT Challenge.\" This event is a unique opportunity for NFT enthusiasts, creators, and entrepreneurs to pitch their innovative NFT project ideas and win a valuable consultation session with Blank Agency, worth $500. In addition to the competition, the event features an Innovation Showcase where you can explore the latest developments in the NFT space.",
+  "tags": [
+    "Pitch competition for builders",
+    "community event",
+    "NFT demo day"
+  ],
+  "start_date": "2023-11-16T11:00:00.000Z",
+  "end_date": "2023-11-16T15:00:00.000Z",
+  "access_type": "IN-HOUSE_REGISTRATION",
+  "access_option": "OPEN",
+  "format": "IN-PERSON",
+  "location": "",
+  "meeting_platform": "",
+  "seat_count": "1-50",
+  "website_link": "http://blankhq.co",
+  "agenda": {
+    "sessions": []
+  },
+  "sponsors": [],
+  "contact_infos": {
+    "telegram": [
+      "https://t.me/malakalbaw"
+    ]
+  },
+  "is_featured": false,
+  "conference": "labweek-23",
+  "nft_ticketing": {
+    "host_wallet_address": "0xe3F8A15D376539cF36fb4B2Da1E4A5F848E82CF0",
+    "verifier_wallet_addresses": [
+      "0xe3F8A15D376539cF36fb4B2Da1E4A5F848E82CF0"
+    ],
+    "verifier_email_addresses": [
+      "malakbaw@gmail.com"
+    ],
+    "custom_event_URL": "blank-fest-nft-challenge",
+    "pattern": 1,
+    "bg_URL": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1698492336544_384.png",
+    "hide_event_logo": false,
+    "hide_attendees": false,
+    "ticketing_provider": "UNLOCK",
+    "default_fields": [
+      {
+        "name": "name",
+        "key": "name",
+        "label": "Name",
+        "value": 2,
+        "placeholder_text": "Enter Your Full Name",
+        "order": 1,
+        "type": "TEXT"
+      },
+      {
+        "name": "email",
+        "key": "email",
+        "label": "Email",
+        "value": 2,
+        "placeholder_text": "Enter Your Contact Email",
+        "order": 2,
+        "type": "TEXT"
+      }
+    ],
+    "additional_fields": [
+      {
+        "order": 2,
+        "type": "text",
+        "name": "job_itle",
+        "label": "Job Title",
+        "key": "job_title",
+        "value": 0,
+        "placeholder_text": "Current Job Title or Position"
+      },
+      {
+        "order": 4,
+        "type": "text",
+        "name": "twitter",
+        "label": "Twitter",
+        "key": "twitter",
+        "value": 0,
+        "placeholder_text": "Twitter Handle/URL"
+      },
+      {
+        "order": 5,
+        "type": "text",
+        "name": "dietary_restrictions",
+        "label": "Dietary Restrictions",
+        "key": "dietary_restrictions",
+        "value": 0,
+        "placeholder_text": "Enter Any Food Allergies or Restrictions"
+      },
+      {
+        "order": 8,
+        "type": "checkbox",
+        "name": "communication_consent",
+        "label": "I agree to receive communication from Protocol Labs",
+        "key": "communication_consent",
+        "value": 1,
+        "placeholder_text": "I agree to receive communication from Protocol Labs",
+        "alt": "GDPR Consent (yes/no)"
+      },
+      {
+        "order": 1,
+        "type": "text",
+        "name": "company",
+        "label": "Team or Project",
+        "key": "company",
+        "value": 2,
+        "placeholder_text": "Name of the Team or Project"
+      },
+      {
+        "order": 3,
+        "type": "text",
+        "name": "telegram",
+        "label": "Telegram",
+        "key": "telegram",
+        "value": 2,
+        "placeholder_text": "Telegram Handle/URL"
+      },
+      {
+        "order": 6,
+        "type": "text",
+        "name": "wallet_address",
+        "label": "Wallet Address",
+        "key": "wallet_address",
+        "value": 0,
+        "placeholder_text": "Enter FEVM, ETH Address or ENS"
+      }
+    ],
+    "custom_fields": []
+  },
+  "createdAt": "2023-10-28T11:27:28.337Z",
+  "updatedAt": "2023-10-28T11:27:28.337Z"
+}
