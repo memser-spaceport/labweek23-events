@@ -21,7 +21,7 @@
   "access_type": "IN-HOUSE_REGISTRATION",
   "access_option": "OPEN",
   "format": "IN-PERSON",
-  "location": "Swissôtel-5th Floor-Lausanne",
+  "location": "Swissôtel-6th Floor-Marble-Area",
   "meeting_platform": "",
   "seat_count": "1-50",
   "agenda": {
@@ -139,6 +139,6 @@
     "custom_fields": []
   },
   "createdAt": "2023-09-28T01:59:12.712Z",
-  "updatedAt": "2023-10-25T02:57:32.810Z",
+  "updatedAt": "2023-10-27T16:15:18.661Z",
   "location_url": "https://maps.app.goo.gl/QUPRAuTjiCsz9YgT8"
 }

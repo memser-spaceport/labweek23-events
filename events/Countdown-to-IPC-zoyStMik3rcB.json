@@ -1,7 +1,7 @@
 {
   "event_contact_name": "Jorge Soares",
   "event_contact_email": "jorge@protocol.ai",
-  "event_name": "Countdown to IPC",
+  "event_name": "InterPlanetary Consensus: Custom L2+ to Scale Filecoin & Beyond",
   "host": "ConsensusLab",
   "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1695058480014_889.png",
   "co_host": [
@@ -24,7 +24,8 @@
   ],
   "description": "As we count down towards IPC general availability, we bring together developers, users, and other stakeholders for a day of talks and workshops. Listen to the latest developments, learn about the exciting products built on it, and take part in crafting the future of IPC.",
   "tags": [
-    "Talks & Presentation"
+    "Talks & Presentation",
+    "Workshop"
   ],
   "start_date": "2023-11-16T06:00:00.000Z",
   "end_date": "2023-11-16T14:00:00.000Z",
@@ -44,9 +45,11 @@
     "nft_contract_address": "0x5217aaa74fed519315c10fdede047dcfab43b7c8",
     "host_wallet_address": "",
     "verifier_wallet_addresses": [],
+    "verifier_email_addresses": [],
     "custom_event_URL": "countdown-to-ipc",
     "pattern": 2,
     "hide_event_logo": false,
+    "hide_attendees": false,
     "ticketing_provider": "UNLOCK",
     "default_fields": [
       {
@@ -143,22 +146,10 @@
   },
   "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1695058471834_736.png",
   "meeting_platform": "",
-  "registration_link": "https://23.labweek.io/countdown-to-ipc",
-  "website_link": "https://23.labweek.io/countdown-to-ipc",
-  "updatedAt": "2023-10-03T21:33:08.399Z",
+  "registration_link": "https://istanbul.ipc.space",
+  "website_link": "https://istanbul.ipc.space",
+  "updatedAt": "2023-10-26T18:27:04.747Z",
   "co_hosts": [
-    {
-      "name": "Textile",
-      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692885094598_266.webp"
-    },
-    {
-      "name": "CryptoNet",
-      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692884542314_71.webp"
-    },
-    {
-      "name": "Filecoin Saturn",
-      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692884872444_690.webp"
-    },
     {
       "name": "Outercore",
       "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692885020237_929.webp"
