@@ -51,10 +51,12 @@
     "nft_contract_address": "0x990ccb970581ed42a8bed7c3df8ae7f50a0e1083",
     "host_wallet_address": "0xBAC78374F87D02d3b0d6FAf82d8794201D40b35B",
     "verifier_wallet_addresses": [],
+    "verifier_email_addresses": [],
     "custom_event_URL": "desci-community-conference",
     "pattern": 2,
     "bg_URL": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1697365542489_34.jpeg",
     "hide_event_logo": false,
+    "hide_attendees": false,
     "ticketing_provider": "UNLOCK",
     "default_fields": [
       {
@@ -161,7 +163,7 @@
   },
   "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1697140613722_829.png",
   "meeting_platform": "",
-  "updatedAt": "2023-10-19T09:20:12.511Z",
+  "updatedAt": "2023-10-30T15:15:54.158Z",
   "co_hosts": [
     {
       "name": "Rymedi",
@@ -172,5 +174,10 @@
       "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1697140113973_48.jpeg"
     }
   ],
-  "secondary_contacts": []
+  "secondary_contacts": [
+    {
+      "name": "Jelani Clarke",
+      "email": "jelani@desci.world"
+    }
+  ]
 }
