@@ -34,6 +34,7 @@
   "is_featured": false,
   "conference": "labweek-23",
   "nft_ticketing": {
+    "nft_contract_address": "0xb80e4410556d59ec3f819beb0a7f5b96ad1fb20c",
     "host_wallet_address": "0xe3F8A15D376539cF36fb4B2Da1E4A5F848E82CF0",
     "verifier_wallet_addresses": [
       "0xe3F8A15D376539cF36fb4B2Da1E4A5F848E82CF0"
