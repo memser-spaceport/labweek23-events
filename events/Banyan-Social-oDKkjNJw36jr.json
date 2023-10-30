@@ -11,7 +11,7 @@
       "email": "olive@banyan.computer"
     }
   ],
-  "event_name": "Banyan Social",
+  "event_name": "Depin/Decentralized Storage Office Hours and Afternoon Social",
   "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1697473509118_245.png",
   "host": "Banyan",
   "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1696358145494_914.png",
@@ -44,9 +44,11 @@
   "nft_ticketing": {
     "host_wallet_address": "",
     "verifier_wallet_addresses": [],
+    "verifier_email_addresses": [],
     "custom_event_URL": "",
     "pattern": 1,
     "hide_event_logo": false,
+    "hide_attendees": false,
     "ticketing_provider": "UNLOCK",
     "default_fields": [],
     "additional_fields": [
@@ -118,7 +120,7 @@
     "custom_fields": []
   },
   "createdAt": "2023-10-02T19:32:34.580Z",
-  "updatedAt": "2023-10-16T16:28:09.368Z",
+  "updatedAt": "2023-10-30T17:26:48.859Z",
   "contact_infos": {
     "twitter": [
       "https://twitter.com/BanyanComputer"
