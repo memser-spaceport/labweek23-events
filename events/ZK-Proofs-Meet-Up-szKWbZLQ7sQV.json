@@ -1,10 +1,18 @@
 {
-  "event_contact_name": "Sara Hamdan",
-  "event_contact_email": "sara.hamdan@protocol.ai",
+  "event_contact_name": "Denice Zhi",
+  "event_contact_email": "denicezhu@gmail.com",
   "secondary_contacts": [
     {
       "name": "Ryo",
       "email": "ryo.mochido@protocol.ai"
+    },
+    {
+      "name": "Sara Hamdan",
+      "email": "sara.hamdan@protocol.ai"
+    },
+    {
+      "name": "La Christa",
+      "email": "leccles79@gmail.com"
     }
   ],
   "event_name": "ZK Proofs Meet Up",
@@ -34,10 +42,12 @@
     "nft_contract_address": "0xcc346a5107d814f339d8b16041f6fe825536b11b",
     "host_wallet_address": "",
     "verifier_wallet_addresses": [],
+    "verifier_email_addresses": [],
     "custom_event_URL": "zkproofs",
     "pattern": 1,
     "bg_URL": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1695866732934_40.jpeg",
     "hide_event_logo": false,
+    "hide_attendees": false,
     "ticketing_provider": "UNLOCK",
     "default_fields": [
       {
@@ -128,6 +138,6 @@
     "custom_fields": []
   },
   "createdAt": "2023-09-28T02:05:42.188Z",
-  "updatedAt": "2023-09-28T03:07:42.134Z",
+  "updatedAt": "2023-10-30T18:25:20.746Z",
   "location_url": "https://maps.app.goo.gl/QUPRAuTjiCsz9YgT8"
 }
