@@ -148,7 +148,7 @@
   "meeting_platform": "",
   "registration_link": "https://istanbul.ipc.space",
   "website_link": "https://istanbul.ipc.space",
-  "updatedAt": "2023-10-31T05:10:30.496Z",
+  "updatedAt": "2023-10-31T15:22:48.962Z",
   "co_hosts": [
     {
       "name": "Outercore",
@@ -159,10 +159,6 @@
     {
       "name": "Mikhail Turilin",
       "email": "mikhail.turilin@protocol.ai"
-    },
-    {
-      "name": "Spaceport-Admin",
-      "email": "spaceport-admin@protocol.ai"
     }
   ]
 }
