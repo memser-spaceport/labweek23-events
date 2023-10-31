@@ -157,7 +157,12 @@
   "meeting_platform": "",
   "registration_link": "",
   "website_link": "",
-  "updatedAt": "2023-10-23T21:47:51.862Z",
+  "updatedAt": "2023-10-31T05:14:00.896Z",
   "co_hosts": [],
-  "secondary_contacts": []
+  "secondary_contacts": [
+    {
+      "name": "Spaceport-Admin",
+      "email": "spaceport-admin@protocol.ai"
+    }
+  ]
 }
