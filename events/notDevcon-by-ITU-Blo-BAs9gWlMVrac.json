@@ -47,12 +47,7 @@
     ],
     "custom_fields": []
   },
-  "updatedAt": "2023-10-31T05:17:07.082Z",
+  "updatedAt": "2023-10-31T15:35:26.277Z",
   "co_hosts": [],
-  "secondary_contacts": [
-    {
-      "name": "Spaceport-Admin",
-      "email": "spaceport-admin@protocol.ai"
-    }
-  ]
+  "secondary_contacts": []
 }
