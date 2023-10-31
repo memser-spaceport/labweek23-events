@@ -45,8 +45,13 @@
     ],
     "custom_fields": []
   },
-  "updatedAt": "2023-10-25T18:28:16.072Z",
+  "updatedAt": "2023-10-31T05:15:12.890Z",
   "co_hosts": [],
-  "secondary_contacts": [],
+  "secondary_contacts": [
+    {
+      "name": "Spaceport-Admin",
+      "email": "spaceport-admin@protocol.ai"
+    }
+  ],
   "meeting_link": "monaverse.com"
 }
