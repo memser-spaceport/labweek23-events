@@ -1,12 +1,7 @@
 {
   "event_contact_name": "Elena Obukhova",
   "event_contact_email": "alpha@supermooncamp.com",
-  "secondary_contacts": [
-    {
-      "name": "Spaceport-Admin",
-      "email": "spaceport-admin@protocol.ai"
-    }
-  ],
+  "secondary_contacts": [],
   "event_name": "Fuel House by Supermoon",
   "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1696621037307_386.jpeg",
   "host": "Supermoon",
@@ -124,5 +119,5 @@
     "custom_fields": []
   },
   "createdAt": "2023-10-06T19:40:22.259Z",
-  "updatedAt": "2023-10-31T05:27:10.439Z"
+  "updatedAt": "2023-10-31T15:41:30.204Z"
 }
