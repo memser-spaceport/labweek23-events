@@ -20,7 +20,7 @@
   "access_type": "IN-HOUSE_REGISTRATION",
   "access_option": "OPEN",
   "format": "IN-PERSON",
-  "location": "",
+  "location": "Swissotel-7th Floor-Neuchatel",
   "meeting_platform": "",
   "seat_count": "1-50",
   "agenda": {
@@ -129,7 +129,7 @@
   },
   "registration_link": "",
   "website_link": "",
-  "updatedAt": "2023-10-31T15:29:36.350Z",
+  "updatedAt": "2023-10-31T21:25:15.881Z",
   "co_hosts": [
     {
       "name": "Dave Huseby",
