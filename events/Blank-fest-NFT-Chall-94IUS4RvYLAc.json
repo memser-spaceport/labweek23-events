@@ -1,7 +1,12 @@
 {
   "event_contact_name": "Malak Albaw",
   "event_contact_email": "malak@blankhq.co",
-  "secondary_contacts": [],
+  "secondary_contacts": [
+    {
+      "name": "Spaceport-Admin",
+      "email": "spaceport-admin@protocol.ai"
+    }
+  ],
   "event_name": "The Blank dApp Innovation Showcase",
   "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1698491779853_944.jpeg",
   "host": "Malak Albaw",
@@ -136,5 +141,5 @@
     "custom_fields": []
   },
   "createdAt": "2023-10-28T11:27:28.337Z",
-  "updatedAt": "2023-10-30T13:50:59.364Z"
+  "updatedAt": "2023-10-31T05:30:15.867Z"
 }
