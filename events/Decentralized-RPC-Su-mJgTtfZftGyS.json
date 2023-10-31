@@ -1,12 +1,11 @@
 {
   "event_contact_name": "Nadia Venzhina",
   "event_contact_email": "nadia@fluence.one",
-  "secondary_contacts": [],
   "event_name": "Decentralized RPC Summit",
   "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1695287228873_366.jpeg",
   "host": "Fluence Labs",
   "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1695288011629_325.png",
-  "co_hosts": [
+  "co_host": [
     {
       "name": "Drpc.org",
       "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1695287997538_897.png"
@@ -37,6 +36,25 @@
   "sponsors": [],
   "is_featured": false,
   "conference": "labweek-23",
+  "nft_ticketing": {
+    "host_wallet_address": "",
+    "verifier_wallet_addresses": [],
+    "verifier_email_addresses": [],
+    "custom_event_URL": "",
+    "pattern": 1,
+    "hide_event_logo": false,
+    "hide_attendees": false,
+    "default_fields": [],
+    "additional_fields": [
+      {
+        "company": 0,
+        "job_title": 0,
+        "telegram": 0,
+        "twitter": 0
+      }
+    ],
+    "custom_fields": []
+  },
   "contact_infos": {
     "twitter": [
       "https://twitter.com/fluence_project",
@@ -49,5 +67,22 @@
     "discord": [
       "https://discordapp.com/channels/899652135552167957/1065052179746000936"
     ]
-  }
+  },
+  "updatedAt": "2023-10-31T05:16:01.805Z",
+  "co_hosts": [
+    {
+      "name": "Drpc.org",
+      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1695287997538_897.png"
+    },
+    {
+      "name": "Gateway.fm",
+      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1695288004516_381.png"
+    }
+  ],
+  "secondary_contacts": [
+    {
+      "name": "Spaceport-Admin",
+      "email": "spaceport-admin@protocol.ai"
+    }
+  ]
 }
