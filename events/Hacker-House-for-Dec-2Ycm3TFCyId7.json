@@ -59,7 +59,7 @@
   "event_logo": "",
   "meeting_platform": "",
   "registration_link": "http://hackerhouse.social/",
-  "updatedAt": "2023-10-31T05:11:02.864Z",
+  "updatedAt": "2023-10-31T15:23:19.859Z",
   "co_hosts": [
     {
       "name": "Mask Network",
@@ -69,10 +69,5 @@
       "name": "Social Layer"
     }
   ],
-  "secondary_contacts": [
-    {
-      "name": "Spaceport-Admin",
-      "email": "spaceport-admin@protocol.ai"
-    }
-  ]
+  "secondary_contacts": []
 }
