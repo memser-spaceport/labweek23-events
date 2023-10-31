@@ -15,7 +15,7 @@
   "access_type": "CUSTOM_REGISTRATION",
   "access_option": "OPEN",
   "format": "VIRTUAL",
-  "location": "Swissôtel-5th Floor-Foyer",
+  "location": "",
   "meeting_platform": "Official link coming soon",
   "seat_count": "100-200",
   "registration_link": "https://lu.ma/k6mm4e00",
@@ -45,7 +45,7 @@
     ],
     "custom_fields": []
   },
-  "updatedAt": "2023-10-31T15:29:58.406Z",
+  "updatedAt": "2023-10-31T21:23:30.465Z",
   "co_hosts": [],
   "secondary_contacts": [],
   "meeting_link": "monaverse.com"
