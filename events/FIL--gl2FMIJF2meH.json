@@ -27,9 +27,11 @@
     "nft_contract_address": "0x08484f61336166930d9385bf136fcedbe3d2ea63",
     "host_wallet_address": "",
     "verifier_wallet_addresses": [],
+    "verifier_email_addresses": [],
     "custom_event_URL": "fil-plus",
     "pattern": 2,
     "hide_event_logo": false,
+    "hide_attendees": false,
     "ticketing_provider": "UNLOCK",
     "default_fields": [
       {
@@ -121,12 +123,16 @@
   },
   "host_logo": "",
   "meeting_platform": "",
-  "updatedAt": "2023-09-27T17:11:27.627Z",
+  "updatedAt": "2023-10-31T05:12:08.242Z",
   "co_hosts": [],
   "secondary_contacts": [
     {
       "name": "denice",
       "email": "denice.zhu@protocol.ai"
+    },
+    {
+      "name": "Spaceport-Admin",
+      "email": "spaceport-admin@protocol.ai"
     }
   ]
 }
