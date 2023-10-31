@@ -1,7 +1,7 @@
 {
   "event_contact_name": "Jorge Soares",
   "event_contact_email": "jorge@protocol.ai",
-  "event_name": "InterPlanetary Consensus: Custom L2+ to Scale Filecoin & Beyond",
+  "event_name": "Breakthrough Scaling with InterPlanetary Consensus",
   "host": "ConsensusLab",
   "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1695058480014_889.png",
   "co_host": [
@@ -22,7 +22,7 @@
       "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692885020237_929.webp"
     }
   ],
-  "description": "As we count down towards IPC general availability, we bring together developers, users, and other stakeholders for a day of talks and workshops. Listen to the latest developments, learn about the exciting products built on it, and take part in crafting the future of IPC.",
+  "description": "InterPlanetary Consensus (IPC) is a transformative blockchain architecture that enables planetary-scale performance by introducing the innovative concept of blockchains within blockchains. This pioneering approach creates infinitely scalable networks, forming dynamic tree networks of recursive blockchains, or \"subnets.\" IPC's mission is to bridge the performance and usability gap between Web2 and Web3, powering a decentralized planetary-scale economy with unmatched speed and functionality comparable to centralized systems. For additional details, please visit: https://ipc.space/",
   "tags": [
     "Talks & Presentation",
     "Workshop"
@@ -148,7 +148,7 @@
   "meeting_platform": "",
   "registration_link": "https://istanbul.ipc.space",
   "website_link": "https://istanbul.ipc.space",
-  "updatedAt": "2023-10-31T15:22:48.962Z",
+  "updatedAt": "2023-10-31T15:31:51.635Z",
   "co_hosts": [
     {
       "name": "Outercore",
@@ -159,6 +159,10 @@
     {
       "name": "Mikhail Turilin",
       "email": "mikhail.turilin@protocol.ai"
+    },
+    {
+      "name": "Parth Pathak",
+      "email": "parth@protocol.ai"
     }
   ]
 }
