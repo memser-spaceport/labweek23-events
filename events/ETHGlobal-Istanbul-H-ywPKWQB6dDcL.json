@@ -1,7 +1,12 @@
 {
   "event_contact_name": "Denice Zhu",
   "event_contact_email": "denicezhu@gmail.com",
-  "secondary_contacts": [],
+  "secondary_contacts": [
+    {
+      "name": "Spaceport-Admin",
+      "email": "spaceport-admin@protocol.ai"
+    }
+  ],
   "event_name": "ETHGlobal Istanbul Hackathon",
   "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1696475749174_55.jpeg",
   "host": "ETHGlobal",
@@ -39,9 +44,11 @@
   "nft_ticketing": {
     "host_wallet_address": "",
     "verifier_wallet_addresses": [],
+    "verifier_email_addresses": [],
     "custom_event_URL": "",
     "pattern": 1,
     "hide_event_logo": false,
+    "hide_attendees": false,
     "ticketing_provider": "UNLOCK",
     "default_fields": [],
     "additional_fields": [
@@ -113,5 +120,5 @@
     "custom_fields": []
   },
   "createdAt": "2023-10-05T03:30:56.421Z",
-  "updatedAt": "2023-10-05T18:06:00.762Z"
+  "updatedAt": "2023-10-31T05:26:11.776Z"
 }
