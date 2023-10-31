@@ -68,7 +68,7 @@
       "https://discordapp.com/channels/899652135552167957/1065052179746000936"
     ]
   },
-  "updatedAt": "2023-10-31T05:16:01.805Z",
+  "updatedAt": "2023-10-31T15:33:57.651Z",
   "co_hosts": [
     {
       "name": "Drpc.org",
@@ -79,10 +79,5 @@
       "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1695288004516_381.png"
     }
   ],
-  "secondary_contacts": [
-    {
-      "name": "Spaceport-Admin",
-      "email": "spaceport-admin@protocol.ai"
-    }
-  ]
+  "secondary_contacts": []
 }
