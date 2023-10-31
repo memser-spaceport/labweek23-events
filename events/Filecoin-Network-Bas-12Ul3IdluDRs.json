@@ -125,7 +125,7 @@
     "custom_fields": []
   },
   "meeting_platform": "",
-  "updatedAt": "2023-10-31T05:11:24.551Z",
+  "updatedAt": "2023-10-31T15:23:54.117Z",
   "co_hosts": [],
   "secondary_contacts": [
     {
@@ -135,10 +135,6 @@
     {
       "name": "Olivia Sigler",
       "email": "olivia@fil.org"
-    },
-    {
-      "name": "Spaceport-Admin",
-      "email": "spaceport-admin@protocol.ai"
     }
   ],
   "registration_link": "https://networkbase.io/istanbul/"
