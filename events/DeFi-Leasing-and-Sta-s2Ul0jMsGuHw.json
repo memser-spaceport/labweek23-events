@@ -22,7 +22,7 @@
   "access_type": "IN-HOUSE_REGISTRATION",
   "access_option": "OPEN",
   "format": "IN-PERSON",
-  "location": "Swissôtel",
+  "location": "Swissôtel-7th Floor-Zurich",
   "location_url": "https://maps.app.goo.gl/JXnJXD5w6MpAtLNT9",
   "seat_count": "50-100",
   "agenda": {
@@ -157,7 +157,7 @@
   "meeting_platform": "",
   "registration_link": "",
   "website_link": "",
-  "updatedAt": "2023-10-31T15:28:48.172Z",
+  "updatedAt": "2023-10-31T21:41:17.084Z",
   "co_hosts": [],
   "secondary_contacts": []
 }
