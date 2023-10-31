@@ -33,9 +33,11 @@
     "nft_contract_address": "0xce383848a3eca11f4fc511eaaa33006ace664d7a",
     "host_wallet_address": "",
     "verifier_wallet_addresses": [],
+    "verifier_email_addresses": [],
     "custom_event_URL": "libp2p-day",
     "pattern": 2,
     "hide_event_logo": false,
+    "hide_attendees": false,
     "ticketing_provider": "UNLOCK",
     "default_fields": [
       {
@@ -127,7 +129,7 @@
   },
   "registration_link": "",
   "website_link": "",
-  "updatedAt": "2023-09-29T17:00:49.150Z",
+  "updatedAt": "2023-10-31T05:14:48.478Z",
   "co_hosts": [
     {
       "name": "Dave Huseby",
@@ -138,6 +140,10 @@
     {
       "name": "David Huseby",
       "email": "david.huseby@protocol.ai"
+    },
+    {
+      "name": "Spaceport-Admin",
+      "email": "spaceport-admin@protocol.ai"
     }
   ]
 }
