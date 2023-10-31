@@ -29,9 +29,11 @@
     "nft_contract_address": "0xb36a997c4be1e1a30f47cf47b7afe13d7f10a3ab",
     "host_wallet_address": "",
     "verifier_wallet_addresses": [],
+    "verifier_email_addresses": [],
     "custom_event_URL": "league-of-entropy",
     "pattern": 2,
     "hide_event_logo": false,
+    "hide_attendees": false,
     "ticketing_provider": "UNLOCK",
     "default_fields": [
       {
@@ -122,8 +124,13 @@
     "custom_fields": []
   },
   "meeting_platform": "",
-  "updatedAt": "2023-10-10T12:44:19.858Z",
+  "updatedAt": "2023-10-31T05:12:39.197Z",
   "co_hosts": [],
-  "secondary_contacts": [],
+  "secondary_contacts": [
+    {
+      "name": "Spaceport-Admin",
+      "email": "spaceport-admin@protocol.ai"
+    }
+  ],
   "registration_link": "https://lu.ma/loe-summit-2023"
 }
