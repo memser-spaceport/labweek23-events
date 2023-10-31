@@ -20,7 +20,7 @@
   "access_type": "IN-HOUSE_REGISTRATION",
   "access_option": "OPEN",
   "format": "IN-PERSON",
-  "location": "Swissôtel",
+  "location": "Swissôtel-5th Floor-Fuji Ballroom",
   "location_url": "https://maps.app.goo.gl/JXnJXD5w6MpAtLNT9",
   "seat_count": "500-600",
   "agenda": {
@@ -33,9 +33,11 @@
     "nft_contract_address": "0xaaf8d6462678a33d336b1bbe05311ddb10642048",
     "host_wallet_address": "",
     "verifier_wallet_addresses": [],
+    "verifier_email_addresses": [],
     "custom_event_URL": "pl-summit",
     "pattern": 2,
     "hide_event_logo": false,
+    "hide_attendees": false,
     "ticketing_provider": "UNLOCK",
     "default_fields": [
       {
@@ -128,7 +130,7 @@
   "meeting_platform": "",
   "registration_link": "https://plsummit23.labweek.io/",
   "website_link": "https://plsummit23.labweek.io/",
-  "updatedAt": "2023-10-18T00:28:18.933Z",
+  "updatedAt": "2023-10-31T21:13:27.342Z",
   "co_hosts": [
     {
       "name": "Spaceport",
