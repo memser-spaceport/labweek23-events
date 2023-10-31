@@ -30,9 +30,11 @@
     "nft_contract_address": "0x0ab0153608daae48259dc9f04edba832be98ac02",
     "host_wallet_address": "",
     "verifier_wallet_addresses": [],
+    "verifier_email_addresses": [],
     "custom_event_URL": "zama-zk-proofs-fhe",
     "pattern": 2,
     "hide_event_logo": false,
+    "hide_attendees": false,
     "ticketing_provider": "UNLOCK",
     "default_fields": [
       {
@@ -128,9 +130,14 @@
     ]
   },
   "meeting_platform": "",
-  "updatedAt": "2023-09-26T20:42:59.436Z",
+  "updatedAt": "2023-10-31T05:13:34.999Z",
   "co_hosts": [],
-  "secondary_contacts": [],
+  "secondary_contacts": [
+    {
+      "name": "Spaceport-Admin",
+      "email": "spaceport-admin@protocol.ai"
+    }
+  ],
   "location_url": "https://www.google.com/maps/place/Swiss%C3%B4tel+The+Bosphorus+Istanbul/@41.0411641,28.9976787,17z/data=!3m1!4b1!4m9!3m8!1s0x14cab77526f3dc9b:0x92ada1dd6c7d611e!5m2!4m1!1i2!8m2!3d41.0411641!4d28.9976787!16s%2Fm%2F0120y9yk?entry=ttu",
   "registration_link": "https://lu.ma/zama-meetup-labweek23"
 }
