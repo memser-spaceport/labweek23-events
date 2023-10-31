@@ -5,6 +5,10 @@
     {
       "name": "Denice Zhu",
       "email": "denicezhu@gmail.com"
+    },
+    {
+      "name": "Spaceport-Admin",
+      "email": "spaceport-admin@protocol.ai"
     }
   ],
   "event_name": "Women in Web3 Social",
@@ -139,6 +143,6 @@
     "custom_fields": []
   },
   "createdAt": "2023-09-28T01:59:12.712Z",
-  "updatedAt": "2023-10-27T16:15:18.661Z",
+  "updatedAt": "2023-10-31T05:22:26.358Z",
   "location_url": "https://maps.app.goo.gl/QUPRAuTjiCsz9YgT8"
 }
