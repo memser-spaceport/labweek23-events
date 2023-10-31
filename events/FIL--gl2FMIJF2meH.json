@@ -123,16 +123,12 @@
   },
   "host_logo": "",
   "meeting_platform": "",
-  "updatedAt": "2023-10-31T05:12:08.242Z",
+  "updatedAt": "2023-10-31T15:24:55.642Z",
   "co_hosts": [],
   "secondary_contacts": [
     {
       "name": "denice",
       "email": "denice.zhu@protocol.ai"
-    },
-    {
-      "name": "Spaceport-Admin",
-      "email": "spaceport-admin@protocol.ai"
     }
   ]
 }
