@@ -1,12 +1,7 @@
 {
   "event_contact_name": "Lana",
   "event_contact_email": "lana@flare.network",
-  "secondary_contacts": [
-    {
-      "name": "Spaceport-Admin",
-      "email": "spaceport-admin@protocol.ai"
-    }
-  ],
+  "secondary_contacts": [],
   "event_name": "Flare [Dev] Meetup: Istanbul Edition",
   "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1697173629261_207.png",
   "host": "Flare Network",
@@ -124,5 +119,5 @@
     "custom_fields": []
   },
   "createdAt": "2023-10-13T05:10:18.833Z",
-  "updatedAt": "2023-10-31T05:28:05.549Z"
+  "updatedAt": "2023-10-31T15:42:25.537Z"
 }
