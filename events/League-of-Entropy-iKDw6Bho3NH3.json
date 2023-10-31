@@ -124,13 +124,8 @@
     "custom_fields": []
   },
   "meeting_platform": "",
-  "updatedAt": "2023-10-31T05:12:39.197Z",
+  "updatedAt": "2023-10-31T15:26:15.751Z",
   "co_hosts": [],
-  "secondary_contacts": [
-    {
-      "name": "Spaceport-Admin",
-      "email": "spaceport-admin@protocol.ai"
-    }
-  ],
+  "secondary_contacts": [],
   "registration_link": "https://lu.ma/loe-summit-2023"
 }
