@@ -163,7 +163,7 @@
   },
   "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1697140613722_829.png",
   "meeting_platform": "",
-  "updatedAt": "2023-10-31T05:11:49.083Z",
+  "updatedAt": "2023-10-31T15:24:34.200Z",
   "co_hosts": [
     {
       "name": "Rymedi",
@@ -178,10 +178,6 @@
     {
       "name": "Jelani Clarke",
       "email": "jelani@desci.world"
-    },
-    {
-      "name": "Spaceport-Admin",
-      "email": "spaceport-admin@protocol.ai"
     }
   ]
 }
