@@ -1,7 +1,12 @@
 {
   "event_contact_name": "Jose Betancourt",
   "event_contact_email": "jose@ontropy.io",
-  "secondary_contacts": [],
+  "secondary_contacts": [
+    {
+      "name": "Spaceport-Admin",
+      "email": "spaceport-admin@protocol.ai"
+    }
+  ],
   "event_name": "Fully Onchain Gaming Day",
   "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1696961051380_687.png",
   "host": "Ontropy",
@@ -44,9 +49,11 @@
   "nft_ticketing": {
     "host_wallet_address": "",
     "verifier_wallet_addresses": [],
+    "verifier_email_addresses": [],
     "custom_event_URL": "",
     "pattern": 3,
     "hide_event_logo": false,
+    "hide_attendees": false,
     "ticketing_provider": "UNLOCK",
     "default_fields": [
       {
@@ -147,6 +154,6 @@
     ]
   },
   "createdAt": "2023-10-10T18:06:07.967Z",
-  "updatedAt": "2023-10-11T21:17:19.641Z",
+  "updatedAt": "2023-10-31T05:27:34.528Z",
   "registration_link": "https://lu.ma/gcxez81l"
 }
