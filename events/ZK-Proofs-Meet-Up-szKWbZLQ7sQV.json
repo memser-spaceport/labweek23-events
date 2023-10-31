@@ -13,6 +13,10 @@
     {
       "name": "La Christa",
       "email": "leccles79@gmail.com"
+    },
+    {
+      "name": "Spaceport-Admin",
+      "email": "spaceport-admin@protocol.ai"
     }
   ],
   "event_name": "ZK Proofs Meet Up",
@@ -138,6 +142,6 @@
     "custom_fields": []
   },
   "createdAt": "2023-09-28T02:05:42.188Z",
-  "updatedAt": "2023-10-30T18:25:20.746Z",
+  "updatedAt": "2023-10-31T05:22:49.973Z",
   "location_url": "https://maps.app.goo.gl/QUPRAuTjiCsz9YgT8"
 }
