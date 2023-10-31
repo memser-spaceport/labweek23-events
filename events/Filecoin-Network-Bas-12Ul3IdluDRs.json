@@ -30,9 +30,11 @@
     "nft_contract_address": "0xb198acbf30f0c3395036e2bed43f208d524ea787",
     "host_wallet_address": "",
     "verifier_wallet_addresses": [],
+    "verifier_email_addresses": [],
     "custom_event_URL": "filecoin-network-base",
     "pattern": 2,
     "hide_event_logo": false,
+    "hide_attendees": false,
     "ticketing_provider": "UNLOCK",
     "default_fields": [
       {
@@ -123,7 +125,7 @@
     "custom_fields": []
   },
   "meeting_platform": "",
-  "updatedAt": "2023-09-27T15:56:34.355Z",
+  "updatedAt": "2023-10-31T05:11:24.551Z",
   "co_hosts": [],
   "secondary_contacts": [
     {
@@ -133,6 +135,10 @@
     {
       "name": "Olivia Sigler",
       "email": "olivia@fil.org"
+    },
+    {
+      "name": "Spaceport-Admin",
+      "email": "spaceport-admin@protocol.ai"
     }
   ],
   "registration_link": "https://networkbase.io/istanbul/"
