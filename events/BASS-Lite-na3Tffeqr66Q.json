@@ -1,0 +1,115 @@
+{
+  "event_contact_name": "Steven Willinger",
+  "event_contact_email": "steven@blockchainbuilders.fund",
+  "secondary_contacts": [],
+  "event_name": "BASS Lite",
+  "event_logo": "",
+  "host": "Blockchain Builders Fund",
+  "host_logo": "",
+  "co_hosts": [
+    {
+      "name": "Longhash Ventures",
+      "logo": ""
+    }
+  ],
+  "description": "​BASS Lite is our offshoot speaker series of the Blockchain Applications Stanford Summit (https://bass.sites.stanford.edu/) - gathering our global community of developers, engineers, and researchers to connect and discuss blockchain's latest topics in depth.\n\nBASS Lite Istanbul will feature leaders from Flashbots, Eigenlayer, and Succinct Labs sharing developments on MEV, Restaking, and ZK. Join us to connect with other builders and thought leaders!\n\n​Co-organized by Flashbots, Eigenlayer, Succinct Labs, Stanford Blockchain, LongHash Ventures, & Blockchain Builders Fund.",
+  "tags": [
+    "Talks & Presentation"
+  ],
+  "start_date": "2023-11-16T11:00:00.000Z",
+  "end_date": "2023-11-16T14:00:00.000Z",
+  "access_type": "CUSTOM_REGISTRATION",
+  "access_option": "OPEN",
+  "format": "IN-PERSON",
+  "location": "",
+  "meeting_platform": "",
+  "seat_count": "50-100",
+  "registration_link": "https://lu.ma/BASSLite",
+  "website_link": "https://lu.ma/BASSLite",
+  "agenda": {
+    "sessions": []
+  },
+  "sponsors": [],
+  "is_featured": false,
+  "conference": "labweek-23",
+  "nft_ticketing": {
+    "host_wallet_address": "",
+    "verifier_wallet_addresses": [],
+    "verifier_email_addresses": [],
+    "custom_event_URL": "",
+    "pattern": 1,
+    "hide_event_logo": false,
+    "hide_attendees": false,
+    "ticketing_provider": "UNLOCK",
+    "default_fields": [],
+    "additional_fields": [
+      {
+        "order": 1,
+        "type": "text",
+        "name": "company",
+        "label": "Team or Project",
+        "key": "company",
+        "value": 0,
+        "placeholder_text": "Name of the Team or Project"
+      },
+      {
+        "order": 2,
+        "type": "text",
+        "name": "job_itle",
+        "label": "Job Title",
+        "key": "job_title",
+        "value": 0,
+        "placeholder_text": "Current Job Title or Position"
+      },
+      {
+        "order": 3,
+        "type": "text",
+        "name": "telegram",
+        "label": "Telegram",
+        "key": "telegram",
+        "value": 0,
+        "placeholder_text": "Telegram Handle/URL"
+      },
+      {
+        "order": 4,
+        "type": "text",
+        "name": "twitter",
+        "label": "Twitter",
+        "key": "twitter",
+        "value": 0,
+        "placeholder_text": "Twitter Handle/URL"
+      },
+      {
+        "order": 5,
+        "type": "text",
+        "name": "dietary_restrictions",
+        "label": "Dietary Restrictions",
+        "key": "dietary_restrictions",
+        "value": 0,
+        "placeholder_text": "Enter Any Food Allergies or Restrictions"
+      },
+      {
+        "order": 6,
+        "type": "text",
+        "name": "wallet_address",
+        "label": "Wallet Address",
+        "key": "wallet_address",
+        "value": 1,
+        "placeholder_text": "Enter FEVM, ETH Address or ENS"
+      },
+      {
+        "order": 8,
+        "type": "checkbox",
+        "name": "communication_consent",
+        "label": "I agree to receive communication from Protocol Labs",
+        "key": "communication_consent",
+        "value": 1,
+        "placeholder_text": "I agree to receive communication from Protocol Labs",
+        "alt": "GDPR Consent (yes/no)"
+      }
+    ],
+    "custom_fields": []
+  },
+  "createdAt": "2023-10-31T19:23:22.510Z",
+  "updatedAt": "2023-10-31T19:23:22.510Z"
+}
