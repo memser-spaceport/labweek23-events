@@ -31,9 +31,11 @@
   "nft_ticketing": {
     "host_wallet_address": "",
     "verifier_wallet_addresses": [],
+    "verifier_email_addresses": [],
     "custom_event_URL": "",
     "pattern": 1,
     "hide_event_logo": false,
+    "hide_attendees": false,
     "default_fields": [],
     "additional_fields": [
       {
@@ -45,7 +47,12 @@
     ],
     "custom_fields": []
   },
-  "updatedAt": "2023-10-03T16:02:18.658Z",
+  "updatedAt": "2023-10-31T05:17:07.082Z",
   "co_hosts": [],
-  "secondary_contacts": []
+  "secondary_contacts": [
+    {
+      "name": "Spaceport-Admin",
+      "email": "spaceport-admin@protocol.ai"
+    }
+  ]
 }
