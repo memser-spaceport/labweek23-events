@@ -46,12 +46,7 @@
   },
   "meeting_platform": "",
   "registration_link": "https://lu.ma/ipfs-connect-istanbul",
-  "updatedAt": "2023-10-31T05:09:47.172Z",
+  "updatedAt": "2023-10-31T15:21:26.659Z",
   "co_hosts": [],
-  "secondary_contacts": [
-    {
-      "name": "Spaceport-Admin",
-      "email": "spaceport-admin@protocol.ai"
-    }
-  ]
+  "secondary_contacts": []
 }
