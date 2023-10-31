@@ -7,7 +7,7 @@
       "email": "ryo.mochido@protocol.ai"
     }
   ],
-  "event_name": "PLN Meditation",
+  "event_name": "PL Meditation",
   "event_logo": "",
   "host": "Spaceport",
   "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692885075605_26.png",
@@ -129,6 +129,6 @@
     "custom_fields": []
   },
   "createdAt": "2023-10-23T21:13:53.035Z",
-  "updatedAt": "2023-10-31T15:43:15.694Z",
+  "updatedAt": "2023-10-31T21:16:04.888Z",
   "location_url": "https://maps.app.goo.gl/JXnJXD5w6MpAtLNT9"
 }
