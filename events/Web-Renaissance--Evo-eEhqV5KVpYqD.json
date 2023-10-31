@@ -53,9 +53,11 @@
     "verifier_wallet_addresses": [
       "0xff94bcf0171ad504c72790e5490bff40508ae4ab"
     ],
+    "verifier_email_addresses": [],
     "custom_event_URL": "neonyx",
     "pattern": 2,
     "hide_event_logo": false,
+    "hide_attendees": false,
     "ticketing_provider": "UNLOCK",
     "default_fields": [
       {
@@ -156,7 +158,7 @@
       "https://discord.gg/neonyx"
     ]
   },
-  "updatedAt": "2023-10-18T12:16:40.817Z",
+  "updatedAt": "2023-10-31T05:21:43.214Z",
   "co_hosts": [
     {
       "name": "Michael",
@@ -172,5 +174,10 @@
     }
   ],
   "location_url": "https://maps.app.goo.gl/JXnJXD5w6MpAtLNT9",
-  "secondary_contacts": []
+  "secondary_contacts": [
+    {
+      "name": "Spaceport-Admin",
+      "email": "spaceport-admin@protocol.ai"
+    }
+  ]
 }
