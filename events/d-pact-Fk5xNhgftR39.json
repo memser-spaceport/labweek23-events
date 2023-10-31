@@ -5,10 +5,6 @@
     {
       "name": "Duygu Kambur",
       "email": "duygu@merkezsiz.com"
-    },
-    {
-      "name": "Spaceport-Admin",
-      "email": "spaceport-admin@protocol.ai"
     }
   ],
   "event_name": "d:pact",
@@ -130,5 +126,5 @@
     "custom_fields": []
   },
   "createdAt": "2023-10-02T19:03:15.971Z",
-  "updatedAt": "2023-10-31T05:24:17.232Z"
+  "updatedAt": "2023-10-31T15:38:05.003Z"
 }
