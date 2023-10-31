@@ -1,12 +1,11 @@
 {
   "event_contact_name": "Otsar Shalmoni",
   "event_contact_email": "otsar@ingonyama.com",
-  "secondary_contacts": [],
   "event_name": "ZK Accelerate",
   "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1695364819849_497.png",
   "host": "Ingonyama",
   "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1695364930912_292.png",
-  "co_hosts": [],
+  "co_host": [],
   "description": "​The day-long event will focus on ZK infrastructure engineering and innovation.\n\n​Expected attendees include our partners from AMD, Intel, and AWS, as well as top notch speakers from the space.\n\n​Talks\n\n​Panels\n\n​Lunch\n\n​Mingling\n\n​Booths\n\n​Coffee breaks\n\n​Hardware Demonstrations (TBD)",
   "tags": [
     "Talks & Presentation",
@@ -32,5 +31,32 @@
   },
   "sponsors": [],
   "is_featured": false,
-  "conference": "labweek-23"
+  "conference": "labweek-23",
+  "nft_ticketing": {
+    "host_wallet_address": "",
+    "verifier_wallet_addresses": [],
+    "verifier_email_addresses": [],
+    "custom_event_URL": "",
+    "pattern": 1,
+    "hide_event_logo": false,
+    "hide_attendees": false,
+    "default_fields": [],
+    "additional_fields": [
+      {
+        "company": 0,
+        "job_title": 0,
+        "telegram": 0,
+        "twitter": 0
+      }
+    ],
+    "custom_fields": []
+  },
+  "updatedAt": "2023-10-31T05:17:27.739Z",
+  "co_hosts": [],
+  "secondary_contacts": [
+    {
+      "name": "Spaceport-Admin",
+      "email": "spaceport-admin@protocol.ai"
+    }
+  ]
 }
