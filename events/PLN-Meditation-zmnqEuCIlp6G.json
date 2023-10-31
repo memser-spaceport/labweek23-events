@@ -5,6 +5,10 @@
     {
       "name": "Ryo Mochido",
       "email": "ryo.mochido@protocol.ai"
+    },
+    {
+      "name": "Spaceport-Admin",
+      "email": "spaceport-admin@protocol.ai"
     }
   ],
   "event_name": "PLN Meditation",
@@ -129,6 +133,6 @@
     "custom_fields": []
   },
   "createdAt": "2023-10-23T21:13:53.035Z",
-  "updatedAt": "2023-10-25T01:44:13.719Z",
+  "updatedAt": "2023-10-31T05:29:03.758Z",
   "location_url": "https://maps.app.goo.gl/JXnJXD5w6MpAtLNT9"
 }
