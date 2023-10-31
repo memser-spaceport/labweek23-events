@@ -129,7 +129,7 @@
   },
   "registration_link": "",
   "website_link": "",
-  "updatedAt": "2023-10-31T05:14:48.478Z",
+  "updatedAt": "2023-10-31T15:29:36.350Z",
   "co_hosts": [
     {
       "name": "Dave Huseby",
@@ -140,10 +140,6 @@
     {
       "name": "David Huseby",
       "email": "david.huseby@protocol.ai"
-    },
-    {
-      "name": "Spaceport-Admin",
-      "email": "spaceport-admin@protocol.ai"
     }
   ]
 }
