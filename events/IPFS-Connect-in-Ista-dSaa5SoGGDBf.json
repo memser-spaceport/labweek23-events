@@ -1,12 +1,11 @@
 {
   "event_contact_name": "Boris Mann",
   "event_contact_email": "boris@fission.codes",
-  "secondary_contacts": [],
   "event_name": "IPFS Connect Istanbul",
   "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692884191807_572.png",
   "host": "Fission",
   "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692884893331_137.webp",
-  "co_hosts": [],
+  "co_host": [],
   "description": "Join us for a full day of workshops, lightning talks, and demos showcasing technology and tools in the IPFS ecosystem. Prep for the ETHGlobal Hackathon by learning about all the tools and SDKs in the IPFS + Filecoin universe that builders can use to add decentralized files and data to their dapps. Schedule and location details will be revealed soon. This event is organized by Fission and sponsored by Protocol Labs.",
   "tags": [
     "Talks & Presentation",
@@ -26,7 +25,33 @@
   "sponsors": [],
   "is_featured": false,
   "conference": "labweek-23",
-  "contact_infos": {},
+  "nft_ticketing": {
+    "host_wallet_address": "",
+    "verifier_wallet_addresses": [],
+    "verifier_email_addresses": [],
+    "custom_event_URL": "",
+    "pattern": 1,
+    "hide_event_logo": false,
+    "hide_attendees": false,
+    "default_fields": [],
+    "additional_fields": [
+      {
+        "company": 0,
+        "job_title": 0,
+        "telegram": 0,
+        "twitter": 0
+      }
+    ],
+    "custom_fields": []
+  },
   "meeting_platform": "",
-  "registration_link": "https://lu.ma/ipfs-connect-istanbul"
+  "registration_link": "https://lu.ma/ipfs-connect-istanbul",
+  "updatedAt": "2023-10-31T05:09:47.172Z",
+  "co_hosts": [],
+  "secondary_contacts": [
+    {
+      "name": "Spaceport-Admin",
+      "email": "spaceport-admin@protocol.ai"
+    }
+  ]
 }
