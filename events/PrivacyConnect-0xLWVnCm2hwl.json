@@ -1,7 +1,12 @@
 {
   "event_contact_name": "Will Scott",
   "event_contact_email": "will.scott@protocol.ai",
-  "secondary_contacts": [],
+  "secondary_contacts": [
+    {
+      "name": "Spaceport-Admin",
+      "email": "spaceport-admin@protocol.ai"
+    }
+  ],
   "event_name": "PrivConnect",
   "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1698143302454_823.jpeg",
   "host": "Universal Privacy Alliance",
@@ -110,7 +115,7 @@
     "custom_fields": []
   },
   "createdAt": "2023-10-03T14:37:31.946Z",
-  "updatedAt": "2023-10-24T10:28:55.458Z",
+  "updatedAt": "2023-10-31T05:24:59.702Z",
   "location_url": "https://maps.google.com/maps?ll=41.052141,28.988325&z=13&t=m&hl=tr&gl=US&mapclient=embed&cid=1351311558557753211",
   "registration_link": "https://lu.ma/upa-istanbul"
 }
