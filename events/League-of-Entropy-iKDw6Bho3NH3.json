@@ -15,7 +15,7 @@
   "access_type": "CUSTOM_REGISTRATION",
   "access_option": "OPEN",
   "format": "IN-PERSON",
-  "location": "Swissôtel",
+  "location": "Swissôtel-5th Floor-Bern",
   "location_url": "https://maps.app.goo.gl/JXnJXD5w6MpAtLNT9",
   "seat_count": "1-50",
   "website_link": "",
@@ -124,7 +124,7 @@
     "custom_fields": []
   },
   "meeting_platform": "",
-  "updatedAt": "2023-10-31T15:26:15.751Z",
+  "updatedAt": "2023-10-31T21:24:44.799Z",
   "co_hosts": [],
   "secondary_contacts": [],
   "registration_link": "https://lu.ma/loe-summit-2023"
