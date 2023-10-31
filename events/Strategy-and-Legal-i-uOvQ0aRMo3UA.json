@@ -5,10 +5,6 @@
     {
       "name": "Basak Yigit",
       "email": "basak.b.yigit@gmail.com"
-    },
-    {
-      "name": "Spaceport-Admin",
-      "email": "spaceport-admin@protocol.ai"
     }
   ],
   "event_name": "Strategy and Legal in Web3 Meetup",
@@ -148,5 +144,5 @@
     "custom_fields": []
   },
   "createdAt": "2023-10-27T15:30:36.789Z",
-  "updatedAt": "2023-10-31T05:29:49.021Z"
+  "updatedAt": "2023-10-31T15:45:59.063Z"
 }
