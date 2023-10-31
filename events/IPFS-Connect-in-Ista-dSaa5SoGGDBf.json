@@ -16,7 +16,7 @@
   "access_type": "CUSTOM_REGISTRATION",
   "access_option": "PAID",
   "format": "IN-PERSON",
-  "location": "",
+  "location": "Swissotel-7th Floor",
   "seat_count": "400-500",
   "website_link": "https://istanbul2023.ipfsconnect.org/",
   "agenda": {
@@ -46,7 +46,7 @@
   },
   "meeting_platform": "",
   "registration_link": "https://lu.ma/ipfs-connect-istanbul",
-  "updatedAt": "2023-10-31T15:21:26.659Z",
+  "updatedAt": "2023-10-31T21:15:33.802Z",
   "co_hosts": [],
   "secondary_contacts": []
 }
