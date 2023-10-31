@@ -134,7 +134,7 @@
   },
   "event_logo": "",
   "meeting_platform": "",
-  "updatedAt": "2023-10-31T05:13:14.597Z",
+  "updatedAt": "2023-10-31T15:27:33.245Z",
   "co_hosts": [
     {
       "name": "EF"
@@ -146,12 +146,7 @@
       "name": "Casa"
     }
   ],
-  "secondary_contacts": [
-    {
-      "name": "Spaceport-Admin",
-      "email": "spaceport-admin@protocol.ai"
-    }
-  ],
+  "secondary_contacts": [],
   "registration_link": "https://walletuncon.org/",
   "location_url": "https://maps.app.goo.gl/udQkYavRHuu6HWr69"
 }
