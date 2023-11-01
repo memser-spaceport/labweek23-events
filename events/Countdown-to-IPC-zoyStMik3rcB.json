@@ -51,20 +51,26 @@
       },
       {
         "start_date": "2023-11-16T06:50:00.000Z",
-        "end_date": "2023-11-16T07:10:00.000Z",
+        "end_date": "2023-11-16T07:20:00.000Z",
         "name": "A closer look at the IPC Stack",
         "description": "Speaker: Raul Kripalani, CTO of IPC. In this keynote, we're going to dive into the world of IPC, exploring where it's headed and the exciting possibilities for the future. We'll cover the basic tech that IPC is built on, look at current market trends, and discuss the existing tech limits. Together, we'll imagine the new kinds of applications that could become possible with advancements in IPC and talk about the essential research required to make this vision a reality. It’s all about understanding IPC better and getting ready for the amazing opportunities that lie ahead!"
       },
       {
-        "start_date": "2023-11-16T07:10:00.000Z",
-        "end_date": "2023-11-16T07:20:00.000Z",
+        "start_date": "2023-11-16T07:20:00.000Z",
+        "end_date": "2023-11-16T07:30:00.000Z",
         "name": "COFFEE BREAK"
       },
       {
-        "start_date": "2023-11-16T07:20:00.000Z",
-        "end_date": "2023-11-16T07:50:00.000Z",
+        "start_date": "2023-11-16T07:30:00.000Z",
+        "end_date": "2023-11-16T08:00:00.000Z",
         "name": "IPC vs. other blockchain scaling solutions",
         "description": "Speaker: Marko Vukolic, IPC Chief Scientist\n\nIn this talk, we position IPC comparing to different scaling approaches found in literature, Bitcoin, Ethereum, and other smaller ecosystems. "
+      },
+      {
+        "start_date": "2023-11-16T08:00:00.000Z",
+        "end_date": "2023-11-16T08:30:00.000Z",
+        "name": "IPC M2.5: Fendermint and Canopy launch ",
+        "description": "Speaker: Alfonso de la Rocha, IPC lead engineer\n\nIn this talk Alfonsio will introduce M2.5, the latest version of IPC, featuring a new Rust-written stack. He will cover enhancements in subnet management and stack security, and unveil a new testnet to assist developers in deploying applications directly to IPC, leveraging its improved capabilities.\n"
       }
     ]
   },
@@ -178,7 +184,7 @@
   "meeting_platform": "",
   "registration_link": "https://istanbul.ipc.space",
   "website_link": "https://istanbul.ipc.space",
-  "updatedAt": "2023-11-01T19:55:12.597Z",
+  "updatedAt": "2023-11-01T20:04:33.992Z",
   "co_hosts": [
     {
       "name": "Outercore",
