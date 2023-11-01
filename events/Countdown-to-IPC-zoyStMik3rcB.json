@@ -36,7 +36,14 @@
   "location_url": "https://maps.app.goo.gl/JXnJXD5w6MpAtLNT9",
   "seat_count": "50-100",
   "agenda": {
-    "sessions": []
+    "sessions": [
+      {
+        "start_date": "2023-11-16T06:00:00.000Z",
+        "end_date": "2023-11-16T06:30:00.000Z",
+        "name": "Vision of Web3 Scalability with IPC - Juan Benet",
+        "description": "Juan Benet, CEO of Protocol Labs, will discuss the scalability challenges faced by current decentralized systems, including blockchains, and explain why a significant increase in transaction capacity is necessary to realize the vision of Web3. The objective of Web3 is to replace centrally controlled applications with decentralized alternatives that are more user-friendly, resilient, open, and empower users to own their data and govern themselves, while providing transparency in data processing and decision-making. However, achieving this goal is currently unfeasible due to the insufficient scalability of blockchains, which lack the capacity to store data and compute power required for applications comparable to Twitter, Facebook, Figma, Gmail, and TikTok. Juan will illustrate why scalability is a crucial bottleneck for Web3 and highlight its potential to facilitate a transformative range of applications in the future."
+      }
+    ]
   },
   "sponsors": [],
   "is_featured": false,
@@ -148,7 +155,7 @@
   "meeting_platform": "",
   "registration_link": "https://istanbul.ipc.space",
   "website_link": "https://istanbul.ipc.space",
-  "updatedAt": "2023-10-31T15:31:51.635Z",
+  "updatedAt": "2023-11-01T18:06:22.993Z",
   "co_hosts": [
     {
       "name": "Outercore",
