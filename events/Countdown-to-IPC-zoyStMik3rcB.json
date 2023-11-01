@@ -71,6 +71,23 @@
         "end_date": "2023-11-16T08:30:00.000Z",
         "name": "IPC M2.5: Fendermint and Canopy launch ",
         "description": "Speaker: Alfonso de la Rocha, IPC lead engineer\n\nIn this talk Alfonsio will introduce M2.5, the latest version of IPC, featuring a new Rust-written stack. He will cover enhancements in subnet management and stack security, and unveil a new testnet to assist developers in deploying applications directly to IPC, leveraging its improved capabilities.\n"
+      },
+      {
+        "start_date": "2023-11-16T08:30:00.000Z",
+        "end_date": "2023-11-16T09:00:00.000Z",
+        "name": "Scaling Filecoin with IPC",
+        "description": "Speaker: Juan Benet, CEO of Protocol Labs.\n\nJoin Juan Bennett as he explores innovative solutions for scaling the Filecoin network. Learn how integrating IPC architecture can transform Filecoin, enabling the creation of regional subnets to significantly improve consensus times and overall performance. This talk is a must-attend for those looking to optimize their Filecoin experience and understand the future of decentralized storage.\n"
+      },
+      {
+        "start_date": "2023-11-16T09:00:00.000Z",
+        "end_date": "2023-11-16T09:30:00.000Z",
+        "name": "Lilypad: Unlocking Powerful Distributed Compute",
+        "description": "Speaker: Allison Haire, CEO of Lilypad.\n\nJoin us to explore Lilypad, a groundbreaking \"compute over data\" platform, designed to transform how developers execute computational tasks. Discover how you can leverage the Lilypad network for efficient, decentralized computing. We'll also unveil two major innovations: the Incentivised Testnet and Lilypad AI Studio. Dive into a world of enhanced business opportunities, exceptional developer experience, and seamless integration with blockchain technology. Don’t miss the chance to be part of this technological leap forward!\n"
+      },
+      {
+        "start_date": "2023-11-16T09:30:00.000Z",
+        "end_date": "2023-11-16T10:30:00.000Z",
+        "name": "LUNCH"
       }
     ]
   },
@@ -184,7 +201,7 @@
   "meeting_platform": "",
   "registration_link": "https://istanbul.ipc.space",
   "website_link": "https://istanbul.ipc.space",
-  "updatedAt": "2023-11-01T20:04:33.992Z",
+  "updatedAt": "2023-11-01T20:33:59.607Z",
   "co_hosts": [
     {
       "name": "Outercore",
