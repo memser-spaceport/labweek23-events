@@ -242,7 +242,7 @@
   "meeting_platform": "",
   "registration_link": "https://istanbul.ipc.space",
   "website_link": "https://istanbul.ipc.space",
-  "updatedAt": "2023-11-02T14:47:29.490Z",
+  "updatedAt": "2023-11-02T15:27:42.172Z",
   "co_hosts": [
     {
       "name": "Outercore",
@@ -257,6 +257,10 @@
     {
       "name": "Parth Pathak",
       "email": "parth@protocol.ai"
+    },
+    {
+      "name": "Sarah Thiam Jia Hui",
+      "email": "sarah.thiam@protocol.ai"
     }
   ]
 }
