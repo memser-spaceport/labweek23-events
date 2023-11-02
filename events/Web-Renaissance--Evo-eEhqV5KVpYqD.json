@@ -19,7 +19,7 @@
       "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1695470423782_490.jpeg"
     }
   ],
-  "description": "Unlocking Tomorrow's Internet at LabWeek23 with Neonyx.\n\nJoin us for a web evolution at LabWeek! We're building an internet where privacy is paramount, data is reliable, and borders vanish.\n\nWhat you can Discover:\n\n- Cutting-edge Tech, including Blockchain, IPFS, and DHT Innovations\n- Digital Empowerment\n- Seamless Interoperability\n- Privacy & Security\n- A Borderless Web\n\nShape the digital horizon with us! Welcome to the future!",
+  "description": "Unlocking Tomorrow's Internet at LabWeek23 with Neonyx.\n\nJoin us for a web evolution at LabWeek! Neonyx is a startup that enhances the modern internet, eliminating a number of its shortcomings, the primary one being the lack of control. Neonyx develops a suite of tools for developers, creating the opportunity to build applications that are free from these flaws, in a decentralized, open Neonyx Ecosystem. This set (stack) of technologies is named Neonyx Base, as it forms the foundation for creating a new internet.\n\nWhat you can Discover:\n\n- Cutting-edge Tech, including Blockchain, IPFS, and DHT Innovations\n- Digital Empowerment\n- Seamless Interoperability\n- Privacy & Security\n- A Borderless Web\n\nShape the digital horizon with us! Welcome to the future!",
   "tags": [
     "Talks & Presentation",
     "Future of Web",
@@ -158,7 +158,7 @@
       "https://discord.gg/neonyx"
     ]
   },
-  "updatedAt": "2023-10-31T15:36:19.870Z",
+  "updatedAt": "2023-11-02T11:14:00.580Z",
   "co_hosts": [
     {
       "name": "Michael",
