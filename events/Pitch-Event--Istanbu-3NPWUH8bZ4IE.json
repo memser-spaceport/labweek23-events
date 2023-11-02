@@ -1,0 +1,115 @@
+{
+  "event_contact_name": "Raphael Hannaert",
+  "event_contact_email": "raphael@tioga.capital",
+  "secondary_contacts": [],
+  "event_name": "Pitch Event @Istanbul",
+  "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1698921000029_168.png",
+  "host": "Tioga Capital",
+  "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1698921100459_727.jpeg",
+  "co_hosts": [],
+  "description": "@Founders, we would love to meet you at Devconnect! Join us for some 1-1 pitch sessions and drinks with VC funds that are excited to hear your story.\nApplication: https://forms.gle/H2hEmA6oGXUqt8rC8 \n\nDate: Thursday 16th November\nLocation: Istanbul. Venue address to be shared upon confirmation of participation.\nPitches: Invited founders will have one-to-one 30min pitches with one or multiple VCs.\nNetworking: Pitches will be followed by networking drinks and lunch.\nTime: Each selected startup will receive its own schedule with exact pitch times. \nPitch sessions will take place between 9am-1pm // Networking drinks and lunch as of 1pm\n\nNotes: \n- Given that seats are limited, we will need to make a selection. \n- We will confirm the selected participants by Monday 13th November (by end of the day).\n- Each startup will only need to fill in this form once.\n\nParticipating VC funds:\nTioga Capital (https://tioga.capital)\nRockawayX (https://rockawayx.com) \nMaven11 (https://www.maven11.com)\nLonghash Ventures (https://longhash.vc)\nZee Prime Capital (https://zeeprime.capital)\nDelta (https://deltafund.io)",
+  "tags": [
+    "Talks & Presentation"
+  ],
+  "start_date": "2023-11-16T06:00:00.000Z",
+  "end_date": "2023-11-16T11:00:00.000Z",
+  "access_type": "CUSTOM_REGISTRATION",
+  "access_option": "OPEN",
+  "format": "IN-PERSON",
+  "location": "To be shared upon confirmation",
+  "meeting_platform": "",
+  "seat_count": "1-50",
+  "registration_link": "https://forms.gle/H2hEmA6oGXUqt8rC8",
+  "website_link": "https://lu.ma/event/manage/evt-6uOY17ug0rUdYz3?new=true",
+  "agenda": {
+    "sessions": []
+  },
+  "sponsors": [],
+  "contact_infos": {
+    "twitter": [
+      "https://twitter.com/TiogaCapital"
+    ]
+  },
+  "is_featured": false,
+  "conference": "labweek-23",
+  "nft_ticketing": {
+    "host_wallet_address": "",
+    "verifier_wallet_addresses": [],
+    "verifier_email_addresses": [],
+    "custom_event_URL": "",
+    "pattern": 1,
+    "hide_event_logo": false,
+    "hide_attendees": false,
+    "ticketing_provider": "UNLOCK",
+    "default_fields": [],
+    "additional_fields": [
+      {
+        "order": 1,
+        "type": "text",
+        "name": "company",
+        "label": "Team or Project",
+        "key": "company",
+        "value": 0,
+        "placeholder_text": "Name of the Team or Project"
+      },
+      {
+        "order": 2,
+        "type": "text",
+        "name": "job_itle",
+        "label": "Job Title",
+        "key": "job_title",
+        "value": 0,
+        "placeholder_text": "Current Job Title or Position"
+      },
+      {
+        "order": 3,
+        "type": "text",
+        "name": "telegram",
+        "label": "Telegram",
+        "key": "telegram",
+        "value": 0,
+        "placeholder_text": "Telegram Handle/URL"
+      },
+      {
+        "order": 4,
+        "type": "text",
+        "name": "twitter",
+        "label": "Twitter",
+        "key": "twitter",
+        "value": 0,
+        "placeholder_text": "Twitter Handle/URL"
+      },
+      {
+        "order": 5,
+        "type": "text",
+        "name": "dietary_restrictions",
+        "label": "Dietary Restrictions",
+        "key": "dietary_restrictions",
+        "value": 0,
+        "placeholder_text": "Enter Any Food Allergies or Restrictions"
+      },
+      {
+        "order": 6,
+        "type": "text",
+        "name": "wallet_address",
+        "label": "Wallet Address",
+        "key": "wallet_address",
+        "value": 1,
+        "placeholder_text": "Enter FEVM, ETH Address or ENS"
+      },
+      {
+        "order": 8,
+        "type": "checkbox",
+        "name": "communication_consent",
+        "label": "I agree to receive communication from Protocol Labs",
+        "key": "communication_consent",
+        "value": 1,
+        "placeholder_text": "I agree to receive communication from Protocol Labs",
+        "alt": "GDPR Consent (yes/no)"
+      }
+    ],
+    "custom_fields": []
+  },
+  "createdAt": "2023-11-02T10:33:08.850Z",
+  "updatedAt": "2023-11-02T10:33:08.850Z"
+}
