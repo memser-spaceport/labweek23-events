@@ -1,0 +1,35 @@
+{
+  "event_contact_name": "Ryo Mochido",
+  "event_contact_email": "ryo.mochido@protocol.ai",
+  "secondary_contacts": [
+    {
+      "name": "Spaceport",
+      "email": "spaceport-admin@protocol.ai"
+    }
+  ],
+  "event_name": "Protocol Labs Coworking",
+  "event_logo": "",
+  "host": "Spaceport",
+  "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692885075605_26.png",
+  "co_hosts": [],
+  "description": "A space for all those coming to LabWeek23 to use as a place to work, relax or meet with others.",
+  "tags": [
+    "Talks & Presentation"
+  ],
+  "start_date": "2023-11-14T06:00:00.000Z",
+  "end_date": "2023-11-16T14:00:00.000Z",
+  "access_type": "CUSTOM_REGISTRATION",
+  "access_option": "OPEN",
+  "format": "IN-PERSON",
+  "location": "Swissôtel-Fuji II (5th floor)",
+  "meeting_platform": "",
+  "seat_count": "100-200",
+  "agenda": {
+    "sessions": []
+  },
+  "sponsors": [],
+  "is_featured": false,
+  "conference": "labweek-23",
+  "createdAt": "2023-11-02T03:50:25.151Z",
+  "updatedAt": "2023-11-02T03:50:25.151Z"
+}
