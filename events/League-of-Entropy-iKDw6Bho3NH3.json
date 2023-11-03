@@ -6,7 +6,7 @@
   "host": "drand",
   "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692884609971_622.png",
   "co_host": [],
-  "description": "The League of Entropy together with drand clients will be meet to discuss latest developments, future plans and the immediate roadmap of the team. If you're interested joining, please get in touch by joining our Slack workspace, which can be found at https://drand.love.",
+  "description": "The League of Entropy together with drand clients will be meet to discuss latest developments, future plans and the immediate roadmap of the team. If you're interested joining, please get in touch by joining our Slack workspace, which can be found at https://drand.love.\n\nAgenda\n​10:00 - Kickoff\n​10:05 - Introductions\n​10:30 - What has the drand team been up to?\n​11:15 - lightning talks from LoE partners and friends\n​12:45 - Lunch\n​14:00 - PL nucleation and Randamu\n​14:45 - League of Entropy Foundation and Incentives\n​15:30 - open discussion time\n​16:30 - close and drinks",
   "tags": [
     "Workshop"
   ],
@@ -124,7 +124,7 @@
     "custom_fields": []
   },
   "meeting_platform": "",
-  "updatedAt": "2023-10-31T21:24:44.799Z",
+  "updatedAt": "2023-11-02T15:46:28.737Z",
   "co_hosts": [],
   "secondary_contacts": [],
   "registration_link": "https://lu.ma/loe-summit-2023"

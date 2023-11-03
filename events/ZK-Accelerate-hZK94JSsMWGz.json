@@ -19,7 +19,7 @@
   "end_date": "2023-11-15T15:00:00.000Z",
   "access_type": "CUSTOM_REGISTRATION",
   "access_option": "OPEN",
-  "format": "IN-PERSON",
+  "format": "HYBRID",
   "location": "Swissôtel-Asuka (7th floor)",
   "location_url": "https://maps.app.goo.gl/JXnJXD5w6MpAtLNT9",
   "meeting_platform": "",
@@ -51,7 +51,7 @@
     ],
     "custom_fields": []
   },
-  "updatedAt": "2023-10-31T21:12:07.502Z",
+  "updatedAt": "2023-11-02T21:56:10.197Z",
   "co_hosts": [],
   "secondary_contacts": []
 }
