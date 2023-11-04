@@ -12,7 +12,7 @@
     "Workshop"
   ],
   "start_date": "2023-11-16T06:00:00.000Z",
-  "end_date": "2023-11-16T14:00:00.000Z",
+  "end_date": "2023-11-16T15:00:00.000Z",
   "access_type": "CUSTOM_REGISTRATION",
   "access_option": "PAID",
   "format": "HYBRID",
@@ -46,7 +46,7 @@
   },
   "meeting_platform": "",
   "registration_link": "https://lu.ma/ipfs-connect-istanbul",
-  "updatedAt": "2023-11-02T21:56:22.150Z",
+  "updatedAt": "2023-11-04T05:13:38.821Z",
   "co_hosts": [],
   "secondary_contacts": []
 }
