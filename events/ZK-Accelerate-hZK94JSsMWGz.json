@@ -15,8 +15,8 @@
     "ZK Acceleration",
     "ZK Hardware"
   ],
-  "start_date": "2023-11-15T06:30:00.000Z",
-  "end_date": "2023-11-15T15:00:00.000Z",
+  "start_date": "2023-11-15T05:30:00.000Z",
+  "end_date": "2023-11-15T15:30:00.000Z",
   "access_type": "CUSTOM_REGISTRATION",
   "access_option": "OPEN",
   "format": "HYBRID",
@@ -51,7 +51,7 @@
     ],
     "custom_fields": []
   },
-  "updatedAt": "2023-11-02T21:56:10.197Z",
+  "updatedAt": "2023-11-04T05:16:28.821Z",
   "co_hosts": [],
   "secondary_contacts": []
 }
