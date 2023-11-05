@@ -1,0 +1,127 @@
+{
+  "event_contact_name": "David Casey",
+  "event_contact_email": "marketing@fundingthecommons.io",
+  "secondary_contacts": [],
+  "event_name": "Funding the Commons Pop-Up @ Schelling Point",
+  "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1699090367644_945.jpeg",
+  "host": "Funding the Commons",
+  "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1699090381529_693.jpeg",
+  "co_hosts": [],
+  "description": "4-hour Funding the Commons pop-up featuring speakers & content on public goods funding. Hosted at Schelling Point venue.",
+  "tags": [
+    "Talks & Presentation",
+    "Social Event",
+    "Workshop"
+  ],
+  "start_date": "2023-11-16T06:00:00.000Z",
+  "end_date": "2023-11-16T10:00:00.000Z",
+  "access_type": "CUSTOM_REGISTRATION",
+  "access_option": "OPEN",
+  "format": "IN-PERSON",
+  "location": "Minoa Pera",
+  "location_url": "https://maps.app.goo.gl/3Mkr6dff238BVMWW6",
+  "meeting_platform": "",
+  "seat_count": "1-50",
+  "registration_link": "https://lu.ma/schellingpointistanbul",
+  "website_link": "https://lu.ma/schellingpointistanbul",
+  "agenda": {
+    "sessions": []
+  },
+  "sponsors": [
+    {
+      "name": "Gitcoin",
+      "logo": ""
+    },
+    {
+      "name": "Protocol Labs",
+      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1699090520586_725.jpeg"
+    }
+  ],
+  "contact_infos": {
+    "twitter": [
+      "http://twitter.com/@fundingcommons"
+    ]
+  },
+  "is_featured": false,
+  "conference": "labweek-23",
+  "nft_ticketing": {
+    "host_wallet_address": "",
+    "verifier_wallet_addresses": [],
+    "verifier_email_addresses": [],
+    "custom_event_URL": "",
+    "pattern": 1,
+    "hide_event_logo": false,
+    "hide_attendees": false,
+    "ticketing_provider": "UNLOCK",
+    "default_fields": [],
+    "additional_fields": [
+      {
+        "order": 1,
+        "type": "text",
+        "name": "company",
+        "label": "Team or Project",
+        "key": "company",
+        "value": 0,
+        "placeholder_text": "Name of the Team or Project"
+      },
+      {
+        "order": 2,
+        "type": "text",
+        "name": "job_itle",
+        "label": "Job Title",
+        "key": "job_title",
+        "value": 0,
+        "placeholder_text": "Current Job Title or Position"
+      },
+      {
+        "order": 3,
+        "type": "text",
+        "name": "telegram",
+        "label": "Telegram",
+        "key": "telegram",
+        "value": 0,
+        "placeholder_text": "Telegram Handle/URL"
+      },
+      {
+        "order": 4,
+        "type": "text",
+        "name": "twitter",
+        "label": "Twitter",
+        "key": "twitter",
+        "value": 0,
+        "placeholder_text": "Twitter Handle/URL"
+      },
+      {
+        "order": 5,
+        "type": "text",
+        "name": "dietary_restrictions",
+        "label": "Dietary Restrictions",
+        "key": "dietary_restrictions",
+        "value": 0,
+        "placeholder_text": "Enter Any Food Allergies or Restrictions"
+      },
+      {
+        "order": 6,
+        "type": "text",
+        "name": "wallet_address",
+        "label": "Wallet Address",
+        "key": "wallet_address",
+        "value": 1,
+        "placeholder_text": "Enter FEVM, ETH Address or ENS"
+      },
+      {
+        "order": 8,
+        "type": "checkbox",
+        "name": "communication_consent",
+        "label": "I agree to receive communication from Protocol Labs",
+        "key": "communication_consent",
+        "value": 1,
+        "placeholder_text": "I agree to receive communication from Protocol Labs",
+        "alt": "GDPR Consent (yes/no)"
+      }
+    ],
+    "custom_fields": []
+  },
+  "createdAt": "2023-11-04T09:39:34.250Z",
+  "updatedAt": "2023-11-04T09:39:34.250Z"
+}
