@@ -5,7 +5,7 @@
   "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692884378470_691.png",
   "host": "Filecoin Foundation",
   "co_host": [],
-  "description": "The Filecoin Plus team will share updates for the upcoming 5th round of applications and elections to select Notary Allocators. Topics will include the application process, application scoring, available tooling, and the process for compliance verification and dispute resolution. Organizations that are interested in becoming a Notary Allocator are highly encouraged to attend.",
+  "description": "The Filecoin Plus team will share updates for the upcoming 5th round of applications and elections to select Notary Allocators. Topics will include the application process, application scoring, available tooling, and the process for compliance verification and dispute resolution. Organizations that are interested in becoming a Notary Allocator are highly encouraged to attend.\n\nIf you'd like to attend virtually please register here: https://lu.ma/wq085ygr",
   "tags": [
     "Talks & Presentation"
   ],
@@ -13,7 +13,7 @@
   "end_date": "2023-11-14T14:00:00.000Z",
   "access_type": "IN-HOUSE_REGISTRATION",
   "access_option": "OPEN",
-  "format": "IN-PERSON",
+  "format": "HYBRID",
   "location": "Asuka at Swissôtel The Bosphorus Istanbul",
   "location_url": "https://maps.app.goo.gl/JXnJXD5w6MpAtLNT9",
   "seat_count": "50-100",
@@ -123,7 +123,7 @@
   },
   "host_logo": "",
   "meeting_platform": "",
-  "updatedAt": "2023-11-07T14:51:45.018Z",
+  "updatedAt": "2023-11-07T20:53:22.353Z",
   "co_hosts": [],
   "secondary_contacts": []
 }
