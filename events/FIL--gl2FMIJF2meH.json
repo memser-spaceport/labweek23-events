@@ -1,11 +1,11 @@
 {
   "event_contact_name": "Elsa Nguyen",
   "event_contact_email": "elsa@fil.org",
-  "event_name": "FIL+",
+  "event_name": "Filecoin Plus Day",
   "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692884378470_691.png",
   "host": "Filecoin Foundation",
   "co_host": [],
-  "description": "Join us for a day of talks and sessions covering the Fil+ program. Come meet members of the community and learn more about current initiatives and how to get involved.",
+  "description": "The Filecoin Plus team will share updates for the upcoming 5th round of applications and elections to select Notary Allocators. Topics will include the application process, application scoring, available tooling, and the process for compliance verification and dispute resolution. Organizations that are interested in becoming a Notary Allocator are highly encouraged to attend.",
   "tags": [
     "Talks & Presentation"
   ],
@@ -123,7 +123,7 @@
   },
   "host_logo": "",
   "meeting_platform": "",
-  "updatedAt": "2023-11-07T14:14:44.397Z",
+  "updatedAt": "2023-11-07T14:35:52.360Z",
   "co_hosts": [],
   "secondary_contacts": []
 }
