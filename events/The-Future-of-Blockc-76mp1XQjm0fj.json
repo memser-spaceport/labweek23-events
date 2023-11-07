@@ -1,0 +1,44 @@
+{
+  "event_contact_name": "PREDA",
+  "event_contact_email": "preda.lang@gmail.com",
+  "secondary_contacts": [],
+  "event_name": "The Future of Blockchain Programming",
+  "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1699241848911_823.png",
+  "host": "The PREDA Team",
+  "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1699241886550_372.png",
+  "co_hosts": [],
+  "description": "Hackathon Introduction - Welcome onboard! We're thrilled to introduce you to PREDA (https://www.preda-lang.org/), a revolutionary programming model designed to scale out general smart contracts. This virtual hackathon is tailored for blockchain builders, developers, entrepreneurs, and anyone eager to supercharge the scalability of their DApps and protocols, harnessing the power of PREDA. By participating in this event, you'll get your hands on powerful tools, dive into the latest technology sharing, and receive wholehearted support from experts who know the ins and outs of programming with PREDA. Beyond that, there's a chance for you to snatch a piece of the '10K USDT' reward pie, register for the hackathon now to secure a spot, and be part of this evolution! About PREDA (https://www.preda-lang.org/)- PREDA is a novel programming model for scaling out any general smart contract. This is achieved by partitioning the smart contract state and dividing the transaction traffic, which are jointly handled by multiple independent virtual machines that can be distributed and parallelized. We implemented the PREDA model by extending the Solidity language, which demonstrates that popular smart contracts with different levels of complexity can be rewritten to gain scalability without taking care of the details of the underlying distributed system. Check out our PAPER (https://www.preda-lang.org/pdf/preda-model-sole.pdf) to delve further into PREDA, and how PREDA extends Solidity to achieve significant performance and scalability advantages.",
+  "tags": [
+    "Hackathon",
+    "Workshop",
+    "Talks & Presentation"
+  ],
+  "start_date": "2023-11-17T21:00:00.000Z",
+  "end_date": "2023-11-17T21:00:00.000Z",
+  "access_type": "CUSTOM_REGISTRATION",
+  "access_option": "OPEN",
+  "format": "HYBRID",
+  "location": "Bahçeşehir University Law Faculty Campus",
+  "location_url": "https://www.google.com/maps/place/Bah%C3%A7e%C5%9Fehir+University+Law+Faculty+Campus/@41.0429845,29.0078575,17z/data=!3m1!4b1!4m6!3m5!1s0x14cab7a2d0153c07:0xf7d01f74c991c674!8m2!3d41.0429845!4d29.0104324!16s%2Fg%2F11gwmhg2cy?entry=ttu",
+  "meeting_platform": "Lu.ma",
+  "meeting_link": "https://lu.ma/co44nv4x",
+  "seat_count": "50-100",
+  "registration_link": "https://lu.ma/co44nv4x",
+  "website_link": "https://lu.ma/co44nv4x",
+  "agenda": {
+    "sessions": []
+  },
+  "sponsors": [],
+  "contact_infos": {
+    "twitter": [
+      "https://twitter.com/PREDALang"
+    ],
+    "discord": [
+      "https://discord.gg/JSxnxsZZ"
+    ]
+  },
+  "is_featured": false,
+  "conference": "labweek-23",
+  "createdAt": "2023-11-06T03:43:28.954Z",
+  "updatedAt": "2023-11-06T03:43:28.954Z"
+}
