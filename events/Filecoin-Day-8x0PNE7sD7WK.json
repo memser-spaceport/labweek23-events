@@ -1,0 +1,132 @@
+{
+  "event_contact_name": "Elsa Nguyen",
+  "event_contact_email": "elsa@fil.org",
+  "secondary_contacts": [],
+  "event_name": "Filecoin Day",
+  "event_logo": "",
+  "host": "Filecoin Foundation ",
+  "host_logo": "",
+  "co_hosts": [],
+  "description": "​Connect with the Filecoin community in Istanbul and learn about the latest advancements from across the ecosystem from the Filecoin Foundation team. From AI and data provenance to the latest on FVM, join us Tuesday, November 14, starting at 1:30 PM.",
+  "tags": [
+    "Talks & Presentation"
+  ],
+  "start_date": "2023-11-14T10:30:00.000Z",
+  "end_date": "2023-11-14T11:30:00.000Z",
+  "access_type": "CUSTOM_REGISTRATION",
+  "access_option": "OPEN",
+  "format": "IN-PERSON",
+  "location": "Asuka Ballroom at the Swissôtel The Bosphorus Istanbul",
+  "location_url": "https://maps.app.goo.gl/LiJyjtWSuAQdrJT97",
+  "meeting_platform": "",
+  "seat_count": "100-200",
+  "registration_link": "https://lu.ma/vk9pnofg",
+  "website_link": "https://lu.ma/vk9pnofg",
+  "agenda": {
+    "sessions": [
+      {
+        "name": "Updates from FF & FFDW",
+        "start_date": "2023-11-14T10:30:00.000Z",
+        "end_date": "2023-11-14T10:40:00.000Z"
+      },
+      {
+        "name": "Filecoin + AI",
+        "start_date": "2023-11-14T10:45:00.000Z",
+        "end_date": "2023-11-14T11:00:00.000Z"
+      },
+      {
+        "name": "Filecoin and the Future of Social Media",
+        "start_date": "2023-11-14T11:00:00.000Z",
+        "end_date": "2023-11-14T11:15:00.000Z"
+      },
+      {
+        "name": "DogFooding Filecoin + Resources for Developers",
+        "start_date": "2023-11-14T11:15:00.000Z",
+        "end_date": "2023-11-14T11:30:00.000Z"
+      }
+    ]
+  },
+  "sponsors": [],
+  "is_featured": false,
+  "conference": "labweek-23",
+  "nft_ticketing": {
+    "host_wallet_address": "",
+    "verifier_wallet_addresses": [],
+    "verifier_email_addresses": [],
+    "custom_event_URL": "",
+    "pattern": 1,
+    "hide_event_logo": false,
+    "hide_attendees": false,
+    "ticketing_provider": "UNLOCK",
+    "default_fields": [],
+    "additional_fields": [
+      {
+        "order": 1,
+        "type": "text",
+        "name": "company",
+        "label": "Team or Project",
+        "key": "company",
+        "value": 0,
+        "placeholder_text": "Name of the Team or Project"
+      },
+      {
+        "order": 2,
+        "type": "text",
+        "name": "job_itle",
+        "label": "Job Title",
+        "key": "job_title",
+        "value": 0,
+        "placeholder_text": "Current Job Title or Position"
+      },
+      {
+        "order": 3,
+        "type": "text",
+        "name": "telegram",
+        "label": "Telegram",
+        "key": "telegram",
+        "value": 0,
+        "placeholder_text": "Telegram Handle/URL"
+      },
+      {
+        "order": 4,
+        "type": "text",
+        "name": "twitter",
+        "label": "Twitter",
+        "key": "twitter",
+        "value": 0,
+        "placeholder_text": "Twitter Handle/URL"
+      },
+      {
+        "order": 5,
+        "type": "text",
+        "name": "dietary_restrictions",
+        "label": "Dietary Restrictions",
+        "key": "dietary_restrictions",
+        "value": 0,
+        "placeholder_text": "Enter Any Food Allergies or Restrictions"
+      },
+      {
+        "order": 6,
+        "type": "text",
+        "name": "wallet_address",
+        "label": "Wallet Address",
+        "key": "wallet_address",
+        "value": 1,
+        "placeholder_text": "Enter FEVM, ETH Address or ENS"
+      },
+      {
+        "order": 8,
+        "type": "checkbox",
+        "name": "communication_consent",
+        "label": "I agree to receive communication from Protocol Labs",
+        "key": "communication_consent",
+        "value": 1,
+        "placeholder_text": "I agree to receive communication from Protocol Labs",
+        "alt": "GDPR Consent (yes/no)"
+      }
+    ],
+    "custom_fields": []
+  },
+  "createdAt": "2023-11-07T14:50:33.663Z",
+  "updatedAt": "2023-11-07T14:50:33.663Z"
+}
