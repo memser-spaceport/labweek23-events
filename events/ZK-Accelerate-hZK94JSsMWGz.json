@@ -6,7 +6,7 @@
   "host": "Ingonyama",
   "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1695364930912_292.png",
   "co_host": [],
-  "description": "​The day-long event will focus on ZK infrastructure engineering and innovation.\n\n​Expected attendees include our partners from AMD, Intel, and AWS, as well as top notch speakers from the space.\n\n​Talks\n\n​Panels\n\n​Lunch\n\n​Mingling\n\n​Booths\n\n​Coffee breaks\n\n​Hardware Demonstrations (TBD)",
+  "description": "​The day-long event will focus on ZK infrastructure engineering and innovation.\n\n​Expected attendees include our partners from AMD, Intel, and AWS, as well as top notch speakers from the space.",
   "tags": [
     "Talks & Presentation",
     "Social Event",
@@ -51,7 +51,7 @@
     ],
     "custom_fields": []
   },
-  "updatedAt": "2023-11-04T05:16:28.821Z",
+  "updatedAt": "2023-11-07T15:10:27.980Z",
   "co_hosts": [],
   "secondary_contacts": []
 }
