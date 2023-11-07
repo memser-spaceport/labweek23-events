@@ -34,7 +34,23 @@
   "registration_link": "https://lu.ma/xdqd12xm",
   "website_link": "https://cryptokitchen.io",
   "agenda": {
-    "sessions": []
+    "sessions": [
+      {
+        "start_date": "2023-11-14T07:30:00.000Z",
+        "end_date": "2023-11-14T09:30:00.000Z",
+        "name": "Open co-working + FVM workshops"
+      },
+      {
+        "start_date": "2023-11-14T09:30:00.000Z",
+        "end_date": "2023-11-14T10:30:00.000Z",
+        "name": "Let's Cook Together: fresh ingredients"
+      },
+      {
+        "start_date": "2023-11-14T11:00:00.000Z",
+        "end_date": "2023-11-14T13:00:00.000Z",
+        "name": "An Exploration of Social & Data Infra"
+      }
+    ]
   },
   "sponsors": [],
   "contact_infos": {
@@ -126,5 +142,5 @@
     "custom_fields": []
   },
   "createdAt": "2023-10-04T16:16:08.117Z",
-  "updatedAt": "2023-11-07T02:45:56.205Z"
+  "updatedAt": "2023-11-07T02:47:40.892Z"
 }
