@@ -7,7 +7,7 @@
       "email": "cjun72@gmail.com"
     }
   ],
-  "event_name": "CryptoKitchen: DWeb Open Day",
+  "event_name": "CryptoKitchen: Programmable Storage + Digital Identity",
   "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1696605247152_886.png",
   "host": "DataverseOS",
   "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1696433633256_286.png",
@@ -17,7 +17,7 @@
       "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1696436057040_786.png"
     }
   ],
-  "description": "CryptoKitchen will be hosted as a daily themed event, in formats like workshops, open kitchen talks, and fireside chats, in collaboration with invited crypto chefs, while also planning for documentaries, blogs, and live content! It is a fully new event compared to hackathons and hacker houses, providing a space to facilitate ecosystem collaboration. \n\n\nThe DWeb Day is kitchen series of events, which gather the most innovative teams in Web3. Join us to discuss digital identity, decentralized storage, and cryptography, while networking with peers for fun. Welcome everyone to co-organize topics here.",
+  "description": "CryptoKitchen will be hosted as a daily themed event, in formats like workshops, open kitchen talks, and fireside chats, while also planning for documentaries, blogs!  The DWeb Day is kitchen series of events, which gather the most innovative teams in Web3. Join us to discuss digital identity, programmable storage, cryptography and social infra, while networking with peers for fun.",
   "tags": [
     "Social Event",
     "Talks & Presentation"
@@ -126,5 +126,5 @@
     "custom_fields": []
   },
   "createdAt": "2023-10-04T16:16:08.117Z",
-  "updatedAt": "2023-11-01T01:28:50.274Z"
+  "updatedAt": "2023-11-07T02:44:59.387Z"
 }
