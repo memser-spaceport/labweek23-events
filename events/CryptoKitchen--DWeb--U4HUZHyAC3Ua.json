@@ -7,7 +7,7 @@
       "email": "cjun72@gmail.com"
     }
   ],
-  "event_name": "CryptoKitchen: DWeb Open Day",
+  "event_name": "CryptoKitchen: Programmable Storage + Digital Identity",
   "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1696605247152_886.png",
   "host": "DataverseOS",
   "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1696433633256_286.png",
@@ -17,24 +17,40 @@
       "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1696436057040_786.png"
     }
   ],
-  "description": "CryptoKitchen will be hosted as a daily themed event, in formats like workshops, open kitchen talks, and fireside chats, in collaboration with invited crypto chefs, while also planning for documentaries, blogs, and live content! It is a fully new event compared to hackathons and hacker houses, providing a space to facilitate ecosystem collaboration. \n\n\nThe DWeb Day is kitchen series of events, which gather the most innovative teams in Web3. Join us to discuss digital identity, decentralized storage, and cryptography, while networking with peers for fun. Welcome everyone to co-organize topics here.",
+  "description": "CryptoKitchen will be hosted as a daily themed event, in formats like workshops, open kitchen talks, and fireside chats, while also planning for documentaries, blogs!  The DWeb Day is kitchen series of events, which gather the most innovative teams in Web3. Join us to discuss digital identity, programmable storage, cryptography and social infra, while networking with peers for fun.",
   "tags": [
     "Social Event",
     "Talks & Presentation"
   ],
-  "start_date": "2023-11-14T07:30:00.000Z",
-  "end_date": "2023-11-14T15:00:00.000Z",
+  "start_date": "2023-11-14T07:00:00.000Z",
+  "end_date": "2023-11-14T13:00:00.000Z",
   "access_type": "CUSTOM_REGISTRATION",
   "access_option": "OPEN",
   "format": "IN-PERSON",
-  "location": "TBD",
-  "location_url": "",
+  "location": "Göknar Sk. No:11",
+  "location_url": "https://www.google.com/maps/search/?api=1&query=G%C3%B6knar%20Sk.%20No%3A11&query_place_id=EkFNdXJhZGl5ZSwgR8O2a25hciBTb2thayBubyAxMSwgMzQzNTcgQmXFn2lrdGHFny_EsHN0YW5idWwsIFR1cmtleSI-GjwKMBIuChQKEgndigesoLfKFBGyhOhKnLtA_xALKhQKEgkrnWgBCrfKFBFmRrlnXQ_dqRIIZGFpcmUgMjE",
   "meeting_platform": "",
-  "seat_count": "1-50",
+  "seat_count": "50-100",
   "registration_link": "https://lu.ma/xdqd12xm",
   "website_link": "https://cryptokitchen.io",
   "agenda": {
-    "sessions": []
+    "sessions": [
+      {
+        "start_date": "2023-11-14T07:30:00.000Z",
+        "end_date": "2023-11-14T09:30:00.000Z",
+        "name": "Open co-working + FVM workshops"
+      },
+      {
+        "start_date": "2023-11-14T09:30:00.000Z",
+        "end_date": "2023-11-14T10:30:00.000Z",
+        "name": "Let's Cook Together: fresh ingredients"
+      },
+      {
+        "start_date": "2023-11-14T11:00:00.000Z",
+        "end_date": "2023-11-14T13:00:00.000Z",
+        "name": "An Exploration of Social & Data Infra"
+      }
+    ]
   },
   "sponsors": [],
   "contact_infos": {
@@ -126,5 +142,5 @@
     "custom_fields": []
   },
   "createdAt": "2023-10-04T16:16:08.117Z",
-  "updatedAt": "2023-11-01T01:28:50.274Z"
+  "updatedAt": "2023-11-07T02:47:40.892Z"
 }
