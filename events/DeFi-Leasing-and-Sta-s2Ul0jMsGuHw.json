@@ -29,9 +29,63 @@
     "sessions": [
       {
         "start_date": "2023-11-15T06:00:00.000Z",
+        "end_date": "2023-11-15T06:15:00.000Z",
+        "name": "Filecoin DeFi Context",
+        "description": "Setting the stage for DeFi's explosive growth on Filecoin (made possible by the Filecoin Virtual Machine)"
+      },
+      {
+        "start_date": "2023-11-15T06:15:00.000Z",
+        "end_date": "2023-11-15T06:35:00.000Z",
+        "name": "CollectifDAO DeepDive",
+        "description": "The CollectifDAO team takes you into a high level overview of their DeFi liquid staking platform."
+      },
+      {
+        "start_date": "2023-11-15T06:35:00.000Z",
+        "end_date": "2023-11-15T07:00:00.000Z",
+        "name": "Smart Contract Security (Zokyo)",
+        "description": "Hartej, the founder of Zokyo will give a keynote presentation on the importance of smart contract audits and the role they play in securing DeFi ecosystems"
+      },
+      {
+        "start_date": "2023-11-15T07:00:00.000Z",
+        "end_date": "2023-11-15T07:20:00.000Z",
+        "name": "Glif Deep Dive",
+        "description": "Jonathan Schwartz, the founder of Glif, will provide an overview of the Glif Infinity Pool and how Glif connects Filecoin Token Holders and SPs"
+      },
+      {
+        "start_date": "2023-11-15T07:20:00.000Z",
+        "end_date": "2023-11-15T07:40:00.000Z",
+        "name": "Interplanetary Consensus and Filecoin DeFi",
+        "description": "Longfei from the Filecoin DX team will share more about the future of IPC and how fund transfers from parent to child subnets can revolutionize Filecoin DeFi"
+      },
+      {
+        "start_date": "2023-11-15T07:40:00.000Z",
+        "end_date": "2023-11-15T08:00:00.000Z",
+        "name": "Secured Finance Deep Dive",
+        "description": "Timo and Masa from the Secured Finance team will share some exciting updates about the Secured Finance platform and upcoming launch! "
+      },
+      {
+        "start_date": "2023-11-15T08:00:00.000Z",
+        "end_date": "2023-11-15T08:20:00.000Z",
+        "name": "SP Testimonial Panel",
+        "description": "SPs who leverage a Filecoin DeFi Liquid Staking Platform will share more about what features and offerings a platform must provide in order to be optimal for SP use."
+      },
+      {
+        "start_date": "2023-11-15T08:20:00.000Z",
+        "end_date": "2023-11-15T08:40:00.000Z",
+        "name": "Filecoin Cryptoeconomics and DeFi",
+        "description": "TBU"
+      },
+      {
+        "start_date": "2023-11-15T08:40:00.000Z",
+        "end_date": "2023-11-15T09:00:00.000Z",
+        "name": "Token Holder Testimonials",
+        "description": "Select token holders from the Filecoin ecosystem will share more about what features matter most to them in choosing and selecting a liquid staking platform"
+      },
+      {
+        "start_date": "2023-11-15T09:00:00.000Z",
         "end_date": "2023-11-15T09:30:00.000Z",
-        "name": "Filecoin DeFi Presentations",
-        "description": "- Deep Dives from Glif, Secured Finance, and CollectifDAO\n- Panels from Token Holders and Storage Providers on their favorite protocols\n- An overview of metrics from the Starboard team\n- A cryptoeconomic discussion on how DeFi affects Filecoin's Island Economy\n- and much more! "
+        "name": "Networking Session",
+        "description": "All Filecoin DeFi Protocols in attendance will have an opportunity to set up space in the venue and chat with interested token holders and SPs in a conference-style setting. \n\nParticipants include: Secured Finance, Glif, CollectifDAO, stFIL, HashKing, web3mine, and more! "
       }
     ]
   },
@@ -157,7 +211,20 @@
   "meeting_platform": "",
   "registration_link": "",
   "website_link": "",
-  "updatedAt": "2023-10-31T21:41:17.084Z",
-  "co_hosts": [],
+  "updatedAt": "2023-11-08T22:52:23.794Z",
+  "co_hosts": [
+    {
+      "name": "Secured Finance",
+      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1699482705856_817.png"
+    },
+    {
+      "name": "Glif",
+      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1699482720155_939.png"
+    },
+    {
+      "name": "CollectifDAO",
+      "logo": ""
+    }
+  ],
   "secondary_contacts": []
 }
