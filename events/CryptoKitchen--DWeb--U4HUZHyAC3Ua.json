@@ -7,7 +7,7 @@
       "email": "cjun72@gmail.com"
     }
   ],
-  "event_name": "CryptoKitchen: Programmable Storage + Digital Identity",
+  "event_name": "CryptoKitchen DWeb Day: Programmable Storage + Digital Identity",
   "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1696605247152_886.png",
   "host": "DataverseOS",
   "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1696433633256_286.png",
@@ -160,5 +160,5 @@
     "custom_fields": []
   },
   "createdAt": "2023-10-04T16:16:08.117Z",
-  "updatedAt": "2023-11-08T07:22:28.025Z"
+  "updatedAt": "2023-11-08T07:39:26.314Z"
 }
