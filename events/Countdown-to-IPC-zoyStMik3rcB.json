@@ -53,7 +53,7 @@
         "start_date": "2023-11-16T06:50:00.000Z",
         "end_date": "2023-11-16T07:20:00.000Z",
         "name": "A closer look at the IPC Stack",
-        "description": "Speaker: Raul Kripalani, CTO of IPC. In this keynote, we're going to dive into the world of IPC, exploring where it's headed and the exciting possibilities for the future. We'll cover the basic tech that IPC is built on, look at current market trends, and discuss the existing tech limits. Together, we'll imagine the new kinds of applications that could become possible with advancements in IPC and talk about the essential research required to make this vision a reality. It’s all about understanding IPC better and getting ready for the amazing opportunities that lie ahead!"
+        "description": "Speaker: Raul Kripalani, Principal Engineer @ Protocol Labs. In this keynote, we're going to dive into the world of IPC, exploring where it's headed and the exciting possibilities for the future. We'll cover the basic tech that IPC is built on, look at current market trends, and discuss the existing tech limits. Together, we'll imagine the new kinds of applications that could become possible with advancements in IPC and talk about the essential research required to make this vision a reality. It’s all about understanding IPC better and getting ready for the amazing opportunities that lie ahead!"
       },
       {
         "start_date": "2023-11-16T07:20:00.000Z",
@@ -64,13 +64,13 @@
         "start_date": "2023-11-16T07:30:00.000Z",
         "end_date": "2023-11-16T08:00:00.000Z",
         "name": "IPC vs. other blockchain scaling solutions",
-        "description": "Speaker: Marko Vukolic, IPC Chief Scientist\n\nIn this talk, we position IPC comparing to different scaling approaches found in literature, Bitcoin, Ethereum, and other smaller ecosystems. "
+        "description": "Speaker: Marko Vukolic, ConsensusLab Lead. \nIn this talk, we position IPC comparing to different scaling approaches found in literature, Bitcoin, Ethereum, and other smaller ecosystems. "
       },
       {
         "start_date": "2023-11-16T08:00:00.000Z",
         "end_date": "2023-11-16T08:30:00.000Z",
         "name": "IPC M2.5: Fendermint and Canopy launch ",
-        "description": "Speaker: Alfonso de la Rocha, IPC lead engineer\n\nIn this talk Alfonsio will introduce M2.5, the latest version of IPC, featuring a new Rust-written stack. He will cover enhancements in subnet management and stack security, and unveil a new testnet to assist developers in deploying applications directly to IPC, leveraging its improved capabilities.\n"
+        "description": "Speaker: Alfonso de la Rocha, Research Engineer @ Protocol Labs.\n\nIn this talk Alfonso will introduce M2.5, the latest version of IPC, featuring a new Rust-written stack. He will cover enhancements in subnet management and stack security, and unveil a new testnet to assist developers in deploying applications directly to IPC, leveraging its improved capabilities.\n"
       },
       {
         "start_date": "2023-11-16T08:30:00.000Z",
@@ -93,19 +93,19 @@
         "start_date": "2023-11-16T10:30:00.000Z",
         "end_date": "2023-11-16T11:00:00.000Z",
         "name": "Fluence: a decentralized serverless computing ",
-        "description": "Speaker: Evgeny Ponomarev.\n\nIn this presentation, Evgeny Ponomarev, founder of Fluence, explains Fluence and how developers can use it for decentralized computations. He describes Fluence's technical architecture and how it uses IPC (interplanetary consensus) to scale its blockchain component. Fluence is a global, secure, and scalable serverless platform and computing marketplace. Developers can build and deploy applications on Fluence, where providers compete based on price and performance to serve applications and earn rewards."
+        "description": "Speaker: Evgeny Ponomarev, founder of Fluence.\n\nIn this presentation, Evgeny explains Fluence and how developers can use it for decentralized computations. He describes Fluence's technical architecture and how it uses IPC (interplanetary consensus) to scale its blockchain component. Fluence is a global, secure, and scalable serverless platform and computing marketplace. Developers can build and deploy applications on Fluence, where providers compete based on price and performance to serve applications and earn rewards."
       },
       {
         "start_date": "2023-11-16T11:00:00.000Z",
         "end_date": "2023-11-16T11:15:00.000Z",
         "name": "How Filecoin Station use IPC for retrieval checks",
-        "description": "Speaker: Patrick Woodhead.\n\nIn this presentation, we will present Filecoin Station, a client application that helps users earn income by renting out their unused computational capacity. The focus of this talk is one of the Station's modules - Spark, which helps Filecoin clients to periodically check their data is retrievable from service providers. We will explain how Spark works and how it takes advantage of IPC scaling technology to improve user experience and reduce overhead costs.\n"
+        "description": "Speaker: Patrick Woodhead, Lab Lead @ Protocol Labs.\n\nIn this presentation, we will present Filecoin Station, a client application that helps users earn income by renting out their unused computational capacity. The focus of this talk is one of the Station's modules - Spark, which helps Filecoin clients to periodically check their data is retrievable from service providers. We will explain how Spark works and how it takes advantage of IPC scaling technology to improve user experience and reduce overhead costs.\n"
       },
       {
         "start_date": "2023-11-16T11:15:00.000Z",
         "end_date": "2023-11-16T12:00:00.000Z",
         "name": "Workshop: Deploying smart contracts on IPC",
-        "description": "Facilitator: Longfei Wang.\n\nIn this workshop, we will teach the basics of smart contracts development on IPC, including deploying existing smart contracts on IPC subnet, using Mycelium Testnet, and interactions between subnets.\n"
+        "description": "Facilitator: Longfei Wang, Developer Advocate @ Protocol Labs.\n\nIn this workshop, we will teach the basics of smart contracts development on IPC, including deploying existing smart contracts on IPC subnet, using Mycelium Testnet, and interactions between subnets.\n"
       },
       {
         "start_date": "2023-11-16T12:00:00.000Z",
@@ -116,19 +116,19 @@
         "start_date": "2023-11-16T12:15:00.000Z",
         "end_date": "2023-11-16T13:00:00.000Z",
         "name": "Workshop: Deploying IPC subnet, part 1",
-        "description": "Facilitators: Sarah Thiam Jia Hui.\n\nIn this workshop, we will explain how to deploy IPC stack on a developer machine to get access to IPC functionality while building your application."
+        "description": "Facilitators: Sarah Thiam, Developer Advocate @ Protocol Labs.\n\nIn this workshop, we will explain how to deploy IPC stack on a developer machine to get access to IPC functionality while building your application."
       },
       {
         "start_date": "2023-11-16T13:00:00.000Z",
         "end_date": "2023-11-16T13:45:00.000Z",
         "name": "Workshop: Deploying IPC subnet, part 2",
-        "description": "Facilitators: Matt Hamilton.\n\nIn this workshop, we will continue the journey of IPC deployment by creating a fully functioning subnet with multiple validators, gateways, and full nodes.\n"
+        "description": "Facilitators: Matt Hamilton, Principal Developer Advocate @ Protocol Labs.\n\nIn this workshop, we will continue the journey of IPC deployment by creating a fully functioning subnet with multiple validators, gateways, and full nodes.\n"
       },
       {
         "start_date": "2023-11-16T13:45:00.000Z",
         "end_date": "2023-11-16T14:00:00.000Z",
-        "name": "Workshop: Using Lilypad with IPC",
-        "description": "Facilitators: Luke Marsden.\n\nIn this workshop Lilpad team will showcase their development experience: how to use the Lilypad compute network in your decentralized application to include AI inference functionality for your users.\n"
+        "name": "Workshop: Using Lilypad with IPC: AI Inference ",
+        "description": "Facilitators: Luke Marsden, Lilypad. \n\nIn this workshop, the Lilypad team will showcase their development experience: how to use the Lilypad compute network in your decentralized application to include AI inference functionality for your users.\n"
       }
     ]
   },
@@ -242,7 +242,7 @@
   "meeting_platform": "",
   "registration_link": "https://istanbul.ipc.space",
   "website_link": "https://istanbul.ipc.space",
-  "updatedAt": "2023-11-06T16:36:38.031Z",
+  "updatedAt": "2023-11-08T16:30:08.609Z",
   "co_hosts": [
     {
       "name": "Outercore",
