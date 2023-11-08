@@ -18,7 +18,48 @@
   "location_url": "https://maps.app.goo.gl/JXnJXD5w6MpAtLNT9",
   "seat_count": "50-100",
   "agenda": {
-    "sessions": []
+    "sessions": [
+      {
+        "start_date": "2023-11-14T11:30:00.000Z",
+        "end_date": "2023-11-14T11:35:00.000Z",
+        "name": "Welcome and Introductions - Galen McAndrew"
+      },
+      {
+        "start_date": "2023-11-14T11:35:00.000Z",
+        "end_date": "2023-11-14T11:45:00.000Z",
+        "name": "Fil + Kick-off, Principle - Deep Kapur"
+      },
+      {
+        "start_date": "2023-11-14T11:45:00.000Z",
+        "end_date": "2023-11-14T12:45:00.000Z",
+        "name": "Notary Election v5 - Galen McAndrew "
+      },
+      {
+        "start_date": "2023-11-14T12:45:00.000Z",
+        "end_date": "2023-11-14T13:00:00.000Z",
+        "name": "Open Sourcing Tooling - Phil Pangestu"
+      },
+      {
+        "start_date": "2023-11-14T13:00:00.000Z",
+        "end_date": "2023-11-14T13:15:00.000Z",
+        "name": "Compliance - Kevin Zakorchemny  "
+      },
+      {
+        "start_date": "2023-11-14T13:15:00.000Z",
+        "end_date": "2023-11-14T13:30:00.000Z",
+        "name": "Disputes - RG"
+      },
+      {
+        "start_date": "2023-11-14T13:30:00.000Z",
+        "end_date": "2023-11-14T13:45:00.000Z",
+        "name": "Community Ownership & Governance - Kwray "
+      },
+      {
+        "start_date": "2023-11-14T13:45:00.000Z",
+        "end_date": "2023-11-14T14:00:00.000Z",
+        "name": "Q&A and Closing - Galen McAndrew"
+      }
+    ]
   },
   "sponsors": [],
   "is_featured": false,
@@ -122,8 +163,9 @@
     "custom_fields": []
   },
   "host_logo": "",
-  "meeting_platform": "",
-  "updatedAt": "2023-11-07T20:54:53.326Z",
+  "meeting_platform": "Youtube",
+  "updatedAt": "2023-11-08T20:05:51.226Z",
   "co_hosts": [],
-  "secondary_contacts": []
+  "secondary_contacts": [],
+  "meeting_link": "https://youtube.com/live/57Ua4AEWe_g?feature=share"
 }
