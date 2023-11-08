@@ -32,13 +32,19 @@
   "meeting_platform": "",
   "seat_count": "50-100",
   "registration_link": "https://lu.ma/xdqd12xm",
-  "website_link": "https://cryptokitchen.io",
+  "website_link": "https://lu.ma/xdqd12xm",
   "agenda": {
     "sessions": [
       {
-        "start_date": "2023-11-14T07:30:00.000Z",
+        "start_date": "2023-11-14T07:00:00.000Z",
+        "end_date": "2023-11-14T08:30:00.000Z",
+        "name": "Open co-working + Whiteboard + Juice"
+      },
+      {
+        "start_date": "2023-11-14T08:30:00.000Z",
         "end_date": "2023-11-14T09:30:00.000Z",
-        "name": "Open co-working + FVM workshops"
+        "name": "Keynote Speech",
+        "description": "​1. Decentralized Reputation on Ceramic\n\n2. ​Content Addressing for a decentralized storage layer\n\n3. ​Deploy a Social Network to Dataverse Computer in less than 10 minutes"
       },
       {
         "start_date": "2023-11-14T09:30:00.000Z",
@@ -46,9 +52,21 @@
         "name": "Let's Cook Together: fresh ingredients"
       },
       {
+        "start_date": "2023-11-14T10:30:00.000Z",
+        "end_date": "2023-11-14T11:00:00.000Z",
+        "name": "FVM Workshop",
+        "description": "The power of programmable storage and data DAOs"
+      },
+      {
         "start_date": "2023-11-14T11:00:00.000Z",
-        "end_date": "2023-11-14T13:00:00.000Z",
-        "name": "An Exploration of Social & Data Infra"
+        "end_date": "2023-11-14T11:40:00.000Z",
+        "name": "Open Discussion & Panel",
+        "description": "Securing the Internet: The future of wallet, data and social infra "
+      },
+      {
+        "start_date": "2023-11-14T11:40:00.000Z",
+        "end_date": "2023-11-14T12:40:00.000Z",
+        "name": "Keynote Speech"
       }
     ]
   },
@@ -142,5 +160,5 @@
     "custom_fields": []
   },
   "createdAt": "2023-10-04T16:16:08.117Z",
-  "updatedAt": "2023-11-07T02:47:40.892Z"
+  "updatedAt": "2023-11-08T07:22:28.025Z"
 }
