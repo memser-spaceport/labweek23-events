@@ -1,0 +1,120 @@
+{
+  "event_contact_name": "Denice Zhu",
+  "event_contact_email": "denice.zhu@protocol.ai",
+  "secondary_contacts": [
+    {
+      "name": "Sierra Henry",
+      "email": "sierra@monaverse.com"
+    },
+    {
+      "name": "La Christa Eccles",
+      "email": "leccles@protocol.ai"
+    }
+  ],
+  "event_name": "Virtual Fireside Chat with Juan Benet and Surprise Guest",
+  "event_logo": "",
+  "host": "Virtual LabWeek23",
+  "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1699548890128_42.jpeg",
+  "co_hosts": [],
+  "description": "Welcome to the third installment of LabWeek's virtual series!\n\n​Get ready for a fascinating conversation between two of the most prominent innovators in the web3 world. We are excited to present to you an intimate Virtual Fireside Chat between Juan Benet, CEO of Protocol Labs, and a surprise guest from the Ethereum community.",
+  "tags": [
+    "Talks & Presentation"
+  ],
+  "start_date": "2023-11-15T15:00:00.000Z",
+  "end_date": "2023-11-15T16:00:00.000Z",
+  "access_type": "CUSTOM_REGISTRATION",
+  "access_option": "OPEN",
+  "format": "VIRTUAL",
+  "location": "",
+  "meeting_platform": "A Cozy Fire in the Metaverse",
+  "seat_count": "200-300",
+  "registration_link": "https://lu.ma/LW23VirtualFiresideChat",
+  "website_link": "https://lu.ma/LW23VirtualFiresideChat",
+  "agenda": {
+    "sessions": []
+  },
+  "sponsors": [],
+  "is_featured": false,
+  "conference": "labweek-23",
+  "nft_ticketing": {
+    "host_wallet_address": "",
+    "verifier_wallet_addresses": [],
+    "verifier_email_addresses": [],
+    "custom_event_URL": "",
+    "pattern": 1,
+    "hide_event_logo": false,
+    "hide_attendees": false,
+    "ticketing_provider": "UNLOCK",
+    "default_fields": [],
+    "additional_fields": [
+      {
+        "order": 1,
+        "type": "text",
+        "name": "company",
+        "label": "Team or Project",
+        "key": "company",
+        "value": 0,
+        "placeholder_text": "Name of the Team or Project"
+      },
+      {
+        "order": 2,
+        "type": "text",
+        "name": "job_itle",
+        "label": "Job Title",
+        "key": "job_title",
+        "value": 0,
+        "placeholder_text": "Current Job Title or Position"
+      },
+      {
+        "order": 3,
+        "type": "text",
+        "name": "telegram",
+        "label": "Telegram",
+        "key": "telegram",
+        "value": 0,
+        "placeholder_text": "Telegram Handle/URL"
+      },
+      {
+        "order": 4,
+        "type": "text",
+        "name": "twitter",
+        "label": "Twitter",
+        "key": "twitter",
+        "value": 0,
+        "placeholder_text": "Twitter Handle/URL"
+      },
+      {
+        "order": 5,
+        "type": "text",
+        "name": "dietary_restrictions",
+        "label": "Dietary Restrictions",
+        "key": "dietary_restrictions",
+        "value": 0,
+        "placeholder_text": "Enter Any Food Allergies or Restrictions"
+      },
+      {
+        "order": 6,
+        "type": "text",
+        "name": "wallet_address",
+        "label": "Wallet Address",
+        "key": "wallet_address",
+        "value": 1,
+        "placeholder_text": "Enter FEVM, ETH Address or ENS"
+      },
+      {
+        "order": 8,
+        "type": "checkbox",
+        "name": "communication_consent",
+        "label": "I agree to receive communication from Protocol Labs",
+        "key": "communication_consent",
+        "value": 1,
+        "placeholder_text": "I agree to receive communication from Protocol Labs",
+        "alt": "GDPR Consent (yes/no)"
+      }
+    ],
+    "custom_fields": []
+  },
+  "createdAt": "2023-11-09T13:43:05.447Z",
+  "updatedAt": "2023-11-09T16:59:25.238Z",
+  "meeting_link": "https://lu.ma/LW23VirtualFiresideChat"
+}
