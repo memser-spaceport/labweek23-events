@@ -15,8 +15,8 @@
   "tags": [
     "Talks & Presentation"
   ],
-  "start_date": "2023-11-13T12:00:00.000Z",
-  "end_date": "2023-11-13T15:00:00.000Z",
+  "start_date": "2023-11-13T11:00:00.000Z",
+  "end_date": "2023-11-13T14:30:00.000Z",
   "access_type": "IN-HOUSE_REGISTRATION",
   "access_option": "OPEN",
   "format": "HYBRID",
@@ -24,7 +24,33 @@
   "location_url": "https://maps.app.goo.gl/JXnJXD5w6MpAtLNT9",
   "seat_count": "500-600",
   "agenda": {
-    "sessions": []
+    "sessions": [
+      {
+        "start_date": "2023-11-13T11:30:00.000Z",
+        "end_date": "2023-11-13T11:40:00.000Z",
+        "name": "Welcome and Intro"
+      },
+      {
+        "start_date": "2023-11-13T11:40:00.000Z",
+        "end_date": "2023-11-13T12:20:00.000Z",
+        "name": "PL Vision"
+      },
+      {
+        "start_date": "2023-11-13T12:00:00.000Z",
+        "end_date": "2023-11-13T13:30:00.000Z",
+        "name": "Network Impact"
+      },
+      {
+        "start_date": "2023-11-13T13:30:00.000Z",
+        "end_date": "2023-11-13T14:00:00.000Z",
+        "name": "Network Infrastructure"
+      },
+      {
+        "start_date": "2023-11-13T14:00:00.000Z",
+        "end_date": "2023-11-13T14:30:00.000Z",
+        "name": "Looking Ahead to PLv10"
+      }
+    ]
   },
   "sponsors": [],
   "is_featured": true,
@@ -130,7 +156,7 @@
   "meeting_platform": "",
   "registration_link": "https://plsummit23.labweek.io/",
   "website_link": "https://plsummit23.labweek.io/",
-  "updatedAt": "2023-11-02T21:45:54.049Z",
+  "updatedAt": "2023-11-09T18:47:15.041Z",
   "co_hosts": [
     {
       "name": "Spaceport",
