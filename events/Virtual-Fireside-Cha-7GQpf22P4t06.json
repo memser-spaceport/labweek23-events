@@ -16,7 +16,7 @@
   "host": "Virtual LabWeek23",
   "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1699548890128_42.jpeg",
   "co_hosts": [],
-  "description": "Welcome to the third installment of LabWeek's virtual series! ​Get ready for a fascinating conversation between two of the most prominent innovators in the web3 world. We are excited to present to you an intimate Virtual Fireside Chat between Juan Benet, CEO of Protocol Labs, and a surprise guest from the Ethereum community.",
+  "description": "Welcome to the third installment of LabWeek's virtual series!\n\n​Get ready for a fascinating conversation between two of the most prominent innovators in the web3 world. We are excited to present to you an intimate Virtual Fireside Chat between Juan Benet, CEO of Protocol Labs, and a surprise guest from the Ethereum community.",
   "tags": [
     "Talks & Presentation"
   ],
@@ -115,6 +115,6 @@
     "custom_fields": []
   },
   "createdAt": "2023-11-09T13:43:05.447Z",
-  "updatedAt": "2023-11-09T16:59:25.238Z",
+  "updatedAt": "2023-11-09T17:29:35.898Z",
   "meeting_link": "https://lu.ma/LW23VirtualFiresideChat"
 }
