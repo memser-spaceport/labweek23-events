@@ -1,0 +1,112 @@
+{
+  "event_contact_name": "Lukas Bresser",
+  "event_contact_email": "lukas.bresser@protocol.ai",
+  "secondary_contacts": [],
+  "event_name": "Filecoin Unconf",
+  "event_logo": "",
+  "host": "Filecoin TLDR",
+  "host_logo": "",
+  "co_hosts": [],
+  "description": "Browse sessions and sign up here: https://docs.google.com/spreadsheets/d/1RLVi-B60ZEno3NKc6HhiE2tKzNsj8LFdchF3Wu6NaOM/edit#gid=0\n\nGet ready to be a part of the most riveting unconference this side of the blockchain - the Filecoin Frontier Fiesta Unconference, right in the heart of Istanbul's digital oasis! 🌐✨\n\nPicture this: 15 brain-tickling sessions sprawled across five tracks, each brimming with insights on everything from the nitty-gritty of Core Protocol to the thrills of Ecosystem Growth. Whether you're keen on Building a Performant Product, a community wizard eager to Foster Strong Bonds, or a research guru hungry for the Next Big Thing, there's a session just for you!\n\nHere's the twist - the power is in YOUR hands. 🙌 Our Participant-driven format means the schedule's maximum flexible. Time blocks are mere suggestions; feel free to wander, explore, and dive into discussions that matter to you. Who needs a compass when your curiosity is the best guide?\n\nAnd for those who like a sprinkle of digital with their physical, we've got you covered. Will aim for each session to have Zoom links and laptops at the ready, ensuring no one misses a beat, whether they're in the room or half a world away.\n\nSo, are you ready to ride the waves of innovation, connect with fellow trailblazers, and create ripples in the Filecoin ecosystem? Pack your bags, bring your ideas, and let's make some blockchain magic in Istanbul! Remember, the only rule is - there are no rules, just endless possibilities. 💡🚀\n\nJoin us at Filecoin unconference - where the future of decentralization is not just discussed, it's created!",
+  "tags": [
+    "Talks & Presentation",
+    "Workshop"
+  ],
+  "start_date": "2023-11-13T06:00:00.000Z",
+  "end_date": "2023-11-13T09:00:00.000Z",
+  "access_type": "CUSTOM_REGISTRATION",
+  "access_option": "OPEN",
+  "format": "HYBRID",
+  "location": "Swissôtel The Bosphorus Istanbul",
+  "location_url": "https://maps.app.goo.gl/Kk3AUPGc5oxRoJ6y5",
+  "meeting_platform": "",
+  "seat_count": "50-100",
+  "registration_link": "https://docs.google.com/spreadsheets/d/1RLVi-B60ZEno3NKc6HhiE2tKzNsj8LFdchF3Wu6NaOM/edit#gid=0",
+  "website_link": "https://docs.google.com/spreadsheets/d/1RLVi-B60ZEno3NKc6HhiE2tKzNsj8LFdchF3Wu6NaOM/edit#gid=0",
+  "agenda": {
+    "sessions": []
+  },
+  "sponsors": [],
+  "is_featured": false,
+  "conference": "labweek-23",
+  "nft_ticketing": {
+    "host_wallet_address": "",
+    "verifier_wallet_addresses": [],
+    "verifier_email_addresses": [],
+    "custom_event_URL": "",
+    "pattern": 1,
+    "hide_event_logo": false,
+    "hide_attendees": false,
+    "ticketing_provider": "UNLOCK",
+    "default_fields": [],
+    "additional_fields": [
+      {
+        "order": 1,
+        "type": "text",
+        "name": "company",
+        "label": "Team or Project",
+        "key": "company",
+        "value": 0,
+        "placeholder_text": "Name of the Team or Project"
+      },
+      {
+        "order": 2,
+        "type": "text",
+        "name": "job_itle",
+        "label": "Job Title",
+        "key": "job_title",
+        "value": 0,
+        "placeholder_text": "Current Job Title or Position"
+      },
+      {
+        "order": 3,
+        "type": "text",
+        "name": "telegram",
+        "label": "Telegram",
+        "key": "telegram",
+        "value": 0,
+        "placeholder_text": "Telegram Handle/URL"
+      },
+      {
+        "order": 4,
+        "type": "text",
+        "name": "twitter",
+        "label": "Twitter",
+        "key": "twitter",
+        "value": 0,
+        "placeholder_text": "Twitter Handle/URL"
+      },
+      {
+        "order": 5,
+        "type": "text",
+        "name": "dietary_restrictions",
+        "label": "Dietary Restrictions",
+        "key": "dietary_restrictions",
+        "value": 0,
+        "placeholder_text": "Enter Any Food Allergies or Restrictions"
+      },
+      {
+        "order": 6,
+        "type": "text",
+        "name": "wallet_address",
+        "label": "Wallet Address",
+        "key": "wallet_address",
+        "value": 1,
+        "placeholder_text": "Enter FEVM, ETH Address or ENS"
+      },
+      {
+        "order": 8,
+        "type": "checkbox",
+        "name": "communication_consent",
+        "label": "I agree to receive communication from Protocol Labs",
+        "key": "communication_consent",
+        "value": 1,
+        "placeholder_text": "I agree to receive communication from Protocol Labs",
+        "alt": "GDPR Consent (yes/no)"
+      }
+    ],
+    "custom_fields": []
+  },
+  "createdAt": "2023-11-09T18:06:50.566Z",
+  "updatedAt": "2023-11-09T18:06:50.566Z"
+}
