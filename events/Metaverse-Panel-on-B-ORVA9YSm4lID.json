@@ -1,0 +1,124 @@
+{
+  "event_contact_name": "Denice Zhu",
+  "event_contact_email": "denice.zhu@protocol.ai",
+  "secondary_contacts": [
+    {
+      "name": "Justin Melillo",
+      "email": "justin@monaverse.com"
+    },
+    {
+      "name": "Sierra Henry",
+      "email": "sierra@monaverse.com"
+    },
+    {
+      "name": "La Christa Eccles",
+      "email": "leccles@protocol.ai"
+    }
+  ],
+  "event_name": "Metaverse Panel on Beyond Web3 and 2023",
+  "event_logo": "",
+  "host": "Virtual LabWeek23",
+  "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1699548930736_281.jpeg",
+  "co_hosts": [],
+  "description": "Welcome to the final installment of Virtual LabWeek23! We are thrilled to invite you to the first-ever PL network Metaverse Panel, hosted by Mona's own founder and CEO Justin Melillo.",
+  "tags": [
+    "Talks & Presentation"
+  ],
+  "start_date": "2023-11-16T15:00:00.000Z",
+  "end_date": "2023-11-16T16:00:00.000Z",
+  "access_type": "CUSTOM_REGISTRATION",
+  "access_option": "OPEN",
+  "format": "VIRTUAL",
+  "location": "",
+  "meeting_platform": "Somewhere in the Metaverse",
+  "seat_count": "200-300",
+  "registration_link": "https://lu.ma/MetaversePanelBeyondWeb3",
+  "website_link": "https://lu.ma/MetaversePanelBeyondWeb3",
+  "agenda": {
+    "sessions": []
+  },
+  "sponsors": [],
+  "is_featured": false,
+  "conference": "labweek-23",
+  "nft_ticketing": {
+    "host_wallet_address": "",
+    "verifier_wallet_addresses": [],
+    "verifier_email_addresses": [],
+    "custom_event_URL": "",
+    "pattern": 1,
+    "hide_event_logo": false,
+    "hide_attendees": false,
+    "ticketing_provider": "UNLOCK",
+    "default_fields": [],
+    "additional_fields": [
+      {
+        "order": 1,
+        "type": "text",
+        "name": "company",
+        "label": "Team or Project",
+        "key": "company",
+        "value": 0,
+        "placeholder_text": "Name of the Team or Project"
+      },
+      {
+        "order": 2,
+        "type": "text",
+        "name": "job_itle",
+        "label": "Job Title",
+        "key": "job_title",
+        "value": 0,
+        "placeholder_text": "Current Job Title or Position"
+      },
+      {
+        "order": 3,
+        "type": "text",
+        "name": "telegram",
+        "label": "Telegram",
+        "key": "telegram",
+        "value": 0,
+        "placeholder_text": "Telegram Handle/URL"
+      },
+      {
+        "order": 4,
+        "type": "text",
+        "name": "twitter",
+        "label": "Twitter",
+        "key": "twitter",
+        "value": 0,
+        "placeholder_text": "Twitter Handle/URL"
+      },
+      {
+        "order": 5,
+        "type": "text",
+        "name": "dietary_restrictions",
+        "label": "Dietary Restrictions",
+        "key": "dietary_restrictions",
+        "value": 0,
+        "placeholder_text": "Enter Any Food Allergies or Restrictions"
+      },
+      {
+        "order": 6,
+        "type": "text",
+        "name": "wallet_address",
+        "label": "Wallet Address",
+        "key": "wallet_address",
+        "value": 1,
+        "placeholder_text": "Enter FEVM, ETH Address or ENS"
+      },
+      {
+        "order": 8,
+        "type": "checkbox",
+        "name": "communication_consent",
+        "label": "I agree to receive communication from Protocol Labs",
+        "key": "communication_consent",
+        "value": 1,
+        "placeholder_text": "I agree to receive communication from Protocol Labs",
+        "alt": "GDPR Consent (yes/no)"
+      }
+    ],
+    "custom_fields": []
+  },
+  "createdAt": "2023-11-09T13:50:04.066Z",
+  "updatedAt": "2023-11-09T17:00:08.896Z",
+  "meeting_link": "https://lu.ma/MetaversePanelBeyondWeb3"
+}
