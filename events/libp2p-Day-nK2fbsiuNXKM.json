@@ -11,7 +11,7 @@
       "logo": ""
     }
   ],
-  "description": "A day long track to discuss libp2p developments from the ecosystem, libp2p + privacy, new work on the DHT from ProbeLab, and more!",
+  "description": "A day long track to discuss libp2p developments from the ecosystem, libp2p + privacy, new work on the DHT from ProbeLab, and more!\n\nFor more information on the day's schedule and other info, please see: https://github.com/libp2p/specs/discussions/591",
   "tags": [
     "Talks & Presentation"
   ],
@@ -129,7 +129,7 @@
   },
   "registration_link": "",
   "website_link": "",
-  "updatedAt": "2023-11-02T04:29:14.576Z",
+  "updatedAt": "2023-11-10T10:05:10.317Z",
   "co_hosts": [
     {
       "name": "js-libp2p",
