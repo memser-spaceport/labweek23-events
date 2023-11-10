@@ -1,0 +1,133 @@
+{
+  "event_contact_name": "Brian Lau",
+  "event_contact_email": "brianlau@sinso.io",
+  "secondary_contacts": [],
+  "event_name": "The Futrue Of Fvm In Web3 Carnival Night",
+  "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1699645874269_485.jpeg",
+  "host": "Brian",
+  "host_logo": "",
+  "co_hosts": [],
+  "description": "As the rise of Web3 marks the advent of a new era, distributed storage and decentralization have become its signature technologies. Against this backdrop of continuous innovation, we are honored to announce the upcoming event, \"The Futrue Of Fvm In Web3 Carnival Night\" This gathering is designed to bring together experts, developers, investors, and enthusiasts from the industry to delve into the cutting-edge applications and future developments of Filecoin as a leading distributed storage network, and its Filecoin Virtual Machine (FVM) in building the infrastructure for Web3 platforms.\n\nThe schedule for the event is as follows:\n\nDinner Networking Event\n\nTime: 15:30 - 20:30\n\nLocation: Saat,SWISSÔTEL BOSPHORUS, ISTANBUL\n\nDetails: In this relaxed setting, you will have the opportunity for face-to-face interactions with peers, enjoy a carefully curated meal, and engage in in-depth conversations with industry leaders.\n\nCarnival Bar Time\n\nTime: 17:00 - 02:00\n\nLocation: 16 Roof,SWISSÔTEL BOSPHORUS, ISTANBUL\n\nDetails: As night falls, we will transition to 16 Roof, which will transform into a vibrant space for networking. Here, you can continue discussions about the future of Filecoin and FVM over drinks, or simply relax and enjoy the festive atmosphere.\n\nThrough meticulously planned discussion sessions, interactive workshops, and networking activities, participants will have a platform to explore how Filecoin and FVM can drive the new era of decentralized storage. Attendees will have the chance to engage directly with thought leaders, gain first-hand information on the latest developments in the Filecoin ecosystem, and learn how to leverage FVM to create innovative solutions in the Web3 domain.\n\nThis carnival night will not only look forward to the future roadmap of FVM in the Web3 world but will also delve into how it can empower developers to build more equitable, transparent, and efficient decentralized applications (DApps). Whether you are a newcomer passionate about distributed storage technology or a seasoned professional with a deep background in decentralization, this carnival night will provide an excellent opportunity for learning, exchanging ideas, and inspiring thought.\n\nLet us join hands on this passionate evening to explore the boundless possibilities of Filecoin and FVM in the Web3 era and collectively push forward this technological revolution. We look forward to meeting you at \"The Futrue Of Fvm In Web3 Carnival Night\" to witness this historic moment together.",
+  "tags": [
+    "Talks & Presentation",
+    "Social Event"
+  ],
+  "start_date": "2023-11-15T12:30:00.000Z",
+  "end_date": "2023-11-15T23:00:00.000Z",
+  "access_type": "IN-HOUSE_REGISTRATION",
+  "access_option": "OPEN",
+  "format": "IN-PERSON",
+  "location": "SWISSÔTEL BOSPHORUS, ISTANBUL",
+  "location_url": "https://www.google.com/maps?ll=41.041164,28.997679&z=16&t=m&hl=en&gl=JP&mapclient=embed&cid=10569281872888422686",
+  "meeting_platform": "",
+  "seat_count": "50-100",
+  "agenda": {
+    "sessions": []
+  },
+  "sponsors": [],
+  "is_featured": false,
+  "conference": "labweek-23",
+  "nft_ticketing": {
+    "host_wallet_address": "0x929BFb4a97571371ec42a6Cf500641f22fCd02B7",
+    "verifier_wallet_addresses": [
+      "0x929BFb4a97571371ec42a6Cf500641f22fCd02B7"
+    ],
+    "verifier_email_addresses": [
+      "brianlau@sinso.io"
+    ],
+    "custom_event_URL": "sinso",
+    "pattern": 1,
+    "hide_event_logo": false,
+    "hide_attendees": false,
+    "ticketing_provider": "UNLOCK",
+    "default_fields": [
+      {
+        "name": "name",
+        "key": "name",
+        "label": "Name",
+        "value": 2,
+        "placeholder_text": "Enter Your Full Name",
+        "order": 1,
+        "type": "TEXT"
+      },
+      {
+        "name": "email",
+        "key": "email",
+        "label": "Email",
+        "value": 2,
+        "placeholder_text": "Enter Your Contact Email",
+        "order": 2,
+        "type": "TEXT"
+      }
+    ],
+    "additional_fields": [
+      {
+        "order": 2,
+        "type": "text",
+        "name": "job_itle",
+        "label": "Job Title",
+        "key": "job_title",
+        "value": 0,
+        "placeholder_text": "Current Job Title or Position"
+      },
+      {
+        "order": 5,
+        "type": "text",
+        "name": "dietary_restrictions",
+        "label": "Dietary Restrictions",
+        "key": "dietary_restrictions",
+        "value": 0,
+        "placeholder_text": "Enter Any Food Allergies or Restrictions"
+      },
+      {
+        "order": 6,
+        "type": "text",
+        "name": "wallet_address",
+        "label": "Wallet Address",
+        "key": "wallet_address",
+        "value": 1,
+        "placeholder_text": "Enter FEVM, ETH Address or ENS"
+      },
+      {
+        "order": 8,
+        "type": "checkbox",
+        "name": "communication_consent",
+        "label": "I agree to receive communication from Protocol Labs",
+        "key": "communication_consent",
+        "value": 1,
+        "placeholder_text": "I agree to receive communication from Protocol Labs",
+        "alt": "GDPR Consent (yes/no)"
+      },
+      {
+        "order": 1,
+        "type": "text",
+        "name": "company",
+        "label": "Team or Project",
+        "key": "company",
+        "value": 1,
+        "placeholder_text": "Name of the Team or Project"
+      },
+      {
+        "order": 3,
+        "type": "text",
+        "name": "telegram",
+        "label": "Telegram",
+        "key": "telegram",
+        "value": 1,
+        "placeholder_text": "Telegram Handle/URL"
+      },
+      {
+        "order": 4,
+        "type": "text",
+        "name": "twitter",
+        "label": "Twitter",
+        "key": "twitter",
+        "value": 1,
+        "placeholder_text": "Twitter Handle/URL"
+      }
+    ],
+    "custom_fields": []
+  },
+  "createdAt": "2023-11-10T19:54:20.911Z",
+  "updatedAt": "2023-11-10T19:58:31.173Z"
+}
