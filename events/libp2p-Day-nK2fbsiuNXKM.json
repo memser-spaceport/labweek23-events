@@ -45,7 +45,12 @@
       },
       {
         "start_date": "2023-11-15T07:20:00.000Z",
-        "end_date": "2023-11-15T07:50:00.000Z",
+        "end_date": "2023-11-15T07:30:00.000Z",
+        "name": "COFFEE BREAK"
+      },
+      {
+        "start_date": "2023-11-15T07:35:00.000Z",
+        "end_date": "2023-11-15T07:55:00.000Z",
         "name": "libp2p in .NET",
         "description": "Speaker: Alexey\nAlexey from the Nethermind team will give a talk about the brand new .NET libp2p implementation and their journey in creating a new libp2p stack from scratch! This includes key features and perspectives of the new libp2p implementation and an introduction for contributors and architecture overview."
       },
@@ -69,15 +74,26 @@
       },
       {
         "start_date": "2023-11-15T09:15:00.000Z",
-        "end_date": "2023-11-15T09:35:00.000Z",
+        "end_date": "2023-11-15T10:30:00.000Z",
+        "name": "LUNCH BREAK"
+      },
+      {
+        "start_date": "2023-11-15T10:35:00.000Z",
+        "end_date": "2023-11-15T10:55:00.000Z",
         "name": "TBD",
         "description": "Speaker: Sukun"
       },
       {
-        "start_date": "2023-11-15T09:40:00.000Z",
-        "end_date": "2023-11-15T10:00:00.000Z",
+        "start_date": "2023-11-15T11:00:00.000Z",
+        "end_date": "2023-11-15T11:20:00.000Z",
         "name": "State of js-libp2p in the browser and mobile",
         "description": "Speaker: Chad\nChad is a maintainer of js-libp2p.\nHe will explore the stability and performance of libp2p in the browser and update on js-libp2p on mobile."
+      },
+      {
+        "start_date": "2023-11-15T11:25:00.000Z",
+        "end_date": "2023-11-15T14:00:00.000Z",
+        "name": "Un-conference Sessions",
+        "description": "Propose your own talks!\nThe organizers hope the libp2p community feels empowered to share anything ranging from recent wins, updates, current challenges, deep dives, demos, etc. This can range from a quick lightning talk, show-and-tell demo, to a more thorough deep dive. Anything is welcome - there is no prescribed formula here!"
       }
     ]
   },
@@ -184,7 +200,7 @@
   },
   "registration_link": "",
   "website_link": "",
-  "updatedAt": "2023-11-10T17:59:17.006Z",
+  "updatedAt": "2023-11-10T18:09:52.496Z",
   "co_hosts": [
     {
       "name": "js-libp2p",
