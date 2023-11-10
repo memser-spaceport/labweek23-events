@@ -24,7 +24,62 @@
   "meeting_platform": "",
   "seat_count": "1-50",
   "agenda": {
-    "sessions": []
+    "sessions": [
+      {
+        "start_date": "2023-11-15T06:00:00.000Z",
+        "end_date": "2023-11-15T06:25:00.000Z",
+        "name": "libp2p Project Update",
+        "description": "Spearker: Juan Benet/Raul Kripalani\nJuan and Raul will give an update about the current state of the libp2p project and the future of the libp2p ecosystem"
+      },
+      {
+        "start_date": "2023-11-15T06:30:00.000Z",
+        "end_date": "2023-11-15T06:50:00.000Z",
+        "name": "rust-libp2p + Wasm",
+        "description": "Speaker: Doug Anderson\nDoug will give a talk on his vision for the future of the internet, which will be built upon libp2p (and now Wasm!)"
+      },
+      {
+        "start_date": "2023-11-15T06:55:00.000Z",
+        "end_date": "2023-11-15T07:15:00.000Z",
+        "name": "TBD",
+        "description": "Speaker: Wondertan\n@wondertan of Celestia will give a talk on Celestia uses libp2p and more!"
+      },
+      {
+        "start_date": "2023-11-15T07:20:00.000Z",
+        "end_date": "2023-11-15T07:50:00.000Z",
+        "name": "libp2p in .NET",
+        "description": "Speaker: Alexey\nAlexey from the Nethermind team will give a talk about the brand new .NET libp2p implementation and their journey in creating a new libp2p stack from scratch! This includes key features and perspectives of the new libp2p implementation and an introduction for contributors and architecture overview."
+      },
+      {
+        "start_date": "2023-11-15T08:00:00.000Z",
+        "end_date": "2023-11-15T08:20:00.000Z",
+        "name": "Javascript libp2p v1.0!",
+        "description": "Speaker: Cayman Nava\nJs-libp2p is fast approaching its v1.0 release (which may be released on libp2p day or shortly thereafter).\nCayman, maintainer of js-libp2p from ChainSafe Systems, will share the big struggles and wins behind the past 2 years of js-libp2p development. He'll also giving a glimpse of the priorities for the next 6 months."
+      },
+      {
+        "start_date": "2023-11-15T08:25:00.000Z",
+        "end_date": "2023-11-15T08:45:00.000Z",
+        "name": "GossipLog: Durability & Eventual DeliveryforPubSub",
+        "description": "Speaker: Joel\nJoel is an ex-PL researcher and co-founder of Canvas, a framework for building automatically decentralized applications.\n\nDecentralized pubsub protocols are optimized for low-latency real-time delivery, but don't have a robust way for peers to catch up on missing messages after long periods of downtime or network partitions. We can use a new type of merkleized database index called Prolly trees to let peers efficiently sync large sets of messages in persistent storage. We can even extend this approach to add causal ordering using logical clocks.\n"
+      },
+      {
+        "start_date": "2023-11-15T08:50:00.000Z",
+        "end_date": "2023-11-15T09:10:00.000Z",
+        "name": "Waku : Uncompromising web3 communication at scale",
+        "description": "Speaker: Guru\nGuru is an ex-PL and is currently the DevRel for Waku\n\nIn this talk, we will delve into Waku and explore its role in enabling decentralised communications at scale, with a focus on its synergy with the libp2p network stack. Waku is used by @xmtp, RAILGUN and TheGraph for enabling various use cases."
+      },
+      {
+        "start_date": "2023-11-15T09:15:00.000Z",
+        "end_date": "2023-11-15T09:35:00.000Z",
+        "name": "TBD",
+        "description": "Speaker: Sukun"
+      },
+      {
+        "start_date": "2023-11-15T09:40:00.000Z",
+        "end_date": "2023-11-15T10:00:00.000Z",
+        "name": "State of js-libp2p in the browser and mobile",
+        "description": "Speaker: Chad\nChad is a maintainer of js-libp2p.\nHe will explore the stability and performance of libp2p in the browser and update on js-libp2p on mobile."
+      }
+    ]
   },
   "sponsors": [],
   "is_featured": false,
@@ -129,7 +184,7 @@
   },
   "registration_link": "",
   "website_link": "",
-  "updatedAt": "2023-11-10T10:05:10.317Z",
+  "updatedAt": "2023-11-10T17:59:17.006Z",
   "co_hosts": [
     {
       "name": "js-libp2p",
@@ -145,5 +200,6 @@
       "name": "David Huseby",
       "email": "david.huseby@protocol.ai"
     }
-  ]
+  ],
+  "priority": 5
 }
