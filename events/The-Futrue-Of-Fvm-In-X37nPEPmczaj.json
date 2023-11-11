@@ -2,7 +2,7 @@
   "event_contact_name": "Brian Lau",
   "event_contact_email": "brianlau@sinso.io",
   "secondary_contacts": [],
-  "event_name": "The Futrue Of Fvm In Web3 Carnival Night",
+  "event_name": "The Future Of Fvm In Web3 Carnival Night",
   "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1699645874269_485.jpeg",
   "host": "Brian",
   "host_logo": "",
@@ -17,8 +17,8 @@
   "access_type": "IN-HOUSE_REGISTRATION",
   "access_option": "OPEN",
   "format": "IN-PERSON",
-  "location": "SWISSÔTEL BOSPHORUS, ISTANBUL",
-  "location_url": "https://www.google.com/maps?ll=41.041164,28.997679&z=16&t=m&hl=en&gl=JP&mapclient=embed&cid=10569281872888422686",
+  "location": "Swissôtel",
+  "location_url": "https://maps.app.goo.gl/JXnJXD5w6MpAtLNT9",
   "meeting_platform": "",
   "seat_count": "50-100",
   "agenda": {
@@ -28,6 +28,7 @@
   "is_featured": false,
   "conference": "labweek-23",
   "nft_ticketing": {
+    "nft_contract_address": "0x89B53b777323eB4274AD920BE81E043F015c3519",
     "host_wallet_address": "0x929BFb4a97571371ec42a6Cf500641f22fCd02B7",
     "verifier_wallet_addresses": [
       "0x929BFb4a97571371ec42a6Cf500641f22fCd02B7"
