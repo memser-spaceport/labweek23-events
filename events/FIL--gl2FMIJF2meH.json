@@ -162,10 +162,11 @@
     ],
     "custom_fields": []
   },
-  "host_logo": "",
+  "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1699768259966_779.png",
   "meeting_platform": "Youtube",
-  "updatedAt": "2023-11-08T20:05:51.226Z",
+  "updatedAt": "2023-11-12T05:51:08.197Z",
   "co_hosts": [],
   "secondary_contacts": [],
-  "meeting_link": "https://youtube.com/live/57Ua4AEWe_g?feature=share"
+  "meeting_link": "https://youtube.com/live/57Ua4AEWe_g?feature=share",
+  "priority": 12
 }
