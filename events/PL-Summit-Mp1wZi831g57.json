@@ -11,7 +11,7 @@
       "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692885075605_26.png"
     }
   ],
-  "description": "The Protocol Labs Network is getting together for our second decentralized conference! Join us as we drive breakthroughs in computing to push humanity forward.",
+  "description": "The Protocol Labs Network is getting together for our second decentralized conference! Join us as we drive breakthroughs in computing to push humanity forward. Get a warm welcome to LabWeek23 and insight into the vision for the Protocol Labs network from several key speakers, including CEO Juan Benet. \n\nCan't attend in person? Hit the Notify button on the livestream so you don’t miss out!",
   "tags": [
     "Talks & Presentation"
   ],
@@ -153,10 +153,10 @@
     ],
     "custom_fields": []
   },
-  "meeting_platform": "",
+  "meeting_platform": "Youtube",
   "registration_link": "https://plsummit23.labweek.io/",
   "website_link": "https://plsummit23.labweek.io/",
-  "updatedAt": "2023-11-09T18:47:15.041Z",
+  "updatedAt": "2023-11-12T13:44:36.520Z",
   "co_hosts": [
     {
       "name": "Spaceport",
@@ -184,5 +184,7 @@
       "name": "La Christa",
       "email": "leccles79@gmail.com"
     }
-  ]
+  ],
+  "priority": 3,
+  "meeting_link": "https://www.youtube.com/watch?v=gq-fqzVr-j0"
 }
