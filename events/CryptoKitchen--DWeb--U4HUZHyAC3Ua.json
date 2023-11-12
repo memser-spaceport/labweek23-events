@@ -22,8 +22,8 @@
     "Social Event",
     "Talks & Presentation"
   ],
-  "start_date": "2023-11-14T07:00:00.000Z",
-  "end_date": "2023-11-14T13:00:00.000Z",
+  "start_date": "2023-11-14T08:30:00.000Z",
+  "end_date": "2023-11-14T12:00:00.000Z",
   "access_type": "CUSTOM_REGISTRATION",
   "access_option": "OPEN",
   "format": "IN-PERSON",
@@ -35,11 +35,6 @@
   "website_link": "https://lu.ma/xdqd12xm",
   "agenda": {
     "sessions": [
-      {
-        "start_date": "2023-11-14T07:30:00.000Z",
-        "end_date": "2023-11-14T08:30:00.000Z",
-        "name": "Free Brunch"
-      },
       {
         "start_date": "2023-11-14T08:30:00.000Z",
         "end_date": "2023-11-14T09:30:00.000Z",
@@ -62,11 +57,6 @@
         "end_date": "2023-11-14T11:40:00.000Z",
         "name": "Open Discussion & Panel",
         "description": "Securing the Internet: The future of wallet, data and social infra "
-      },
-      {
-        "start_date": "2023-11-14T11:40:00.000Z",
-        "end_date": "2023-11-14T12:40:00.000Z",
-        "name": "Spark Session"
       }
     ]
   },
@@ -160,5 +150,5 @@
     "custom_fields": []
   },
   "createdAt": "2023-10-04T16:16:08.117Z",
-  "updatedAt": "2023-11-11T16:52:16.806Z"
+  "updatedAt": "2023-11-12T03:33:13.141Z"
 }
