@@ -2,23 +2,22 @@
   "event_contact_name": "Tommy",
   "event_contact_email": "tommy@biconomy.io",
   "secondary_contacts": [],
-  "event_name": "InfraCon@DevConnect — The Whiteboard Sessions, Presented by Biconomy, Particle Network, Transak and Polyhedra",
+  "event_name": "Modular Structures WTF: The App Store Moment for Account Abstraction",
   "event_logo": "",
   "host": "Tommy & Kerf Chang",
   "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1696212892632_405.jpeg",
   "co_hosts": [],
-  "description": "The Whiteboard Sessions are borne of the InfraCon Series of events, which gather the most influential and innovative teams in web3. The Whiteboard Sessions are focused on building the most actionable Use Cases and Technical Resources for developers.\n\nOrganised by Biconomy, Particle Network, Transak and Polyhedra, the Whiteboard Sessions are focused on Use Cases in Account Abstraction, Wallet Infra, Zero Knowledge and Payments to onboard the next billion users to web3.\n\nTechnical in focus but strategically valuable for builders and technical decision makers, InfraCon's Whiteboard Sessions will drive invaluable insights and help scale your projects to greater heights.",
+  "description": "The event will include speakers from Rhinestone, Biconomy, and Silence Laboratories.",
   "tags": [
-    "Talks & Presentation",
-    "Workshop"
+    "Talks & Presentation"
   ],
-  "start_date": "2023-11-14T07:00:00.000Z",
-  "end_date": "2023-11-14T14:00:00.000Z",
+  "start_date": "2023-11-15T07:00:00.000Z",
+  "end_date": "2023-11-15T08:00:00.000Z",
   "access_type": "CUSTOM_REGISTRATION",
   "access_option": "OPEN",
-  "format": "IN-PERSON",
+  "format": "VIRTUAL",
   "location": "Register for event location",
-  "meeting_platform": "",
+  "meeting_platform": "X Spaces",
   "seat_count": "50-100",
   "registration_link": "https://lu.ma/InfraCon_DevConnect",
   "agenda": {
@@ -106,5 +105,7 @@
     "custom_fields": []
   },
   "createdAt": "2023-10-02T02:20:27.398Z",
-  "updatedAt": "2023-10-31T15:37:32.174Z"
+  "updatedAt": "2023-11-12T16:45:33.066Z",
+  "priority": 15,
+  "meeting_link": "https://twitter.com/i/spaces/1YqxoDqYEaBKv"
 }
