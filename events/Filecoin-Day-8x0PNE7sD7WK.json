@@ -3,7 +3,7 @@
   "event_contact_email": "elsa@fil.org",
   "secondary_contacts": [],
   "event_name": "Filecoin Day",
-  "event_logo": "",
+  "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1699768114508_355.png",
   "host": "Filecoin Foundation ",
   "host_logo": "",
   "co_hosts": [],
@@ -180,5 +180,6 @@
     "custom_fields": []
   },
   "createdAt": "2023-11-07T14:50:33.663Z",
-  "updatedAt": "2023-11-09T20:53:38.014Z"
+  "updatedAt": "2023-11-12T05:48:43.736Z",
+  "priority": 17
 }
