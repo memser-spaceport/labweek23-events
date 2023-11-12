@@ -99,7 +99,7 @@
         "start_date": "2023-11-16T11:00:00.000Z",
         "end_date": "2023-11-16T11:15:00.000Z",
         "name": "How Filecoin Station use IPC for retrieval checks",
-        "description": "Speaker: Patrick Woodhead, Lab Lead @ Protocol Labs.\n\nIn this presentation, we will present Filecoin Station, a client application that helps users earn income by renting out their unused computational capacity. The focus of this talk is one of the Station's modules - Spark, which helps Filecoin clients to periodically check their data is retrievable from service providers. We will explain how Spark works and how it takes advantage of IPC scaling technology to improve user experience and reduce overhead costs.\n"
+        "description": "Speaker: Patrick Woodhead, Lab Lead @ Protocol Labs.\n\nSpark is a trustless retrieval sampling protocol for Filecoin. When you download Station, you will start running Spark jobs on your home computer, which means you are contributing your resources to improving the Filecoin Network. What's more, Station operators are rewarded for running Spark jobs but, in order to do this at scale, we will require IPC subnets. The Station team is a proud launch partner for IPC as we aim to reward thousands of Station operators for running Spark.\n\nIn this talk, we will explain how Spark works and how it takes advantage of IPC scaling technology to improve user experience and reduce overhead costs. We will also talk about Meridian, a framework for top-up-able block rewards which powers Spark."
       },
       {
         "start_date": "2023-11-16T11:15:00.000Z",
@@ -242,7 +242,7 @@
   "meeting_platform": "",
   "registration_link": "https://istanbul.ipc.space",
   "website_link": "https://istanbul.ipc.space",
-  "updatedAt": "2023-11-12T21:06:08.802Z",
+  "updatedAt": "2023-11-12T21:17:31.352Z",
   "co_hosts": [
     {
       "name": "Outercore",
