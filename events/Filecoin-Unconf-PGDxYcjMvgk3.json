@@ -5,7 +5,7 @@
   "event_name": "Filecoin Unconf",
   "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1699768184111_334.png",
   "host": "Filecoin TLDR",
-  "host_logo": "",
+  "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1699768346267_378.png",
   "co_hosts": [],
   "description": "Browse sessions and sign up here: https://docs.google.com/spreadsheets/d/1RLVi-B60ZEno3NKc6HhiE2tKzNsj8LFdchF3Wu6NaOM/edit#gid=0. 1. Get ready to be a part of the most riveting unconference this side of the blockchain - the Filecoin Frontier Fiesta Unconference, right in the heart of Istanbul's digital oasis! 🌐✨2. Picture this: 15 brain-tickling sessions sprawled across five tracks, each brimming with insights on everything from the nitty-gritty of Core Protocol to the thrills of Ecosystem Growth. Whether you're keen on Building a Performant Product, a community wizard eager to Foster Strong Bonds, or a research guru hungry for the Next Big Thing, there's a session just for you! 3. Here's the twist - the power is in YOUR hands. 🙌 Our Participant-driven format means the schedule's maximum flexible. Time blocks are mere suggestions; feel free to wander, explore, and dive into discussions that matter to you. Who needs a compass when your curiosity is the best guide? 4. And for those who like a sprinkle of digital with their physical, we've got you covered. Will aim for each session to have Zoom links and laptops at the ready, ensuring no one misses a beat, whether they're in the room or half a world away. 5. So, are you ready to ride the waves of innovation, connect with fellow trailblazers, and create ripples in the Filecoin ecosystem? Pack your bags, bring your ideas, and let's make some blockchain magic in Istanbul! Remember, the only rule is - there are no rules, just endless possibilities. 💡🚀 6. Join us at Filecoin unconference - where the future of decentralization is not just discussed, it's created!",
   "tags": [
@@ -108,5 +108,5 @@
     "custom_fields": []
   },
   "createdAt": "2023-11-09T18:06:50.566Z",
-  "updatedAt": "2023-11-12T05:49:51.433Z"
+  "updatedAt": "2023-11-12T05:52:31.400Z"
 }
