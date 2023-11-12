@@ -32,7 +32,7 @@
   "access_type": "IN-HOUSE_REGISTRATION",
   "access_option": "OPEN",
   "format": "IN-PERSON",
-  "location": "Swissôtel",
+  "location": "Swissôtel - Fuji 1",
   "location_url": "https://maps.app.goo.gl/JXnJXD5w6MpAtLNT9",
   "seat_count": "50-100",
   "agenda": {
@@ -242,7 +242,7 @@
   "meeting_platform": "",
   "registration_link": "https://istanbul.ipc.space",
   "website_link": "https://istanbul.ipc.space",
-  "updatedAt": "2023-11-08T16:30:08.609Z",
+  "updatedAt": "2023-11-12T21:06:08.802Z",
   "co_hosts": [
     {
       "name": "Outercore",
@@ -266,5 +266,6 @@
       "name": "Emily Vaughan",
       "email": "emily.vaughan@protocol.ai"
     }
-  ]
+  ],
+  "priority": 16
 }
