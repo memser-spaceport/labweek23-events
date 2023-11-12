@@ -35,45 +35,45 @@
       },
       {
         "start_date": "2023-11-15T06:15:00.000Z",
-        "end_date": "2023-11-15T06:35:00.000Z",
+        "end_date": "2023-11-15T06:45:00.000Z",
         "name": "CollectifDAO DeepDive",
         "description": "The CollectifDAO team takes you into a high level overview of their DeFi liquid staking platform."
       },
       {
-        "start_date": "2023-11-15T06:35:00.000Z",
-        "end_date": "2023-11-15T07:00:00.000Z",
+        "start_date": "2023-11-15T06:45:00.000Z",
+        "end_date": "2023-11-15T07:05:00.000Z",
         "name": "Smart Contract Security (Zokyo)",
         "description": "Hartej, the founder of Zokyo will give a keynote presentation on the importance of smart contract audits and the role they play in securing DeFi ecosystems"
       },
       {
         "start_date": "2023-11-15T07:00:00.000Z",
-        "end_date": "2023-11-15T07:20:00.000Z",
-        "name": "Glif Deep Dive",
-        "description": "Jonathan Schwartz, the founder of Glif, will provide an overview of the Glif Infinity Pool and how Glif connects Filecoin Token Holders and SPs"
+        "end_date": "2023-11-15T07:30:00.000Z",
+        "name": "web3mine Deep Dive",
+        "description": "Join the web3mine team as they present a demo of their staking product and shed light on the future product roadmap"
       },
       {
-        "start_date": "2023-11-15T07:20:00.000Z",
-        "end_date": "2023-11-15T07:40:00.000Z",
+        "start_date": "2023-11-15T07:30:00.000Z",
+        "end_date": "2023-11-15T07:50:00.000Z",
         "name": "Interplanetary Consensus and Filecoin DeFi",
         "description": "Longfei from the Filecoin DX team will share more about the future of IPC and how fund transfers from parent to child subnets can revolutionize Filecoin DeFi"
       },
       {
-        "start_date": "2023-11-15T07:40:00.000Z",
-        "end_date": "2023-11-15T08:00:00.000Z",
+        "start_date": "2023-11-15T07:50:00.000Z",
+        "end_date": "2023-11-15T08:20:00.000Z",
         "name": "Secured Finance Deep Dive",
         "description": "Timo and Masa from the Secured Finance team will share some exciting updates about the Secured Finance platform and upcoming launch! "
       },
       {
-        "start_date": "2023-11-15T08:00:00.000Z",
-        "end_date": "2023-11-15T08:20:00.000Z",
+        "start_date": "2023-11-15T08:20:00.000Z",
+        "end_date": "2023-11-15T08:40:00.000Z",
         "name": "SP and Token Holder Testimonial Panel",
         "description": "SPs who leverage a Filecoin DeFi Liquid Staking Platform will share more about what features and offerings a platform must provide in order to be optimal for SP use. Token Holders will also share more about what they are looking for in a DeFi staking solution."
       },
       {
-        "start_date": "2023-11-15T08:20:00.000Z",
-        "end_date": "2023-11-15T08:40:00.000Z",
+        "start_date": "2023-11-15T08:40:00.000Z",
+        "end_date": "2023-11-15T09:00:00.000Z",
         "name": "Filecoin Cryptoeconomics and DeFi",
-        "description": "TBU"
+        "description": "The Starboard team will share more about their DeFi Leaderboard, as well as explore how Filecoin's tokenomics are affected by DeFi primitives."
       },
       {
         "start_date": "2023-11-15T08:40:00.000Z",
@@ -211,15 +211,11 @@
   "meeting_platform": "",
   "registration_link": "",
   "website_link": "",
-  "updatedAt": "2023-11-09T20:05:21.946Z",
+  "updatedAt": "2023-11-12T14:27:01.875Z",
   "co_hosts": [
     {
       "name": "Secured Finance",
       "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1699482705856_817.png"
-    },
-    {
-      "name": "Glif",
-      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1699482720155_939.png"
     },
     {
       "name": "CollectifDAO",
@@ -230,5 +226,6 @@
       "logo": ""
     }
   ],
-  "secondary_contacts": []
+  "secondary_contacts": [],
+  "priority": 18
 }
