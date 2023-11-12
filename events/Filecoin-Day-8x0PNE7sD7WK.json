@@ -5,7 +5,7 @@
   "event_name": "Filecoin Day",
   "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1699768114508_355.png",
   "host": "Filecoin Foundation ",
-  "host_logo": "",
+  "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1699768298353_534.png",
   "co_hosts": [],
   "description": "​Connect with the Filecoin community in Istanbul and learn about the latest advancements from across the ecosystem from the Filecoin Foundation and Protocol Labs team. From AI and data provenance to the latest on FVM, join us Tuesday, November 14, starting at 9:00 AM.",
   "tags": [
@@ -180,6 +180,6 @@
     "custom_fields": []
   },
   "createdAt": "2023-11-07T14:50:33.663Z",
-  "updatedAt": "2023-11-12T05:48:43.736Z",
+  "updatedAt": "2023-11-12T05:51:46.877Z",
   "priority": 17
 }
