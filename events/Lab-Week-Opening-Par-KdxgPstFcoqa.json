@@ -33,7 +33,11 @@
     "nft_contract_address": "0xc10aa327bf2ad52c53937ee535485a94ea94e3d3",
     "host_wallet_address": "",
     "verifier_wallet_addresses": [],
-    "verifier_email_addresses": [],
+    "verifier_email_addresses": [
+      "denicezhu@gmail.com",
+      "spaceport-admin@protocol.ai",
+      "leccles79@gmail.com"
+    ],
     "custom_event_URL": "opening-party",
     "pattern": 2,
     "hide_event_logo": false,
@@ -130,7 +134,7 @@
   "meeting_platform": "",
   "registration_link": "",
   "website_link": "",
-  "updatedAt": "2023-11-07T17:23:56.540Z",
+  "updatedAt": "2023-11-13T07:45:18.473Z",
   "co_hosts": [
     {
       "name": "Spaceport",
@@ -154,5 +158,6 @@
       "name": "Spaceport-admin",
       "email": "spaceport-admin@protocol.ai"
     }
-  ]
+  ],
+  "priority": 1
 }
