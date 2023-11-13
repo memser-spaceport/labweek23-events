@@ -63,8 +63,8 @@
       {
         "start_date": "2023-11-14T09:30:00.000Z",
         "end_date": "2023-11-14T09:50:00.000Z",
-        "name": "DSA Enterprise Architecture WG",
-        "description": "Speaker: Ashwanth Samuel, Protocol Labs\n\nDescription: The Decentralized Storage Alliance (DSA) brings together technology industry leaders to help enterprises make the transition to decentralized storage technologies through education, advocacy, and best practices. In this session, learn about the DSA's latest Sealing Optimization Release and upcoming reference architectures for the ecosystem.  "
+        "name": "If you go down to the woods today .. Tales from Fo",
+        "description": "Speaker: Aatif Syed\n\nDescription: Join for an update on the Forest Roadmap, a Filecoin implementation"
       },
       {
         "start_date": "2023-11-14T10:00:00.000Z",
@@ -180,6 +180,6 @@
     "custom_fields": []
   },
   "createdAt": "2023-11-07T14:50:33.663Z",
-  "updatedAt": "2023-11-13T08:49:18.187Z",
+  "updatedAt": "2023-11-13T15:14:00.507Z",
   "priority": 17
 }
