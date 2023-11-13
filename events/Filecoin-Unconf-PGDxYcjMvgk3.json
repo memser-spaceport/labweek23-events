@@ -17,7 +17,7 @@
   "access_type": "CUSTOM_REGISTRATION",
   "access_option": "OPEN",
   "format": "HYBRID",
-  "location": "Swissôtel",
+  "location": "Swissôtel - Zurich (7th Floor), Eiger, Matterhorn, Monch, Mont Blanc (10th Floor)",
   "location_url": "https://maps.app.goo.gl/Kk3AUPGc5oxRoJ6y5",
   "meeting_platform": "",
   "seat_count": "50-100",
@@ -108,5 +108,5 @@
     "custom_fields": []
   },
   "createdAt": "2023-11-09T18:06:50.566Z",
-  "updatedAt": "2023-11-12T05:52:31.400Z"
+  "updatedAt": "2023-11-13T08:47:54.572Z"
 }
