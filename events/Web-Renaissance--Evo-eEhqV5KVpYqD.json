@@ -19,7 +19,7 @@
       "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1695470423782_490.jpeg"
     }
   ],
-  "description": "Unlocking Tomorrow's Internet at LabWeek23 with Neonyx.\n\nJoin us for a web evolution at LabWeek! Neonyx is a startup that enhances the modern internet, eliminating a number of its shortcomings, the primary one being the lack of control. Neonyx develops a suite of tools for developers, creating the opportunity to build applications that are free from these flaws, in a decentralized, open Neonyx Ecosystem. This set (stack) of technologies is named Neonyx Base, as it forms the foundation for creating a new internet.\n\nWhat you can Discover:\n\n- Cutting-edge Tech, including Blockchain, IPFS, and DHT Innovations\n- Digital Empowerment\n- Seamless Interoperability\n- Privacy & Security\n- A Borderless Web\n\nShape the digital horizon with us! Welcome to the future!",
+  "description": "Unlocking Tomorrow's Internet at LabWeek23 with Neonyx.\n\nJoin us for a web evolution at LabWeek! Neonyx is a startup that enhances the modern internet, eliminating a number of its shortcomings, the primary one being the lack of control. Neonyx develops a suite of tools for developers, creating the opportunity to build applications that are free from these flaws, in a decentralized, open Neonyx Ecosystem. This set (stack) of technologies is named Neonyx Base, as it forms the foundation for creating a new internet.\n\nWhat you can Discover:\n\nRebuilding the web with Neonyx\n\nWe create the most efficient decentralised cloud storage for private and public data. With this we create a social network where the user stores all his data in this cloud under his control and can choose the location of his data and the degree of decentralisation.\n\n\n\nImmersive Holographic Show: Witness the future of digital interaction with our exclusive holographic presentation at LabWeek23. Our friendly, relaxed atmosphere provides the perfect backdrop for networking, learning, and experiencing the digital evolution in real time.\n\n\n\nExclusive Merch & Community: Collect limited-edition Neonyx merchandise and join a community driving the internet's evolution. LabWeek23 is more than a conference - it's a step towards a user-empowered digital world.\nP.S. Afterparty included 😎 \n\nShape the digital horizon with us! Welcome to the future!",
   "tags": [
     "Talks & Presentation",
     "Future of Web",
@@ -31,7 +31,7 @@
     "SocialApp",
     "DecentralizedCloudStorage"
   ],
-  "start_date": "2023-11-14T09:00:00.000Z",
+  "start_date": "2023-11-14T08:00:00.000Z",
   "end_date": "2023-11-14T15:00:00.000Z",
   "access_type": "IN-HOUSE_REGISTRATION",
   "access_option": "OPEN",
@@ -42,7 +42,50 @@
   "registration_link": "https://neonyx.io/",
   "website_link": "https://neonyx.io/",
   "agenda": {
-    "sessions": []
+    "sessions": [
+      {
+        "start_date": "2023-11-14T08:00:00.000Z",
+        "end_date": "2023-11-14T09:00:00.000Z",
+        "name": "Accumulation"
+      },
+      {
+        "start_date": "2023-11-14T09:00:00.000Z",
+        "end_date": "2023-11-14T09:35:00.000Z",
+        "name": "Neonyx. A newest way to create internet services"
+      },
+      {
+        "start_date": "2023-11-14T09:35:00.000Z",
+        "end_date": "2023-11-14T09:50:00.000Z",
+        "name": "DJ Sounds",
+        "description": "Just vibe "
+      },
+      {
+        "start_date": "2023-11-14T09:50:00.000Z",
+        "end_date": "2023-11-14T10:20:00.000Z",
+        "name": "Digital Identity Problems. Neonyx Solutions"
+      },
+      {
+        "start_date": "2023-11-14T10:20:00.000Z",
+        "end_date": "2023-11-14T11:20:00.000Z",
+        "name": "Lunch & Music"
+      },
+      {
+        "start_date": "2023-11-14T11:20:00.000Z",
+        "end_date": "2023-11-14T12:00:00.000Z",
+        "name": "A lifecylce of Neonyx applications"
+      },
+      {
+        "start_date": "2023-11-14T12:10:00.000Z",
+        "end_date": "2023-11-14T12:40:00.000Z",
+        "name": "B4B Partnership presentation"
+      },
+      {
+        "start_date": "2023-11-14T13:20:00.000Z",
+        "end_date": "2023-11-14T15:00:00.000Z",
+        "name": "Afterparty",
+        "description": "Sounds. Networking. Entertainment. "
+      }
+    ]
   },
   "sponsors": [],
   "is_featured": false,
@@ -158,7 +201,7 @@
       "https://discord.gg/neonyx"
     ]
   },
-  "updatedAt": "2023-11-13T08:52:07.639Z",
+  "updatedAt": "2023-11-13T09:53:55.932Z",
   "co_hosts": [
     {
       "name": "Michael",
