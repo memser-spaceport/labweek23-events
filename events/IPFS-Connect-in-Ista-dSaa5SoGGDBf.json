@@ -16,7 +16,7 @@
   "access_type": "CUSTOM_REGISTRATION",
   "access_option": "PAID",
   "format": "HYBRID",
-  "location": "Swissôtel (7th floor)",
+  "location": "Swissôtel - Neuchatel, Geneve & Luzern, Zurich, & Asuka Ballroom7th floor)",
   "seat_count": "400-500",
   "website_link": "https://istanbul2023.ipfsconnect.org/",
   "agenda": {
@@ -46,7 +46,8 @@
   },
   "meeting_platform": "",
   "registration_link": "https://lu.ma/ipfs-connect-istanbul",
-  "updatedAt": "2023-11-04T05:13:38.821Z",
+  "updatedAt": "2023-11-13T09:08:36.451Z",
   "co_hosts": [],
-  "secondary_contacts": []
+  "secondary_contacts": [],
+  "priority": 17
 }
