@@ -20,7 +20,7 @@
   "access_type": "IN-HOUSE_REGISTRATION",
   "access_option": "OPEN",
   "format": "IN-PERSON",
-  "location": "Swissôtel",
+  "location": "Swissôtel - Bern (5th Floor)",
   "seat_count": "50-100",
   "agenda": {
     "sessions": [
@@ -163,7 +163,7 @@
   },
   "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1697140613722_829.png",
   "meeting_platform": "",
-  "updatedAt": "2023-10-31T15:24:34.200Z",
+  "updatedAt": "2023-11-13T08:42:10.275Z",
   "co_hosts": [
     {
       "name": "Rymedi",
