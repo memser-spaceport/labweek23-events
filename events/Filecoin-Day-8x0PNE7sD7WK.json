@@ -16,7 +16,7 @@
   "access_type": "CUSTOM_REGISTRATION",
   "access_option": "OPEN",
   "format": "IN-PERSON",
-  "location": "Asuka Ballroom at the Swissôtel The Bosphorus Istanbul",
+  "location": "Swissôtel The Bosphorus Istanbul - Asuka Ballroom (7th Floor)",
   "location_url": "https://maps.app.goo.gl/LiJyjtWSuAQdrJT97",
   "meeting_platform": "",
   "seat_count": "100-200",
@@ -180,6 +180,6 @@
     "custom_fields": []
   },
   "createdAt": "2023-11-07T14:50:33.663Z",
-  "updatedAt": "2023-11-12T06:12:26.368Z",
+  "updatedAt": "2023-11-13T08:49:18.187Z",
   "priority": 17
 }
