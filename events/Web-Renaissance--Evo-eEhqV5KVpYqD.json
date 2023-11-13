@@ -36,7 +36,7 @@
   "access_type": "IN-HOUSE_REGISTRATION",
   "access_option": "OPEN",
   "format": "IN-PERSON",
-  "location": "Swissôtel",
+  "location": "Swissôtel - Geneve & Luzern (7th Floor)",
   "meeting_platform": "",
   "seat_count": "100-200",
   "registration_link": "https://neonyx.io/",
@@ -158,7 +158,7 @@
       "https://discord.gg/neonyx"
     ]
   },
-  "updatedAt": "2023-11-02T11:14:00.580Z",
+  "updatedAt": "2023-11-13T08:52:07.639Z",
   "co_hosts": [
     {
       "name": "Michael",
@@ -174,5 +174,6 @@
     }
   ],
   "location_url": "https://maps.app.goo.gl/JXnJXD5w6MpAtLNT9",
-  "secondary_contacts": []
+  "secondary_contacts": [],
+  "priority": 13
 }
