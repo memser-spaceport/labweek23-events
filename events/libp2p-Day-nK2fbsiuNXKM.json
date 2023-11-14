@@ -11,7 +11,7 @@
       "logo": ""
     }
   ],
-  "description": "A day long track to discuss libp2p developments from the ecosystem, libp2p + privacy, new work on the DHT from ProbeLab, and more!\nlibp2p Day 2023 is a watering hole for the libp2p community. This is not a Protocol Labs dominated event (in fact, many of the PL maintainers will be unable to attend). The organizers hope the libp2p community feels empowered to share anything ranging from recent wins, updates, current challenges, deep dives, demos, etc. This can range from a quick lightning talk, show-and-tell demo, to a more thorough deep dive. Anything is welcome - there is no prescribed formula here!\n\nFor more information on the day's schedule and other info, please see: https://github.com/libp2p/specs/discussions/591",
+  "description": "Location:  Neuchatel (7th floor) - Swissôtel - A day long track to discuss libp2p developments from the ecosystem, libp2p + privacy, new work on the DHT from ProbeLab, and more!\nlibp2p Day 2023 is a watering hole for the libp2p community. This is not a Protocol Labs dominated event (in fact, many of the PL maintainers will be unable to attend). The organizers hope the libp2p community feels empowered to share anything ranging from recent wins, updates, current challenges, deep dives, demos, etc. This can range from a quick lightning talk, show-and-tell demo, to a more thorough deep dive. Anything is welcome - there is no prescribed formula here!\n\nFor more information on the day's schedule and other info, please see: https://github.com/libp2p/specs/discussions/591",
   "tags": [
     "Talks & Presentation"
   ],
@@ -20,7 +20,7 @@
   "access_type": "IN-HOUSE_REGISTRATION",
   "access_option": "OPEN",
   "format": "IN-PERSON",
-  "location": "Swissôtel-Neuchatel (7th floor)",
+  "location": "Neuchatel (7th floor) - Swissôtel",
   "meeting_platform": "",
   "seat_count": "1-50",
   "agenda": {
@@ -200,7 +200,7 @@
   },
   "registration_link": "",
   "website_link": "",
-  "updatedAt": "2023-11-10T18:22:44.094Z",
+  "updatedAt": "2023-11-14T11:14:20.674Z",
   "co_hosts": [
     {
       "name": "js-libp2p",
@@ -217,5 +217,5 @@
       "email": "david.huseby@protocol.ai"
     }
   ],
-  "priority": 1
+  "priority": 15
 }
