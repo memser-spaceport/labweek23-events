@@ -53,7 +53,7 @@
         "start_date": "2023-11-16T07:30:00.000Z",
         "end_date": "2023-11-16T07:50:00.000Z",
         "name": "InterPlanetary Consensus: Scaling Web3 for Devs",
-        "description": "Speaker: Parth Pathak, General Manager of IPC\n\nThis talk will describe how InterPlanetary Consensus (IPC) is a transformative blockchain stack that enables planetary-scale performance by introducing the pioneering approach of recursively scalable blockchains, with <1s transactions, infra-level compute workloads, and customizable runtime modules. This pioneering approach creates infinitely scalable networks, forming dynamic tree networks of recursive blockchains, or \"subnets.\" IPC's mission is to bridge the performance and usability gap between Web2 and Web3, powering a decentralized planetary-scale economy with unmatched speed and functionality comparable to centralized systems."
+        "description": "Speaker: Parth Pathak, General Manager of IPC.\n\nThis talk will describe how InterPlanetary Consensus (IPC) is a transformative blockchain stack that enables planetary-scale performance by introducing the pioneering approach of recursively scalable blockchains, with <1s transactions, infra-level compute workloads, and customizable runtime modules. This pioneering approach creates infinitely scalable networks, forming dynamic tree networks of recursive blockchains, or \"subnets.\" IPC's mission is to bridge the performance and usability gap between Web2 and Web3, powering a decentralized planetary-scale economy with unmatched speed and functionality comparable to centralized systems."
       },
       {
         "start_date": "2023-11-16T07:50:00.000Z",
@@ -284,7 +284,7 @@
   "meeting_platform": "",
   "registration_link": "https://istanbul.ipc.space",
   "website_link": "https://istanbul.ipc.space",
-  "updatedAt": "2023-11-14T14:11:39.511Z",
+  "updatedAt": "2023-11-14T14:12:06.430Z",
   "co_hosts": [
     {
       "name": "Outercore",
