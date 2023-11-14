@@ -33,15 +33,21 @@
       },
       {
         "start_date": "2023-11-15T07:30:00.000Z",
-        "end_date": "2023-11-15T08:00:00.000Z",
-        "name": "libp2p Project Update",
-        "description": "Speaker: Juan Benet/Raul Kripalani. In this talk, Juan and Raul will give an update about the current state of the libp2p project and the future of the libp2p ecosystem"
+        "end_date": "2023-11-15T07:45:00.000Z",
+        "name": "Onboarding devs w/ libp2p Universal Connectivity",
+        "description": "Speaker: Daniel Norman. In this talk, Daniel will go over \"Onboarding more developers to libp2p with the universal connectivity app.\"\n\np2p is hard. If you're unfamiliar with libp2p, it can be intimidating. The universal-connectivity example showcases how neatly libp2p abstracts ubiquitous peer-to-peer connectivity between multiple programming languages (Go, Rust, TypeScript) and runtimes (Web, native binary) using QUIC, WebRTC and WebTransport.\n\nBut it's still missing some key parts like ambient peer discovery for it to be a forkable example that can also serve as an educational resource. This takes away from the potential magic it could offer.\n\nIn this brief talk, he'll explore:\n\nWhy universal-connectivity is so important for the libp2p project\nHow we can use it to onboard more developers to using libp2p\nChallenges with peer discovery and some of the explored solutions\nAdditional use-cases the app could explore\n\n"
       },
       {
-        "start_date": "2023-11-15T08:00:00.000Z",
-        "end_date": "2023-11-15T08:20:00.000Z",
+        "start_date": "2023-11-15T07:45:00.000Z",
+        "end_date": "2023-11-15T08:05:00.000Z",
         "name": "Full Stack rust-libp2p apps, with Wasm and WebRTC",
         "description": "Speaker: Doug Anderson. In this talk, Doug will present his vision for the future of the internet, which will be built upon libp2p (and now Wasm!) rust-libp2p now has browser WebRTC transport access, here are some insights and pointers on how to build Wasm libp2p apps moving forward now that we have great Wasm transports.\n\n"
+      },
+      {
+        "start_date": "2023-11-15T08:05:00.000Z",
+        "end_date": "2023-11-15T08:20:00.000Z",
+        "name": "AutoNatv2",
+        "description": "Speaker: Sukun. In this talk, Sukun from the go-libp2p team will go over the new AutoNatv2 Protocol."
       },
       {
         "start_date": "2023-11-15T08:20:00.000Z",
@@ -81,15 +87,9 @@
       },
       {
         "start_date": "2023-11-15T11:10:00.000Z",
-        "end_date": "2023-11-15T11:25:00.000Z",
-        "name": "AutoNatv2",
-        "description": "Speaker: Sukun. In this talk, Sukun from the go-libp2p team will go over the new AutoNatv2 Protocol."
-      },
-      {
-        "start_date": "2023-11-15T11:25:00.000Z",
         "end_date": "2023-11-15T11:40:00.000Z",
-        "name": "Onboarding devs w/ libp2p Universal Connectivity",
-        "description": "Speaker: Daniel Norman. In this talk, Daniel will go over \"Onboarding more developers to libp2p with the universal connectivity app.\"\n\np2p is hard. If you're unfamiliar with libp2p, it can be intimidating. The universal-connectivity example showcases how neatly libp2p abstracts ubiquitous peer-to-peer connectivity between multiple programming languages (Go, Rust, TypeScript) and runtimes (Web, native binary) using QUIC, WebRTC and WebTransport.\n\nBut it's still missing some key parts like ambient peer discovery for it to be a forkable example that can also serve as an educational resource. This takes away from the potential magic it could offer.\n\nIn this brief talk, he'll explore:\n\nWhy universal-connectivity is so important for the libp2p project\nHow we can use it to onboard more developers to using libp2p\nChallenges with peer discovery and some of the explored solutions\nAdditional use-cases the app could explore\n\n"
+        "name": "LevelingUp libp2p:Foundation & PublicGoods Funding",
+        "description": "Speaker: Juan Benet/Raul Kripalani. In this talk, Raul and Juan will describe upcoming plans to level up the project, including forming a foundation to steward the project and public goods funding mechanisms to support development & grow the project."
       },
       {
         "start_date": "2023-11-15T11:40:00.000Z",
@@ -244,7 +244,7 @@
   },
   "registration_link": "",
   "website_link": "",
-  "updatedAt": "2023-11-14T21:05:13.067Z",
+  "updatedAt": "2023-11-14T23:26:08.566Z",
   "co_hosts": [
     {
       "name": "js-libp2p",
