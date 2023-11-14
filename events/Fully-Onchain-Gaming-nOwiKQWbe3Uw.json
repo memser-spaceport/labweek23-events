@@ -2,7 +2,7 @@
   "event_contact_name": "Jose Betancourt",
   "event_contact_email": "jose@ontropy.io",
   "secondary_contacts": [],
-  "event_name": "Fully Onchain Gaming Day",
+  "event_name": "Workable Web3 Summit",
   "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1696961051380_687.png",
   "host": "Ontropy",
   "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1696960579147_242.png",
@@ -16,7 +16,7 @@
       "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1696960731238_904.png"
     }
   ],
-  "description": "Welcome to Fully Onchain Gaming Day hosted by Ontropy, Manta Network and Yale Blockchain. We are thrilled to announce a variety industry leading onchain gaming founders, researchers and investors, all whom can shed a light on the up and coming trends and technologies in the space. *Speaker line-ups and agenda will be posted shortly",
+  "description": "Welcome to Workable Web3 Summit hosted by Virtual Labs (Formerly Ontropy) and Manta Network with partners from Native, OP Crypto, Yale Blockchain, Decrypt, and Biconomy. We are thrilled to announce a variety industry leading UX product designers, gaming founders, abstraction experts, researchers and investors, and more building towards mainstream adoption.  Due to demand, we have increased capacity of the event. Join the official Telegram chat here (https://t.me/workableweb3).",
   "tags": [
     "Talks & Presentation"
   ],
@@ -149,7 +149,7 @@
     ]
   },
   "createdAt": "2023-10-10T18:06:07.967Z",
-  "updatedAt": "2023-11-14T09:00:41.491Z",
+  "updatedAt": "2023-11-14T11:26:45.830Z",
   "registration_link": "https://lu.ma/workable",
   "priority": 11
 }
