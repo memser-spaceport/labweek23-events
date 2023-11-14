@@ -7,7 +7,7 @@
   "host": "The PREDA Team",
   "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1699241886550_372.png",
   "co_hosts": [],
-  "description": "Hackathon Introduction - Welcome onboard! We're thrilled to introduce you to PREDA (https://www.preda-lang.org/), a revolutionary programming model designed to scale out general smart contracts. This virtual hackathon is tailored for blockchain builders, developers, entrepreneurs, and anyone eager to supercharge the scalability of their DApps and protocols, harnessing the power of PREDA. By participating in this event, you'll get your hands on powerful tools, dive into the latest technology sharing, and receive wholehearted support from experts who know the ins and outs of programming with PREDA. Beyond that, there's a chance for you to snatch a piece of the '10K USDT' reward pie, register for the hackathon now to secure a spot, and be part of this evolution! About PREDA (https://www.preda-lang.org/)- PREDA is a novel programming model for scaling out any general smart contract. This is achieved by partitioning the smart contract state and dividing the transaction traffic, which are jointly handled by multiple independent virtual machines that can be distributed and parallelized. We implemented the PREDA model by extending the Solidity language, which demonstrates that popular smart contracts with different levels of complexity can be rewritten to gain scalability without taking care of the details of the underlying distributed system. Check out our PAPER (https://www.preda-lang.org/pdf/preda-model-sole.pdf) to delve further into PREDA, and how PREDA extends Solidity to achieve significant performance and scalability advantages.",
+  "description": "<h1 class=\"editor-heading-h1\" dir=\"ltr\"><span style=\"white-space: pre-wrap;\">Hackathon Introduction</span></h1><p class=\"editor-paragraph\" dir=\"ltr\"><br></p><p class=\"editor-paragraph\" dir=\"ltr\"><span style=\"white-space: pre-wrap;\">Welcome onboard! We're thrilled to introduce you to </span><a href=\"https://www.preda-lang.org/\" target=\"_blank\" rel=\"noreferrer\" class=\"editor-link\"><span style=\"white-space: pre-wrap;\">PREDA</span></a><span style=\"white-space: pre-wrap;\">, a revolutionary programming model designed to scale out general smart contracts. This virtual hackathon is tailored for blockchain builders, developers, entrepreneurs, and anyone eager to supercharge the scalability of their DApps and protocols, harnessing the power of PREDA.</span></p><p class=\"editor-paragraph\" dir=\"ltr\"><br></p><p class=\"editor-paragraph\" dir=\"ltr\"><span style=\"white-space: pre-wrap;\">By participating in this event, you'll get your hands on powerful tools, dive into the latest technology sharing, and receive wholehearted support from experts who know the ins and outs of programming with PREDA.</span></p><p class=\"editor-paragraph\" dir=\"ltr\"><br></p><p class=\"editor-paragraph\" dir=\"ltr\"><span style=\"white-space: pre-wrap;\">Beyond that, there's a chance for you to snatch a piece of the </span><b><strong class=\"editor-text-bold\" style=\"white-space: pre-wrap;\">10K USDT</strong></b><span style=\"white-space: pre-wrap;\"> reward pie, register for the hackathon now to secure a spot, and be part of this evolution!</span></p><p class=\"editor-paragraph\"><br></p><h2 class=\"editor-heading-h2\" dir=\"ltr\"><span style=\"white-space: pre-wrap;\">About </span><a href=\"https://www.preda-lang.org/\" target=\"_blank\" rel=\"noreferrer\" class=\"editor-link\"><span style=\"white-space: pre-wrap;\">PREDA</span></a></h2><p class=\"editor-paragraph\" dir=\"ltr\"><br></p><p class=\"editor-paragraph\" dir=\"ltr\"><span style=\"white-space: pre-wrap;\">PREDA is a&nbsp;</span><b><strong class=\"editor-text-bold\" style=\"white-space: pre-wrap;\">novel programming model</strong></b><span style=\"white-space: pre-wrap;\">&nbsp;for </span><b><strong class=\"editor-text-bold\" style=\"white-space: pre-wrap;\">scaling out any general smart contract</strong></b><span style=\"white-space: pre-wrap;\">. This is achieved by partitioning the smart contract state and dividing the transaction traffic, which are jointly handled by multiple independent virtual machines that can be distributed and parallelized.</span></p><p class=\"editor-paragraph\" dir=\"ltr\"><br></p><p class=\"editor-paragraph\" dir=\"ltr\"><span style=\"white-space: pre-wrap;\">We implemented the PREDA model by&nbsp;</span><b><strong class=\"editor-text-bold\" style=\"white-space: pre-wrap;\">extending the Solidity language</strong></b><span style=\"white-space: pre-wrap;\">, which demonstrates that popular smart contracts with different levels of complexity can be rewritten to gain scalability without taking care of the details of the underlying distributed system.</span></p><p class=\"editor-paragraph\" dir=\"ltr\"><br></p><p class=\"editor-paragraph\" dir=\"ltr\"><span style=\"white-space: pre-wrap;\">Check out&nbsp;</span><a href=\"https://www.preda-lang.org/pdf/preda-model-sole.pdf\" target=\"_blank\" rel=\"noreferrer\" class=\"editor-link\"><span style=\"white-space: pre-wrap;\">our PAPER</span></a><span style=\"white-space: pre-wrap;\">&nbsp;to delve further into PREDA, and how PREDA extends Solidity to achieve significant performance and scalability advantages.</span></p>",
   "tags": [
     "Hackathon",
     "Workshop",
@@ -39,6 +39,84 @@
   },
   "is_featured": false,
   "conference": "labweek-23",
+  "nft_ticketing": {
+    "host_wallet_address": "",
+    "verifier_wallet_addresses": [],
+    "verifier_email_addresses": [],
+    "custom_event_URL": "predahackathon",
+    "pattern": 1,
+    "hide_event_logo": false,
+    "hide_attendees": false,
+    "ticketing_provider": "UNLOCK",
+    "default_fields": [],
+    "additional_fields": [
+      {
+        "order": 1,
+        "type": "text",
+        "name": "company",
+        "label": "Team or Project",
+        "key": "company",
+        "value": 0,
+        "placeholder_text": "Name of the Team or Project"
+      },
+      {
+        "order": 2,
+        "type": "text",
+        "name": "job_itle",
+        "label": "Job Title",
+        "key": "job_title",
+        "value": 0,
+        "placeholder_text": "Current Job Title or Position"
+      },
+      {
+        "order": 3,
+        "type": "text",
+        "name": "telegram",
+        "label": "Telegram",
+        "key": "telegram",
+        "value": 0,
+        "placeholder_text": "Telegram Handle/URL"
+      },
+      {
+        "order": 4,
+        "type": "text",
+        "name": "twitter",
+        "label": "Twitter",
+        "key": "twitter",
+        "value": 0,
+        "placeholder_text": "Twitter Handle/URL"
+      },
+      {
+        "order": 5,
+        "type": "text",
+        "name": "dietary_restrictions",
+        "label": "Dietary Restrictions",
+        "key": "dietary_restrictions",
+        "value": 0,
+        "placeholder_text": "Enter Any Food Allergies or Restrictions"
+      },
+      {
+        "order": 6,
+        "type": "text",
+        "name": "wallet_address",
+        "label": "Wallet Address",
+        "key": "wallet_address",
+        "value": 1,
+        "placeholder_text": "Enter FEVM, ETH Address or ENS"
+      },
+      {
+        "order": 8,
+        "type": "checkbox",
+        "name": "communication_consent",
+        "label": "I agree to receive communication from Protocol Labs",
+        "key": "communication_consent",
+        "value": 1,
+        "placeholder_text": "I agree to receive communication from Protocol Labs",
+        "alt": "GDPR Consent (yes/no)"
+      }
+    ],
+    "custom_fields": []
+  },
   "createdAt": "2023-11-06T03:43:28.954Z",
-  "updatedAt": "2023-11-06T03:43:28.954Z"
+  "updatedAt": "2023-11-14T18:50:44.147Z"
 }
