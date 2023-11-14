@@ -29,7 +29,7 @@
   "location_url": "https://www.google.com/maps/search/?api=1&query=Sofitel%20Istanbul%20Taksim&query_place_id=ChIJGS8FGfe3yhQRG0pkuRAfJAU",
   "meeting_platform": "",
   "seat_count": "100-200",
-  "website_link": "https://lu.ma/gcxez81l",
+  "website_link": "https://lu.ma/workable",
   "agenda": {
     "sessions": []
   },
@@ -149,6 +149,7 @@
     ]
   },
   "createdAt": "2023-10-10T18:06:07.967Z",
-  "updatedAt": "2023-10-31T15:41:59.944Z",
-  "registration_link": "https://lu.ma/gcxez81l"
+  "updatedAt": "2023-11-14T09:00:41.491Z",
+  "registration_link": "https://lu.ma/workable",
+  "priority": 11
 }
