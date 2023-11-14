@@ -26,27 +26,16 @@
   "agenda": {
     "sessions": [
       {
-        "start_date": "2023-11-15T06:00:00.000Z",
-        "end_date": "2023-11-15T06:25:00.000Z",
+        "start_date": "2023-11-15T07:00:00.000Z",
+        "end_date": "2023-11-15T07:15:00.000Z",
+        "name": "libp2p 2023 Lookback",
+        "description": "Speaker: Steve Loeppky. In this talk, Steve will review some of the libp2p accomplishments from 2023"
+      },
+      {
+        "start_date": "2023-11-15T07:30:00.000Z",
+        "end_date": "2023-11-15T08:00:00.000Z",
         "name": "libp2p Project Update",
         "description": "Speaker: Juan Benet/Raul Kripalani. In this talk, Juan and Raul will give an update about the current state of the libp2p project and the future of the libp2p ecosystem"
-      },
-      {
-        "start_date": "2023-11-15T06:30:00.000Z",
-        "end_date": "2023-11-15T06:50:00.000Z",
-        "name": "rust-libp2p + Wasm",
-        "description": "Speaker: Doug Anderson. In this talk, Doug will present his vision for the future of the internet, which will be built upon libp2p (and now Wasm!)"
-      },
-      {
-        "start_date": "2023-11-15T06:55:00.000Z",
-        "end_date": "2023-11-15T07:15:00.000Z",
-        "name": "TBD",
-        "description": "Speaker: Wondertan. In this talk, @Wondertan of Celestia will give a presentation on how Celestia uses libp2p and more!"
-      },
-      {
-        "start_date": "2023-11-15T07:20:00.000Z",
-        "end_date": "2023-11-15T07:30:00.000Z",
-        "name": "COFFEE BREAK"
       },
       {
         "start_date": "2023-11-15T07:35:00.000Z",
@@ -57,8 +46,20 @@
       {
         "start_date": "2023-11-15T08:00:00.000Z",
         "end_date": "2023-11-15T08:20:00.000Z",
+        "name": "rust-libp2p + Wasm",
+        "description": "Speaker: Doug Anderson. In this talk, Doug will present his vision for the future of the internet, which will be built upon libp2p (and now Wasm!)"
+      },
+      {
+        "start_date": "2023-11-15T08:00:00.000Z",
+        "end_date": "2023-11-15T08:20:00.000Z",
         "name": "Javascript libp2p v1.0!",
         "description": "Speaker: Cayman Nava. js-libp2p is fast approaching its v1.0 release (which may be released on libp2p day or shortly thereafter).\nCayman, maintainer of js-libp2p from ChainSafe Systems, will share the big struggles and wins behind the past 2 years of js-libp2p development. He'll also giving a glimpse of the priorities for the next 6 months."
+      },
+      {
+        "start_date": "2023-11-15T08:20:00.000Z",
+        "end_date": "2023-11-15T08:40:00.000Z",
+        "name": "Data Availability and Data Reconstruction over p2p",
+        "description": "Speaker: Wondertan. In this talk, @Wondertan of Celestia will give a presentation  on the DA problem, it's importance, existing solutions, and what has yet to be solved."
       },
       {
         "start_date": "2023-11-15T08:25:00.000Z",
@@ -200,7 +201,7 @@
   },
   "registration_link": "",
   "website_link": "",
-  "updatedAt": "2023-11-14T11:14:20.674Z",
+  "updatedAt": "2023-11-14T20:18:27.341Z",
   "co_hosts": [
     {
       "name": "js-libp2p",
