@@ -116,7 +116,7 @@
       {
         "start_date": "2023-11-16T12:00:00.000Z",
         "end_date": "2023-11-16T12:30:00.000Z",
-        "name": "🪧 Fluence: a decentralized serverless computing ",
+        "name": "Fluence: a decentralized serverless computing ",
         "description": "Speaker: Evgeny Ponomarev, founder of Fluence.\n\nIn this presentation, Evgeny explains Fluence and how developers can use it for decentralized computations. He describes Fluence's technical architecture and how it uses IPC (interplanetary consensus) to scale its blockchain component. Fluence is a global, secure, and scalable serverless platform and computing marketplace. Developers can build and deploy applications on Fluence, where providers compete based on price and performance to serve applications and earn rewards."
       },
       {
@@ -131,10 +131,46 @@
         "description": "Speaker: Patrick Woodhead, Lab Lead @ Protocol Labs.\n\nSpark is a trustless retrieval sampling protocol for Filecoin. When you download Station, you will start running Spark jobs on your home computer, which means you are contributing your resources to improving the Filecoin Network. What's more, Station operators are rewarded for running Spark jobs but, in order to do this at scale, we will require IPC subnets. The Station team is a proud launch partner for IPC as we aim to reward thousands of Station operators for running Spark.\n\nIn this talk, we will explain how Spark works and how it takes advantage of IPC scaling technology to improve user experience and reduce overhead costs. We will also talk about Meridian, a framework for top-upable block rewards that powers Spark."
       },
       {
+        "start_date": "2023-11-16T13:00:00.000Z",
+        "end_date": "2023-11-16T13:15:00.000Z",
+        "name": "⚡️IPC-Based Decentralized Content Delivery Network",
+        "description": "Join us in the unveiling of Sinso, a cutting-edge Web3 infrastructure that revolutionizes decentralized data caching and governance services. Discover how Sinso harnesses the power of Interplanetary Consensus (IPC), a robust layered task framework that amplifies blockchain computational capabilities on the Filecoin network."
+      },
+      {
+        "start_date": "2023-11-16T13:15:00.000Z",
+        "end_date": "2023-11-16T13:30:00.000Z",
+        "name": "⚡️ An overview of IPC development",
+        "description": "In this lightning talk, Carson Farmer from Tableland will share his notes on his team’s practical experience building IPC subnets."
+      },
+      {
+        "start_date": "2023-11-16T13:30:00.000Z",
+        "end_date": "2023-11-16T13:40:00.000Z",
+        "name": "⚡How to build a fully on-chain poker game with IPC",
+        "description": "In this talk, Marko Vucolic, the head of Consensus Labs, will share an exploratory design of the fully on-chain Poker game that takes advantage of IPC subchains and ephemeral chains."
+      },
+      {
+        "start_date": "2023-11-16T13:40:00.000Z",
+        "end_date": "2023-11-16T13:50:00.000Z",
+        "name": "⚡️ How to build a fully on-chain MMO?",
+        "description": "In this talk, Juan Benet, CEO of Protocol Labs, will share his vision of building a fully on-chain massive multiplayer online (MMO) games using IPC."
+      },
+      {
         "start_date": "2023-11-16T13:45:00.000Z",
         "end_date": "2023-11-16T14:00:00.000Z",
         "name": "👨‍💻 Workshop: Using Lilypad with IPC",
         "description": "Location: Montreaux, 5th floor.\nFacilitator: Richard Blythman, Lilypad.\n\nIn this workshop, we’ll dive into the Lilypad technicals and give you a hands-on demo on how to use the Lilypad compute network in your decentralized application for running AI, ML, DeSci & other arbitrary compute functionality directly from a smart contract."
+      },
+      {
+        "start_date": "2023-11-16T13:50:00.000Z",
+        "end_date": "2023-11-16T14:00:00.000Z",
+        "name": "⚡️ How to build a fully on-chain productivity app?",
+        "description": "In this talk, Mikhail Turilin, product manager for IPC, will share a speculative design of fully on-chain shared document apps."
+      },
+      {
+        "start_date": "2023-11-16T13:50:00.000Z",
+        "end_date": "2023-11-16T14:00:00.000Z",
+        "name": "⚡️ On-chain dataset labeling for AI applications",
+        "description": "In this talk, JC Zhang, the founder of MoveSpace, will share his vision on storing ML data labeling on-chain using IPC for increased transparency and shared ownership of data."
       }
     ]
   },
@@ -248,7 +284,7 @@
   "meeting_platform": "",
   "registration_link": "https://istanbul.ipc.space",
   "website_link": "https://istanbul.ipc.space",
-  "updatedAt": "2023-11-14T13:58:19.353Z",
+  "updatedAt": "2023-11-14T14:11:39.511Z",
   "co_hosts": [
     {
       "name": "Outercore",
