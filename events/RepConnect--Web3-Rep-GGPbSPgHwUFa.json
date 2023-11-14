@@ -6,7 +6,7 @@
   "host": "Ceramic",
   "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1695156174869_977.png",
   "co_host": [],
-  "description": "RepConnect is setting the stage to enlighten the web3 community about how reputation is revolutionizing the decentralized space – from dApps and DeFi, to DAOs, DeSci, AI, and loyalty systems.\n\nWe're gathering top projects and leading thinkers from the reputation and identity worlds for one purpose: to discuss our shared future. The space is evolving, and the impact being created is undeniable.\n\nJoin us for a transformative day of insightful keynotes, impactful panel discussions, and networking with peers and trailblazers who are redefining reputation, badging and identity in the web3 ecosystem. We've meticulously curated a lineup of speakers poised to equip you with innovative strategies and profound insights.",
+  "description": "Location:  Geneve and Luzern (7th floor) - Swissôtel - RepConnect is setting the stage to enlighten the web3 community about how reputation is revolutionizing the decentralized space – from dApps and DeFi, to DAOs, DeSci, AI, and loyalty systems.\n\nWe're gathering top projects and leading thinkers from the reputation and identity worlds for one purpose: to discuss our shared future. The space is evolving, and the impact being created is undeniable.\n\nJoin us for a transformative day of insightful keynotes, impactful panel discussions, and networking with peers and trailblazers who are redefining reputation, badging and identity in the web3 ecosystem. We've meticulously curated a lineup of speakers poised to equip you with innovative strategies and profound insights.",
   "tags": [
     "Talks & Presentation",
     "Summit"
@@ -16,7 +16,7 @@
   "access_type": "CUSTOM_REGISTRATION",
   "access_option": "OPEN",
   "format": "IN-PERSON",
-  "location": "Swissôtel-Geneve and Luzern (7th floor)",
+  "location": "Geneve and Luzern (7th floor) - Swissôtel",
   "meeting_platform": "",
   "seat_count": "1-50",
   "website_link": "https://ceramic.network",
@@ -74,7 +74,7 @@
       }
     ]
   },
-  "updatedAt": "2023-11-04T05:14:09.677Z",
+  "updatedAt": "2023-11-14T11:15:04.040Z",
   "co_hosts": [
     {
       "name": "Veramo Labs",
