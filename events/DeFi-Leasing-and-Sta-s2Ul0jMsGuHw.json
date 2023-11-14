@@ -36,8 +36,8 @@
       {
         "start_date": "2023-11-15T06:15:00.000Z",
         "end_date": "2023-11-15T06:45:00.000Z",
-        "name": "CollectifDAO DeepDive",
-        "description": "The CollectifDAO team takes you into a high level overview of their DeFi liquid staking platform."
+        "name": "web3mine Deep Dive",
+        "description": "Join the web3mine team as they present a demo of their staking product and shed light on the future product roadmap"
       },
       {
         "start_date": "2023-11-15T06:45:00.000Z",
@@ -48,8 +48,8 @@
       {
         "start_date": "2023-11-15T07:00:00.000Z",
         "end_date": "2023-11-15T07:30:00.000Z",
-        "name": "web3mine Deep Dive",
-        "description": "Join the web3mine team as they present a demo of their staking product and shed light on the future product roadmap"
+        "name": "CollectifDAO Deep Dive",
+        "description": "The CollectifDAO team takes you into a high level overview of their DeFi liquid staking platform."
       },
       {
         "start_date": "2023-11-15T07:30:00.000Z",
@@ -205,7 +205,7 @@
   "meeting_platform": "",
   "registration_link": "",
   "website_link": "",
-  "updatedAt": "2023-11-14T09:54:34.377Z",
+  "updatedAt": "2023-11-14T11:09:29.675Z",
   "co_hosts": [
     {
       "name": "Secured Finance",
