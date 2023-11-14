@@ -7,7 +7,7 @@
   "host": "Filecoin Foundation ",
   "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1699769537637_353.jpeg",
   "co_hosts": [],
-  "description": "​Connect with the Filecoin community in Istanbul and learn about the latest advancements from across the ecosystem from the Filecoin Foundation and Protocol Labs team. From AI and data provenance to the latest on FVM, join us Tuesday, November 14, starting at 9:00 AM.",
+  "description": "​Location:  Asuka (7th Floor) - Swissôtel - Connect with the Filecoin community in Istanbul and learn about the latest advancements from across the ecosystem from the Filecoin Foundation and Protocol Labs team. From AI and data provenance to the latest on FVM, join us Tuesday, November 14, starting at 9:00 AM.",
   "tags": [
     "Talks & Presentation"
   ],
@@ -16,7 +16,7 @@
   "access_type": "CUSTOM_REGISTRATION",
   "access_option": "OPEN",
   "format": "IN-PERSON",
-  "location": "Swissôtel The Bosphorus Istanbul - Asuka Ballroom (7th Floor)",
+  "location": "Asuka (7th Floor) - Swissôtel",
   "location_url": "https://maps.app.goo.gl/LiJyjtWSuAQdrJT97",
   "meeting_platform": "",
   "seat_count": "100-200",
@@ -180,6 +180,6 @@
     "custom_fields": []
   },
   "createdAt": "2023-11-07T14:50:33.663Z",
-  "updatedAt": "2023-11-13T15:14:00.507Z",
+  "updatedAt": "2023-11-14T11:35:15.884Z",
   "priority": 17
 }
