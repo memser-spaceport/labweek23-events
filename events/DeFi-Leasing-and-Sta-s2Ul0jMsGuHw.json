@@ -30,32 +30,32 @@
       {
         "start_date": "2023-11-15T06:00:00.000Z",
         "end_date": "2023-11-15T06:15:00.000Z",
-        "name": "Filecoin DeFi Context",
+        "name": "Filecoin DeFi Welcome and Intro",
         "description": "Setting the stage for DeFi's explosive growth on Filecoin (made possible by the Filecoin Virtual Machine)"
       },
       {
         "start_date": "2023-11-15T06:15:00.000Z",
-        "end_date": "2023-11-15T06:45:00.000Z",
-        "name": "web3mine Deep Dive",
-        "description": "Join the web3mine team as they present a demo of their staking product and shed light on the future product roadmap"
+        "end_date": "2023-11-15T06:35:00.000Z",
+        "name": "Interplanetary Consensus and Filecoin DeFi",
+        "description": "Longfei from the Filecoin DX team will share more about the future of IPC and how fund transfers from parent to child subnets can revolutionize Filecoin DeFi"
       },
       {
-        "start_date": "2023-11-15T06:45:00.000Z",
-        "end_date": "2023-11-15T07:05:00.000Z",
+        "start_date": "2023-11-15T06:35:00.000Z",
+        "end_date": "2023-11-15T06:50:00.000Z",
         "name": "Smart Contract Security (Zokyo)",
         "description": "Hartej, the founder of Zokyo will give a keynote presentation on the importance of smart contract audits and the role they play in securing DeFi ecosystems"
       },
       {
-        "start_date": "2023-11-15T07:00:00.000Z",
-        "end_date": "2023-11-15T07:30:00.000Z",
-        "name": "CollectifDAO Deep Dive",
-        "description": "The CollectifDAO team takes you into a high level overview of their DeFi liquid staking platform."
+        "start_date": "2023-11-15T06:50:00.000Z",
+        "end_date": "2023-11-15T07:20:00.000Z",
+        "name": "web3mine Deep Dive",
+        "description": "Join the web3mine team as they present a demo of their staking product and shed light on the future product roadmap"
       },
       {
-        "start_date": "2023-11-15T07:30:00.000Z",
+        "start_date": "2023-11-15T07:20:00.000Z",
         "end_date": "2023-11-15T07:50:00.000Z",
-        "name": "Interplanetary Consensus and Filecoin DeFi",
-        "description": "Longfei from the Filecoin DX team will share more about the future of IPC and how fund transfers from parent to child subnets can revolutionize Filecoin DeFi"
+        "name": "CollectifDAO Deep Dive",
+        "description": "The CollectifDAO team takes you into a high level overview of their DeFi liquid staking platform."
       },
       {
         "start_date": "2023-11-15T07:50:00.000Z",
@@ -205,7 +205,7 @@
   "meeting_platform": "",
   "registration_link": "",
   "website_link": "",
-  "updatedAt": "2023-11-14T11:13:13.725Z",
+  "updatedAt": "2023-11-14T11:26:20.460Z",
   "co_hosts": [
     {
       "name": "Secured Finance",
