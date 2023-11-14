@@ -72,14 +72,14 @@
       {
         "start_date": "2023-11-15T08:40:00.000Z",
         "end_date": "2023-11-15T09:00:00.000Z",
-        "name": "Filecoin Cryptoeconomics and DeFi",
-        "description": "The Starboard team will share more about their DeFi Leaderboard, as well as explore how Filecoin's tokenomics are affected by DeFi primitives."
+        "name": "pFIL, a new DeFi service from Starboard",
+        "description": "The Starboard team will share more about their upcoming release of pFIL"
       },
       {
         "start_date": "2023-11-15T09:00:00.000Z",
         "end_date": "2023-11-15T09:30:00.000Z",
         "name": "Networking Session",
-        "description": "All Filecoin DeFi Protocols in attendance will have an opportunity to set up space in the venue and chat with interested token holders and SPs in a conference-style setting. \n\nParticipants include: Secured Finance, Glif, CollectifDAO, stFIL, HashKing, web3mine, and more! "
+        "description": "All Filecoin DeFi Protocols in attendance will have an opportunity to set up space in the venue and chat with interested token holders and SPs in a conference-style setting. \n\nParticipants include: Secured Finance, CollectifDAO, stFIL, HashMix, web3mine, and more! "
       }
     ]
   },
@@ -205,7 +205,7 @@
   "meeting_platform": "",
   "registration_link": "",
   "website_link": "",
-  "updatedAt": "2023-11-12T14:45:13.289Z",
+  "updatedAt": "2023-11-14T09:54:34.377Z",
   "co_hosts": [
     {
       "name": "Secured Finance",
