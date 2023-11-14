@@ -11,7 +11,7 @@
       "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692885020237_929.webp"
     }
   ],
-  "description": "A framework and opportunity to evaluate the staking and leasing service providers building on the Filecoin Virtual Machine. Come hear from teams building DeFi solutions on Filecoin and other contributors to this quickly growing ecosystem. Presenters include: Secured Finance, Glif, Collectif DAO, stFIL, HashMix, Starboard, CryptoEconLab, and much more!",
+  "description": "Location:  Zurich (7th floor) - Swissôtel - A framework and opportunity to evaluate the staking and leasing service providers building on the Filecoin Virtual Machine. Come hear from teams building DeFi solutions on Filecoin and other contributors to this quickly growing ecosystem. Presenters include: Secured Finance, Glif, Collectif DAO, stFIL, HashMix, Starboard, CryptoEconLab, and much more!",
   "tags": [
     "Talks & Presentation",
     "Workshop",
@@ -22,7 +22,7 @@
   "access_type": "IN-HOUSE_REGISTRATION",
   "access_option": "OPEN",
   "format": "IN-PERSON",
-  "location": "Swissôtel-Zurich (7th floor)",
+  "location": "Zurich (7th floor) - Swissôtel",
   "location_url": "https://maps.app.goo.gl/JXnJXD5w6MpAtLNT9",
   "seat_count": "50-100",
   "agenda": {
@@ -205,7 +205,7 @@
   "meeting_platform": "",
   "registration_link": "",
   "website_link": "",
-  "updatedAt": "2023-11-14T11:09:29.675Z",
+  "updatedAt": "2023-11-14T11:13:13.725Z",
   "co_hosts": [
     {
       "name": "Secured Finance",
