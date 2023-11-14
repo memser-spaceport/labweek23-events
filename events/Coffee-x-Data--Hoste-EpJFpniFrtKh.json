@@ -12,7 +12,7 @@
   "host": "Open Source Observer",
   "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1698142056533_490.png",
   "co_hosts": [],
-  "description": "Join us for coffee to discuss new approaches for measuring and rewarding the impact of open source software contributions. We'll be sharing ideas and real world examples of how networks are combining onchain and off-chain data to power new forms of grantmaking. All are welcome.",
+  "description": "Location:  Marble Area (6th floor) - Swissôtel - Join us for coffee to discuss new approaches for measuring and rewarding the impact of open source software contributions. We'll be sharing ideas and real world examples of how networks are combining onchain and off-chain data to power new forms of grantmaking. All are welcome.",
   "tags": [
     "Social Event",
     "Coffee"
@@ -22,7 +22,7 @@
   "access_type": "IN-HOUSE_REGISTRATION",
   "access_option": "OPEN",
   "format": "IN-PERSON",
-  "location": "Swissôtel-Marble Area (6th floor)",
+  "location": "Marble Area (6th floor) - Swissôtel",
   "location_url": "https://maps.app.goo.gl/2195D76X9yQbNBpB9",
   "meeting_platform": "",
   "seat_count": "1-50",
@@ -140,5 +140,5 @@
     "custom_fields": []
   },
   "createdAt": "2023-10-24T10:07:56.131Z",
-  "updatedAt": "2023-11-01T04:34:16.122Z"
+  "updatedAt": "2023-11-14T11:28:23.400Z"
 }
