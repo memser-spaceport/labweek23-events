@@ -39,44 +39,50 @@
     "sessions": [
       {
         "start_date": "2023-11-16T06:00:00.000Z",
-        "end_date": "2023-11-16T06:30:00.000Z",
-        "name": "Vision of Web3 Scalability with IPC - Juan Benet",
-        "description": "Juan Benet, CEO of Protocol Labs, will discuss the scalability challenges faced by current decentralized systems, including blockchains, and explain why a significant increase in transaction capacity is necessary to realize the vision of Web3. The objective of Web3 is to replace centrally controlled applications with decentralized alternatives that are more user-friendly, resilient, open, and empower users to own their data and govern themselves, while providing transparency in data processing and decision-making. However, achieving this goal is currently unfeasible due to the insufficient scalability of blockchains, which lack the capacity to store data and compute power required for applications comparable to Twitter, Facebook, Figma, Gmail, and TikTok. Juan will illustrate why scalability is a crucial bottleneck for Web3 and highlight its potential to facilitate a transformative range of applications in the future."
+        "end_date": "2023-11-16T07:00:00.000Z",
+        "name": "WELCOME AND COFFEE",
+        "description": "Come and mingle with the best minds in the Web3 industry!"
       },
       {
-        "start_date": "2023-11-16T06:30:00.000Z",
-        "end_date": "2023-11-16T06:50:00.000Z",
-        "name": "InterPlanetary Consensus: Scaling Web3 for Devs",
-        "description": "Parth Pathak, General Manager of IPC, will describe how InterPlanetary Consensus (IPC) is a transformative blockchain stack that enables planetary-scale performance by introducing the pioneering approach of recursively scalable blockchains, with <1s transactions, infra-level compute workloads, and customizable runtime modules. This pioneering approach creates infinitely scalable networks, forming dynamic tree networks of recursive blockchains, or \"subnets.\" IPC's mission is to bridge the performance and usability gap between Web2 and Web3, powering a decentralized planetary-scale economy with unmatched speed and functionality, comparable to centralized systems."
-      },
-      {
-        "start_date": "2023-11-16T06:50:00.000Z",
-        "end_date": "2023-11-16T07:20:00.000Z",
-        "name": "A closer look at the IPC Stack",
-        "description": "Speaker: Raul Kripalani, Principal Engineer @ Protocol Labs. In this keynote, we're going to dive into the world of IPC, exploring where it's headed and the exciting possibilities for the future. We'll cover the basic tech that IPC is built on, look at current market trends, and discuss the existing tech limits. Together, we'll imagine the new kinds of applications that could become possible with advancements in IPC and talk about the essential research required to make this vision a reality. It’s all about understanding IPC better and getting ready for the amazing opportunities that lie ahead!"
-      },
-      {
-        "start_date": "2023-11-16T07:20:00.000Z",
+        "start_date": "2023-11-16T07:00:00.000Z",
         "end_date": "2023-11-16T07:30:00.000Z",
-        "name": "COFFEE BREAK"
+        "name": "Our Vision of Web3 Scalability with IPC",
+        "description": "Speaker: Juan Benet, CEO of Protocol Labs.\n\nIn this talk Juan will address the issue of scalability in decentralized systems. He will highlight the current limitations of blockchains in handling vast amounts of data and computational power, hindering the development of decentralized variants of major applications like Twitter, Facebook, and Gmail. By drawing attention to the vision and goals of Web3, which aims to provide user-friendly, resilient, and open alternatives to centralized applications, allowing users to own their data and participate in self-governance, Benet will underscore the urgent need for scalable solutions. He will explore how overcoming these scalability challenges is paramount to unlocking a revolutionary set of applications for the future, fully realizing the potential of Web3."
       },
       {
         "start_date": "2023-11-16T07:30:00.000Z",
-        "end_date": "2023-11-16T08:00:00.000Z",
-        "name": "IPC vs. other blockchain scaling solutions",
-        "description": "Speaker: Marko Vukolic, ConsensusLab Lead. \nIn this talk, we position IPC comparing to different scaling approaches found in literature, Bitcoin, Ethereum, and other smaller ecosystems. "
+        "end_date": "2023-11-16T07:50:00.000Z",
+        "name": "InterPlanetary Consensus: Scaling Web3 for Devs",
+        "description": "Speaker: Parth Pathak, General Manager of IPC\n\nThis talk will describe how InterPlanetary Consensus (IPC) is a transformative blockchain stack that enables planetary-scale performance by introducing the pioneering approach of recursively scalable blockchains, with <1s transactions, infra-level compute workloads, and customizable runtime modules. This pioneering approach creates infinitely scalable networks, forming dynamic tree networks of recursive blockchains, or \"subnets.\" IPC's mission is to bridge the performance and usability gap between Web2 and Web3, powering a decentralized planetary-scale economy with unmatched speed and functionality comparable to centralized systems."
       },
       {
-        "start_date": "2023-11-16T08:00:00.000Z",
+        "start_date": "2023-11-16T07:50:00.000Z",
+        "end_date": "2023-11-16T08:10:00.000Z",
+        "name": "A closer look at the IPC Stack",
+        "description": "Speaker: Raul Kirpalani, CTO of IPC.\n\nIn this keynote, we're going to dive into the world of IPC, exploring where it's headed and the exciting possibilities for the future. We'll cover the basic tech that IPC is built on, look at current market trends, and discuss the existing tech limits. Together, we'll imagine the new kinds of applications that could become possible with advancements in IPC and talk about the essential research required to make this vision a reality. It’s all about understanding IPC better and getting ready for the amazing opportunities that lie ahead!"
+      },
+      {
+        "start_date": "2023-11-16T08:10:00.000Z",
         "end_date": "2023-11-16T08:30:00.000Z",
-        "name": "IPC M2.5: Fendermint and Canopy launch ",
-        "description": "Speaker: Alfonso de la Rocha, Research Engineer @ Protocol Labs.\n\nIn this talk Alfonso will introduce M2.5, the latest version of IPC, featuring a new Rust-written stack. He will cover enhancements in subnet management and stack security, and unveil a new testnet to assist developers in deploying applications directly to IPC, leveraging its improved capabilities.\n"
+        "name": "COFFEE BREAK"
+      },
+      {
+        "start_date": "2023-11-16T08:30:00.000Z",
+        "end_date": "2023-11-16T09:00:00.000Z",
+        "name": "IPC compared to other blockchain scaling solution",
+        "description": "Speaker: Marko Vukolic, ConsensusLab Lead. \nIn this talk, we position IPC comparing to different scaling approaches found in literature, Bitcoin, Ethereum, and other smaller ecosystems. "
       },
       {
         "start_date": "2023-11-16T08:30:00.000Z",
         "end_date": "2023-11-16T09:00:00.000Z",
         "name": "Scaling Filecoin with IPC",
         "description": "Speaker: Juan Benet, CEO of Protocol Labs.\n\nJoin Juan Bennett as he explores innovative solutions for scaling the Filecoin network. Learn how integrating IPC architecture can transform Filecoin, enabling the creation of regional subnets to significantly improve consensus times and overall performance. This talk is a must-attend for those looking to optimize their Filecoin experience and understand the future of decentralized storage.\n"
+      },
+      {
+        "start_date": "2023-11-16T09:00:00.000Z",
+        "end_date": "2023-11-16T09:30:00.000Z",
+        "name": "IPC M2.5: Fendermint and Mycelium Testnet launch",
+        "description": "Speaker: Alfonso de la Rocha, Research Engineer @ Protocol Labs.\n\nIn this talk, Alfonso will introduce M2.5, the latest version of IPC, featuring a new Rust-written stack. He will cover enhancements in subnet management and stack security and unveil a new testnet to assist developers in deploying applications directly to IPC, leveraging its improved capabilities. Also, we will announce Myceilum, a new Filecoin L2 for high-performance, high-volume web3 applications.\n"
       },
       {
         "start_date": "2023-11-16T09:00:00.000Z",
@@ -242,7 +248,7 @@
   "meeting_platform": "",
   "registration_link": "https://istanbul.ipc.space",
   "website_link": "https://istanbul.ipc.space",
-  "updatedAt": "2023-11-14T13:21:26.422Z",
+  "updatedAt": "2023-11-14T13:39:21.384Z",
   "co_hosts": [
     {
       "name": "Outercore",
