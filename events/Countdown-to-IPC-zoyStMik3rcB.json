@@ -1,7 +1,7 @@
 {
   "event_contact_name": "Jorge Soares",
   "event_contact_email": "jorge@protocol.ai",
-  "event_name": "Breakthrough Scaling with InterPlanetary Consensus",
+  "event_name": "IPC: Breakthrough Scaling with InterPlanetary Consensus",
   "host": "ConsensusLab",
   "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1695058480014_889.png",
   "co_host": [
@@ -284,7 +284,7 @@
   "meeting_platform": "",
   "registration_link": "https://istanbul.ipc.space",
   "website_link": "https://istanbul.ipc.space",
-  "updatedAt": "2023-11-14T14:24:45.619Z",
+  "updatedAt": "2023-11-14T14:26:32.265Z",
   "co_hosts": [
     {
       "name": "Outercore",
