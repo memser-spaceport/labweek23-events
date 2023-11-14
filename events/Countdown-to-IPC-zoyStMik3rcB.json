@@ -22,7 +22,7 @@
       "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692885020237_929.webp"
     }
   ],
-  "description": "Location:  5th Floor - Fuji 1 - Swissôtel - InterPlanetary Consensus (IPC) is a transformative blockchain architecture that enables planetary-scale performance by introducing the innovative concept of blockchains within blockchains. This pioneering approach creates infinitely scalable networks, forming dynamic tree networks of recursive blockchains, or \"subnets.\" IPC's mission is to bridge the performance and usability gap between Web2 and Web3, powering a decentralized planetary-scale economy with unmatched speed and functionality comparable to centralized systems. \n\nFor additional details, please visit: https://istanbul.ipc.space/",
+  "description": "Location:  5th Floor - Fuji 1 - Swissôtel.                                          InterPlanetary Consensus (IPC) is a transformative blockchain architecture that enables planetary-scale performance by introducing the innovative concept of blockchains within blockchains. This pioneering approach creates infinitely scalable networks, forming dynamic tree networks of recursive blockchains, or \"subnets.\" IPC's mission is to bridge the performance and usability gap between Web2 and Web3, powering a decentralized planetary-scale economy with unmatched speed and functionality comparable to centralized systems. \n\nFor additional details, please visit: https://istanbul.ipc.space/",
   "tags": [
     "Talks & Presentation",
     "Workshop"
@@ -284,7 +284,7 @@
   "meeting_platform": "",
   "registration_link": "https://istanbul.ipc.space",
   "website_link": "https://istanbul.ipc.space",
-  "updatedAt": "2023-11-14T14:12:06.430Z",
+  "updatedAt": "2023-11-14T14:24:13.834Z",
   "co_hosts": [
     {
       "name": "Outercore",
