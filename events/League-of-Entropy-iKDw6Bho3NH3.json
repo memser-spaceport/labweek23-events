@@ -6,7 +6,7 @@
   "host": "drand",
   "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692884609971_622.png",
   "co_host": [],
-  "description": "The League of Entropy together with drand clients will be meet to discuss latest developments, future plans and the immediate roadmap of the team. If you're interested joining, please get in touch by joining our Slack workspace, which can be found at https://drand.love.",
+  "description": "Location:  Bern (5th floor) - Swissôtel - The League of Entropy together with drand clients will be meet to discuss latest developments, future plans and the immediate roadmap of the team. If you're interested joining, please get in touch by joining our Slack workspace, which can be found at https://drand.love.",
   "tags": [
     "Workshop"
   ],
@@ -15,7 +15,7 @@
   "access_type": "CUSTOM_REGISTRATION",
   "access_option": "OPEN",
   "format": "IN-PERSON",
-  "location": "Swissôtel-Bern (5th floor)",
+  "location": "Bern (5th floor) - Swissôtel",
   "location_url": "https://maps.app.goo.gl/JXnJXD5w6MpAtLNT9",
   "seat_count": "1-50",
   "website_link": "",
@@ -173,8 +173,9 @@
     "custom_fields": []
   },
   "meeting_platform": "",
-  "updatedAt": "2023-11-07T15:18:58.805Z",
+  "updatedAt": "2023-11-14T11:10:11.911Z",
   "co_hosts": [],
   "secondary_contacts": [],
-  "registration_link": "https://lu.ma/loe-summit-2023"
+  "registration_link": "https://lu.ma/loe-summit-2023",
+  "priority": 14
 }
