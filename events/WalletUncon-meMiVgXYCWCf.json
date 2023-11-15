@@ -15,7 +15,7 @@
       "name": "Casa"
     }
   ],
-  "description": "WalletUncon is a one day unconference on wallets, standards, usability, and more. Come learn from some foundational overview talks, and then split into groups for discussion. \n\nPlease note: the ticket registration on Luma is an application process.",
+  "description": "<p class=\"editor-paragraph\" dir=\"ltr\"><span style=\"white-space: pre-wrap;\">WalletUncon is a one day unconference on wallets, standards, usability, and more. Come learn from some foundational overview talks, and then split into groups for discussion. </span><br><br><b><strong class=\"editor-text-bold\" style=\"white-space: pre-wrap;\">Please note:</strong></b><span style=\"white-space: pre-wrap;\">  The ticket registration on Luma is an application process.</span></p>",
   "tags": [
     "Workshop",
     "Talks & Presentation"
@@ -134,7 +134,7 @@
   },
   "event_logo": "",
   "meeting_platform": "",
-  "updatedAt": "2023-10-31T15:27:33.245Z",
+  "updatedAt": "2023-11-15T08:58:10.028Z",
   "co_hosts": [
     {
       "name": "EF"
