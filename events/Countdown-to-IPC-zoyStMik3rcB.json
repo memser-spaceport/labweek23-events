@@ -22,7 +22,7 @@
       "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692885020237_929.webp"
     }
   ],
-  "description": "InterPlanetary Consensus (IPC) is a transformative blockchain architecture that enables planetary-scale performance by introducing the innovative concept of blockchains within blockchains. This pioneering approach creates infinitely scalable networks, forming dynamic tree networks of recursive blockchains, or \"subnets.\" IPC's mission is to bridge the performance and usability gap between Web2 and Web3, powering a decentralized planetary-scale economy with unmatched speed and functionality comparable to centralized systems. \n\nFor additional details, please visit: https://istanbul.ipc.space.   Location:  5th Floor - Fuji 1 - Swissôtel.",
+  "description": "<p class=\"editor-paragraph\" dir=\"ltr\"><span style=\"white-space: pre-wrap;\">InterPlanetary Consensus (IPC) is a transformative blockchain architecture that enables planetary-scale performance by introducing the innovative concept of blockchains within blockchains. This pioneering approach creates infinitely scalable networks, forming dynamic tree networks of recursive blockchains, or \"subnets.\" IPC's mission is to bridge the performance and usability gap between Web2 and Web3, powering a decentralized planetary-scale economy with unmatched speed and functionality comparable to centralized systems. For additional details, please visit: </span><a href=\"https://istanbul.ipc.space.\" class=\"editor-link\"><span style=\"white-space: pre-wrap;\">https://istanbul.ipc.space.</span></a><span style=\"white-space: pre-wrap;\"> </span><br><br><b><strong class=\"editor-text-bold\" style=\"white-space: pre-wrap;\">Location: 5th Floor - Fuji 1 - Swissôtel</strong></b></p>",
   "tags": [
     "Talks & Presentation",
     "Workshop"
@@ -284,7 +284,7 @@
   "meeting_platform": "",
   "registration_link": "https://istanbul.ipc.space",
   "website_link": "https://istanbul.ipc.space",
-  "updatedAt": "2023-11-14T14:26:32.265Z",
+  "updatedAt": "2023-11-15T08:45:08.581Z",
   "co_hosts": [
     {
       "name": "Outercore",
