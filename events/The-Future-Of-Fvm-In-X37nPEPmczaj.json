@@ -3,7 +3,7 @@
   "event_contact_email": "brianlau@sinso.io",
   "secondary_contacts": [],
   "event_name": "The Future Of Filecoin In Web3 Carnival Night",
-  "event_logo": "",
+  "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1700048868415_656.png",
   "host": "Brian",
   "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1700040863120_909.png",
   "co_hosts": [],
@@ -130,6 +130,6 @@
     "custom_fields": []
   },
   "createdAt": "2023-11-10T19:54:20.911Z",
-  "updatedAt": "2023-11-15T11:23:22.768Z",
+  "updatedAt": "2023-11-15T11:47:54.929Z",
   "priority": 11
 }
