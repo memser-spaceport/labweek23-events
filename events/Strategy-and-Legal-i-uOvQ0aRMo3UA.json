@@ -12,7 +12,7 @@
   "host": "Istanbul Blockchain Women",
   "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1698419975265_334.jpeg",
   "co_hosts": [],
-  "description": "Location:  Marble Area (6th floor) - Swissôtel - Attention all strategy and legal professionals in the web3 space! Join us at the PL Lounge (5th floor, Swissôtel) for an engaging and coffee-fueled meetup. This causal meetup is designed to be informal, offering you the perfect environment to unwind, connect, and discuss challenges in the rapidly evolving wold of web3.",
+  "description": "<p class=\"editor-paragraph\" dir=\"ltr\"><b><strong class=\"editor-text-bold\" style=\"white-space: pre-wrap;\">Location: Marble Area (6th floor) - Swissôtel</strong></b></p><p class=\"editor-paragraph\" dir=\"ltr\"><span style=\"white-space: pre-wrap;\">Attention all strategy and legal professionals in the web3 space! Join us at the PL Lounge (5th floor, Swissôtel) for an engaging and coffee-fueled meetup. This causal meetup is designed to be informal, offering you the perfect environment to unwind, connect, and discuss challenges in the rapidly evolving wold of web3.</span></p>",
   "tags": [
     "Social Event"
   ],
@@ -144,5 +144,5 @@
     "custom_fields": []
   },
   "createdAt": "2023-10-27T15:30:36.789Z",
-  "updatedAt": "2023-11-14T11:30:01.981Z"
+  "updatedAt": "2023-11-15T08:43:15.395Z"
 }
