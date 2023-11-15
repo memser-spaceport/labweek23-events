@@ -1,0 +1,39 @@
+{
+  "event_contact_name": "Orpheus Lummis",
+  "event_contact_email": "o@orpheuslummis.info",
+  "secondary_contacts": [
+    {
+      "name": "Manuela Garcia Toro",
+      "email": "manugarciaat@gmail.com"
+    }
+  ],
+  "event_name": "Web3 x AI Risk at Devconnect",
+  "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1700058279831_452.png",
+  "host": "Horizon Events",
+  "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1700058307745_793.png",
+  "co_hosts": [],
+  "description": "<p class=\"editor-paragraph\" dir=\"ltr\" style=\"text-align: start;\"><span style=\"white-space: pre-wrap;\">​A participatory discussion focused on exploring and critically examining emergent risks at the intersection of AI and Web3 technologies.</span></p><p class=\"editor-paragraph\" dir=\"ltr\" style=\"text-align: start;\"><span style=\"white-space: pre-wrap;\">​Join this two-hour discussion event, Thursday, Nov 16, at the Istanbul Congress Center. Registration is required to receive the specific location and to ensure a focused environment.</span></p><p class=\"editor-paragraph\" dir=\"ltr\"><br></p><p class=\"editor-paragraph\" dir=\"ltr\" style=\"text-align: start;\"><span style=\"white-space: pre-wrap;\">​</span><b><strong class=\"editor-text-bold\" style=\"white-space: pre-wrap;\">Tentative Discussion Topics</strong></b></p><p class=\"editor-paragraph\" dir=\"ltr\" style=\"text-align: start;\"><span style=\"white-space: pre-wrap;\">​These are suggestions of topics to discuss. We welcome relevant topics at the intersection.</span></p><p class=\"editor-paragraph\" dir=\"ltr\"><br></p><p class=\"editor-paragraph\" dir=\"ltr\" style=\"text-align: start;\"><span style=\"white-space: pre-wrap;\">​</span><b><strong class=\"editor-text-bold\" style=\"white-space: pre-wrap;\">AI x Cryptography:</strong></b><span style=\"white-space: pre-wrap;\">&nbsp;Advanced vulnerability identification in cryptographic systems, automated cryptanalysis research, …</span></p><p class=\"editor-paragraph\" dir=\"ltr\"><br></p><p class=\"editor-paragraph\" dir=\"ltr\" style=\"text-align: start;\"><span style=\"white-space: pre-wrap;\">​</span><b><strong class=\"editor-text-bold\" style=\"white-space: pre-wrap;\">AI x Cybersecurity:</strong></b><span style=\"white-space: pre-wrap;\">&nbsp;AI-driven cyberattacks, complex adaptive threats, exploitation of subtle vulnerabilities, scale and speed, evading detection systems, …</span></p><p class=\"editor-paragraph\" dir=\"ltr\"><br></p><p class=\"editor-paragraph\" dir=\"ltr\" style=\"text-align: start;\"><span style=\"white-space: pre-wrap;\">​</span><b><strong class=\"editor-text-bold\" style=\"white-space: pre-wrap;\">AI x Web3 governance:</strong></b><span style=\"white-space: pre-wrap;\">&nbsp;Influence of AI integrated in governance, social engineering, sybil-resistant identity schemes, …</span></p><p class=\"editor-paragraph\" dir=\"ltr\"><br></p><p class=\"editor-paragraph\" dir=\"ltr\" style=\"text-align: start;\"><span style=\"white-space: pre-wrap;\">​</span><b><strong class=\"editor-text-bold\" style=\"white-space: pre-wrap;\">AI x Privacy:</strong></b><span style=\"white-space: pre-wrap;\">&nbsp;Exploitation of the public datasets of ‘decentralized interactions’, facilitation of global and targeted surveillance, …</span></p><p class=\"editor-paragraph\" dir=\"ltr\"><br></p><p class=\"editor-paragraph\" dir=\"ltr\" style=\"text-align: start;\"><span style=\"white-space: pre-wrap;\">​</span><b><strong class=\"editor-text-bold\" style=\"white-space: pre-wrap;\">AI x Web3 systemic risk:</strong></b><span style=\"white-space: pre-wrap;\">&nbsp;Cascading failure of interdependent systems, rapid and uncontrolled spread of AI technologies in decentralized networks, emergent behaviors from interaction of AI and decentralized systems, AI-driven market manipulation, …</span></p><p class=\"editor-paragraph\" dir=\"ltr\"><br></p><p class=\"editor-paragraph\" dir=\"ltr\" style=\"text-align: start;\"><span style=\"white-space: pre-wrap;\">​</span><b><strong class=\"editor-text-bold\" style=\"white-space: pre-wrap;\">Decentralized AI alignment</strong></b><span style=\"white-space: pre-wrap;\">: Decentralized autonomous AI entities, ensuring these AI systems do what ‘we’ want them to do instead of doing unintended harmful behaviors, monitoring and auditing decentralized AI, social choice theory, alignment of DAO-controlled systems, …</span></p><p class=\"editor-paragraph\" dir=\"ltr\"><br></p><p class=\"editor-paragraph\" dir=\"ltr\" style=\"text-align: start;\"><span style=\"white-space: pre-wrap;\">​</span><b><strong class=\"editor-text-bold\" style=\"white-space: pre-wrap;\">Uncontrollability:</strong></b><span style=\"white-space: pre-wrap;\">&nbsp;Humans and AI systems leveraging web3 systems for diffusion, botnet control, ransomware, …</span></p><p class=\"editor-paragraph\" dir=\"ltr\"><br></p><p class=\"editor-paragraph\" dir=\"ltr\" style=\"text-align: start;\"><span style=\"white-space: pre-wrap;\">​</span><i><em class=\"editor-text-italic\" style=\"white-space: pre-wrap;\">&lt;Bring your own topic!&gt;</em></i></p><p class=\"editor-paragraph\" dir=\"ltr\"><br></p><p class=\"editor-paragraph\" dir=\"ltr\" style=\"text-align: start;\"><span style=\"white-space: pre-wrap;\">​This Discussion Event is designed to be a participatory and dynamic discussion, where your reflections will contribute to a deeper collective understanding. :)</span></p>",
+  "tags": [
+    "Talks & Presentation",
+    "Social Event"
+  ],
+  "start_date": "2023-11-16T15:00:00.000Z",
+  "end_date": "2023-11-16T17:00:00.000Z",
+  "access_type": "CUSTOM_REGISTRATION",
+  "access_option": "OPEN",
+  "format": "IN-PERSON",
+  "location": "ICC-Istanbul Congress Center",
+  "location_url": "https://maps.app.goo.gl/aL69VLvdGtW4iu9b8",
+  "meeting_platform": "",
+  "seat_count": "1-50",
+  "registration_link": "https://lu.ma/vh9hrgme",
+  "website_link": "https://lu.ma/vh9hrgme",
+  "agenda": {
+    "sessions": []
+  },
+  "sponsors": [],
+  "is_featured": false,
+  "conference": "labweek-23",
+  "createdAt": "2023-11-15T14:28:18.452Z",
+  "updatedAt": "2023-11-15T14:28:18.452Z"
+}
