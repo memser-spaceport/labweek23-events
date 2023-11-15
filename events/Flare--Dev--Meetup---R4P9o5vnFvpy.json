@@ -7,7 +7,7 @@
   "host": "Flare Network",
   "host_logo": "",
   "co_hosts": [],
-  "description": "Discover Flare, the Blockchain for Data, at DevConnect Week.\n\n🗓️ Date: November 16th, 2023\n🕗 Time: 8PM - 11PM\n📍 Location: Istanbul\n\nCalling all Developers. Get ready for a night of code and connections with Flare at a secret location in Istanbul - free flowing drinks supplied.\n\nNumbers are limited so the location will only be revealed to approved registrants in your confirmation email.\n\nCome and meet the Flare team and connect with fellow devs shaping the future of blockchain #FlareMeetup\n\nAbout Flare:\n- Flare is the blockchain for data, an EVM smart contract platform that expands the utility of blockchain. \n- With decentralized oracles built into the structure of the network, Flare is the only smart contract platform optimized for decentralized data acquisition - price & time series data, blockchain event & state data, and web2 API data.\n- Flare’s mission is to provide developers with decentralized access, at scale, and for minimal cost, to all of the data and data proofs they need to build new blockchain use cases that are more relevant to more people\n- We call this “data as a public good”",
+  "description": "<p class=\"editor-paragraph\" dir=\"ltr\"><span style=\"white-space: pre-wrap;\">Discover Flare, the Blockchain for Data, at DevConnect Week. </span><br><br><span style=\"white-space: pre-wrap;\">🗓️ Date: November 16th, 2023 </span><br><span style=\"white-space: pre-wrap;\">🕗 Time: 8PM - 11PM </span><br><span style=\"white-space: pre-wrap;\">📍 Location: Istanbul </span><br><br><span style=\"white-space: pre-wrap;\">Calling all Developers. Get ready for a night of code and connections with Flare at a secret location in Istanbul - free flowing drinks supplied. Numbers are limited so the location will only be revealed to approved registrants in your confirmation email. </span><br><br><span style=\"white-space: pre-wrap;\">Come and meet the Flare team and connect with fellow devs shaping the future of blockchain #FlareMeetup </span><br><br><span style=\"white-space: pre-wrap;\">About Flare: - Flare is the blockchain for data, an EVM smart contract platform that expands the utility of blockchain.&nbsp; - With decentralized oracles built into the structure of the network, Flare is the only smart contract platform optimized for decentralized data acquisition - price &amp; time series data, blockchain event &amp; state data, and web2 API data. - Flare’s mission is to provide developers with decentralized access, at scale, and for minimal cost, to all of the data and data proofs they need to build new blockchain use cases that are more relevant to more people - We call this “data as a public good”</span></p>",
   "tags": [
     "Social Event",
     "networking",
@@ -119,5 +119,5 @@
     "custom_fields": []
   },
   "createdAt": "2023-10-13T05:10:18.833Z",
-  "updatedAt": "2023-11-07T15:06:00.045Z"
+  "updatedAt": "2023-11-15T08:56:31.568Z"
 }
