@@ -24,7 +24,7 @@
   "host": "Spaceport",
   "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1695870100074_844.png",
   "co_hosts": [],
-  "description": "Location:  Marble Area (6th floor) - Swissôtel - Join us for a casual gathering with various PL teams to explore the topic of ZK proofs. Whether you have a technical background or simply curious to learn more, this is an opportunity to step back, relax, and savor a Turkish coffee at the PL Lounge while engaging in insightful discussions",
+  "description": "<p class=\"editor-paragraph\" dir=\"ltr\"><b><strong class=\"editor-text-bold\" style=\"white-space: pre-wrap;\">Location: Marble Area (6th floor) - Swissôtel</strong></b></p><p class=\"editor-paragraph\" dir=\"ltr\"><span style=\"white-space: pre-wrap;\">Join us for a casual gathering with various PL teams to explore the topic of ZK proofs. Whether you have a technical background or simply curious to learn more, this is an opportunity to step back, relax, and savor a Turkish coffee at the PL Lounge while engaging in insightful discussions</span></p>",
   "tags": [
     "Social Event"
   ],
@@ -142,6 +142,6 @@
     "custom_fields": []
   },
   "createdAt": "2023-09-28T02:05:42.188Z",
-  "updatedAt": "2023-11-14T11:21:03.689Z",
+  "updatedAt": "2023-11-15T08:42:44.723Z",
   "location_url": "https://maps.app.goo.gl/QUPRAuTjiCsz9YgT8"
 }
