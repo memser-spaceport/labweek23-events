@@ -15,7 +15,7 @@
       "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1695288004516_381.png"
     }
   ],
-  "description": "​Decentralized RPC services are one of the most important core components of the entire Web3 ecosystem and it’s decentralization. \n​We gather together industry leaders, researchers, developers, and enthusiasts on the Devconnect & Labweek in Istanbul 🇹🇷 \n\n​Talks from the top web3 infrastructure projects, Q&A, networking, drinks & snacks. Join us to get an in-depth look into the latest research & tech insights. \n\n​Save the date, come share your expertise and be part of the dialogue that shapes the future!",
+  "description": "<p class=\"editor-paragraph\" dir=\"ltr\"><span style=\"white-space: pre-wrap;\">​Decentralized RPC services are one of the most important core components of the entire Web3 ecosystem and it’s decentralization. ​We gather together industry leaders, researchers, developers, and enthusiasts on the Devconnect &amp; Labweek in Istanbul 🇹🇷 ​Talks from the top web3 infrastructure projects, Q&amp;A, networking, drinks &amp; snacks. </span><br><br><span style=\"white-space: pre-wrap;\">Join us to get an in-depth look into the latest research &amp; tech insights. ​Save the date, come share your expertise and be part of the dialogue that shapes the future!</span></p>",
   "tags": [
     "Talks & Presentation"
   ],
@@ -68,7 +68,7 @@
       "https://discordapp.com/channels/899652135552167957/1065052179746000936"
     ]
   },
-  "updatedAt": "2023-10-31T15:33:57.651Z",
+  "updatedAt": "2023-11-15T08:36:23.486Z",
   "co_hosts": [
     {
       "name": "Drpc.org",
@@ -79,5 +79,6 @@
       "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1695288004516_381.png"
     }
   ],
-  "secondary_contacts": []
+  "secondary_contacts": [],
+  "priority": 13
 }
