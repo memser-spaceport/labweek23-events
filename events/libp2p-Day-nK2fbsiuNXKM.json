@@ -11,7 +11,7 @@
       "logo": ""
     }
   ],
-  "description": "<p class=\"editor-paragraph\" dir=\"ltr\"><b><strong class=\"editor-text-bold\" style=\"white-space: pre-wrap;\">Location</strong></b><span style=\"white-space: pre-wrap;\">: Neuchatel (7th floor) - Swissôtel - A day long track to discuss libp2p developments from the ecosystem, libp2p + privacy, new work on the DHT from ProbeLab, and more! </span></p><p class=\"editor-paragraph\" dir=\"ltr\"><span style=\"white-space: pre-wrap;\">libp2p Day 2023 is a watering hole for the libp2p community. This is not a Protocol Labs dominated event (in fact, many of the PL maintainers will be unable to attend). The organizers hope the libp2p community feels empowered to share anything ranging from recent wins, updates, current challenges, deep dives, demos, etc. This can range from a quick lightning talk, show-and-tell demo, to a more thorough deep dive. Anything is welcome - there is no prescribed formula here!</span></p><p class=\"editor-paragraph\" dir=\"ltr\"><br></p><p class=\"editor-paragraph\" dir=\"ltr\"><span style=\"white-space: pre-wrap;\">For more information on the day's schedule and other info, please see: </span><a href=\"https://github.com/libp2p/specs/discussions/591\" class=\"editor-link\"><span style=\"white-space: pre-wrap;\">https://github.com/libp2p/specs/discussions/591</span></a></p>",
+  "description": "<p class=\"editor-paragraph\" dir=\"ltr\"><b><strong class=\"editor-text-bold\" style=\"white-space: pre-wrap;\">Location</strong></b><span style=\"white-space: pre-wrap;\">: </span><b><strong class=\"editor-text-bold\" style=\"white-space: pre-wrap;\">Neuchatel (7th floor) - Swissôtel </strong></b><br><br><span style=\"white-space: pre-wrap;\">A day long track to discuss libp2p developments from the ecosystem, libp2p + privacy, new work on the DHT from ProbeLab, and more! </span></p><p class=\"editor-paragraph\" dir=\"ltr\"><span style=\"white-space: pre-wrap;\">libp2p Day 2023 is a watering hole for the libp2p community. This is not a Protocol Labs dominated event (in fact, many of the PL maintainers will be unable to attend). The organizers hope the libp2p community feels empowered to share anything ranging from recent wins, updates, current challenges, deep dives, demos, etc. This can range from a quick lightning talk, show-and-tell demo, to a more thorough deep dive. Anything is welcome - there is no prescribed formula here!</span></p><p class=\"editor-paragraph\" dir=\"ltr\"><span style=\"white-space: pre-wrap;\">For more information on the day's schedule and other info, please see: </span><a href=\"https://github.com/libp2p/specs/discussions/591\" class=\"editor-link\"><span style=\"white-space: pre-wrap;\">https://github.com/libp2p/specs/discussions/591</span></a></p>",
   "tags": [
     "Talks & Presentation"
   ],
@@ -244,7 +244,7 @@
   },
   "registration_link": "",
   "website_link": "",
-  "updatedAt": "2023-11-15T08:28:25.570Z",
+  "updatedAt": "2023-11-15T08:33:17.966Z",
   "co_hosts": [
     {
       "name": "js-libp2p",
