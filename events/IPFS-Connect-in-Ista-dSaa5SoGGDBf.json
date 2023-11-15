@@ -6,7 +6,7 @@
   "host": "Fission",
   "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1692884893331_137.webp",
   "co_host": [],
-  "description": "Join us for a full day of workshops, lightning talks, and demos showcasing technology and tools in the IPFS ecosystem. Prep for the ETHGlobal Hackathon by learning about all the tools and SDKs in the IPFS + Filecoin universe that builders can use to add decentralized files and data to their dapps. Schedule and location details will be revealed soon. This event is organized by Fission and sponsored by Protocol Labs.\nSwissôtel - Neuchatel, Geneve & Luzern, Zurich, & Asuka Ballroom7th floor)",
+  "description": "<p class=\"editor-paragraph\" dir=\"ltr\"><span style=\"white-space: pre-wrap;\">Join us for a full day of workshops, lightning talks, and demos showcasing technology and tools in the IPFS ecosystem. Prep for the ETHGlobal Hackathon by learning about all the tools and SDKs in the IPFS + Filecoin universe that builders can use to add decentralized files and data to their dapps. Schedule and location details will be revealed soon. This event is organized by Fission and sponsored by Protocol Labs. </span></p><p class=\"editor-paragraph\" dir=\"ltr\"><b><strong class=\"editor-text-bold\" style=\"white-space: pre-wrap;\">Swissôtel - Neuchatel, Geneve &amp; Luzern, Zurich, &amp; Asuka Ballroom 7th floor</strong></b></p>",
   "tags": [
     "Talks & Presentation",
     "Workshop"
@@ -46,7 +46,7 @@
   },
   "meeting_platform": "",
   "registration_link": "https://lu.ma/ipfs-connect-istanbul",
-  "updatedAt": "2023-11-14T11:06:36.197Z",
+  "updatedAt": "2023-11-15T08:44:23.287Z",
   "co_hosts": [],
   "secondary_contacts": [],
   "priority": 17
