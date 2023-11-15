@@ -12,7 +12,7 @@
       "logo": ""
     }
   ],
-  "description": "​BASS Lite is our offshoot speaker series of the Blockchain Applications Stanford Summit (https://bass.sites.stanford.edu/) - gathering our global community of developers, engineers, and researchers to connect and discuss blockchain's latest topics in depth.\n\nBASS Lite Istanbul will feature leaders from Flashbots, Eigenlayer, and Succinct Labs sharing developments on MEV, Restaking, and ZK. Join us to connect with other builders and thought leaders!\n\n​Co-organized by Flashbots, Eigenlayer, Succinct Labs, Stanford Blockchain, LongHash Ventures, & Blockchain Builders Fund.",
+  "description": "<p class=\"editor-paragraph\" dir=\"ltr\"><span style=\"white-space: pre-wrap;\">​BASS Lite is our offshoot speaker series of the Blockchain Applications Stanford Summit (https://bass.sites.stanford.edu/) - gathering our global community of developers, engineers, and researchers to connect and discuss blockchain's latest topics in depth. </span><br><br><span style=\"white-space: pre-wrap;\">BASS Lite Istanbul will feature leaders from Flashbots, Eigenlayer, and Succinct Labs sharing developments on MEV, Restaking, and ZK. Join us to connect with other builders and thought leaders! ​Co-organized by Flashbots, Eigenlayer, Succinct Labs, Stanford Blockchain, LongHash Ventures, &amp; Blockchain Builders Fund.</span></p>",
   "tags": [
     "Talks & Presentation"
   ],
@@ -111,5 +111,6 @@
     "custom_fields": []
   },
   "createdAt": "2023-10-31T19:23:22.510Z",
-  "updatedAt": "2023-10-31T19:23:22.510Z"
+  "updatedAt": "2023-11-15T08:48:24.447Z",
+  "priority": 13
 }
