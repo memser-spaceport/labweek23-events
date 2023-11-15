@@ -7,7 +7,7 @@
   "host": "Malak Albaw",
   "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1698491859266_361.jpeg",
   "co_hosts": [],
-  "description": "Join us for an exciting day of dApp innovation as we host the \"Blank dApp Challenge\". This event is a unique opportunity for dApp enthusiasts, creators, and entrepreneurs to pitch their innovative dApp project ideas and win a valuable consultation session with Blank worth $500.\n\nBlank is a Web3 digital agency based in Europe. We partner with companies that want to change things and push the world forward by embracing technology. Together, we turn ideas into the best user experiences.\n\nIn addition to the competition, the event features an Innovation Showcase where you can explore the latest digital products built by Blank.",
+  "description": "<p class=\"editor-paragraph\" dir=\"ltr\"><span style=\"white-space: pre-wrap;\">Join us for an exciting day of dApp innovation as we host the \"Blank dApp Challenge\". This event is a unique opportunity for dApp enthusiasts, creators, and entrepreneurs to pitch their innovative dApp project ideas and win a valuable consultation session with Blank worth $500. </span><br><br><span style=\"white-space: pre-wrap;\">Blank is a Web3 digital agency based in Europe. We partner with companies that want to change things and push the world forward by embracing technology. Together, we turn ideas into the best user experiences. In addition to the competition, the event features an Innovation Showcase where you can explore the latest digital products built by Blank.</span></p>",
   "tags": [
     "Social Event",
     "Pitch competition for builders",
@@ -138,5 +138,5 @@
     "custom_fields": []
   },
   "createdAt": "2023-10-28T11:27:28.337Z",
-  "updatedAt": "2023-10-31T15:47:15.879Z"
+  "updatedAt": "2023-11-15T08:52:23.380Z"
 }
