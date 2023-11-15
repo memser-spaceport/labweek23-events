@@ -6,7 +6,7 @@
   "host": "Ingonyama",
   "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1695364930912_292.png",
   "co_host": [],
-  "description": "<p class=\"editor-paragraph\" dir=\"ltr\"><span style=\"white-space: pre-wrap;\">​Location: Asuka (7th floor) - Swissôtel - The day-long event will focus on ZK infrastructure engineering and innovation.</span></p><p class=\"editor-paragraph\" dir=\"ltr\"><br></p><p class=\"editor-paragraph\" dir=\"ltr\"><span style=\"white-space: pre-wrap;\">Expected attendees include our partners from AMD, Intel, and AWS, as well as top notch speakers from the space.</span></p>",
+  "description": "<p class=\"editor-paragraph\" dir=\"ltr\"><b><strong class=\"editor-text-bold\" style=\"white-space: pre-wrap;\">​Location: Asuka (7th floor) - Swissôtel </strong></b><br><br><span style=\"white-space: pre-wrap;\">The day-long event will focus on ZK infrastructure engineering and innovation.</span></p><p class=\"editor-paragraph\" dir=\"ltr\"><span style=\"white-space: pre-wrap;\">Expected attendees include our partners from AMD, Intel, and AWS, as well as top notch speakers from the space.</span></p>",
   "tags": [
     "Talks & Presentation",
     "Social Event",
@@ -51,7 +51,7 @@
     ],
     "custom_fields": []
   },
-  "updatedAt": "2023-11-15T08:06:55.958Z",
+  "updatedAt": "2023-11-15T08:29:28.234Z",
   "co_hosts": [],
   "secondary_contacts": [],
   "priority": 19
